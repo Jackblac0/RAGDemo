@@ -1,51 +1,51 @@
 Voyager 2
 
-Alkuperäinen nimi	Mariner-12
-Voyager avaruusluotain
-Voyager avaruusluotain
-Organisaatio	Nasa
-COSPAR ID	1977-076A
-Tehtävätyyppi	Planeettatutkimus
-Ohilennot	Jupiter, Saturnus, Uranus, Neptunus
-Laukaisu	20. elokuuta 1977
+Original name 	Mariner-12
+Voyager space probe
+Voyager space probe
+Organization 	NASA
+COSPAR ID 	1977-076A
+Mission type 	Planetary exploration
+Flybys of 	Jupiter, Saturn, Uranus, Neptune
+Launched 	August 20, 1977
 Cape Canaveral AFS LC-41
-Laukaisualus	Titan III E Centaur
-Massa	722 kg
-Teho	470 W 30 V DC (1977)
-Aiheesta muualla
-Virallinen sivusto
+Titan III E Centaur launch vehicle	
+Mass 	722 kg
+Power 	470 W 30 V DC (1977)
+On another topic
+Official website
 
 Voyager 2
 
-Voyagerin kaaviokuva.
-Voyager 2 on Voyager-avaruusohjelman avaruusluotain, joka laukaistiin vuonna 1977. Alun perin luotaimen piti olla Mariner-avaruusohjelman Mariner 12. Voyager 2 on identtinen Voyager 1 -luotaimen (eli "Mariner 11") kanssa. Voyager 2 seurasi kuitenkin hieman erilaista rataa ohittaessaan Saturnuksen, eikä tehnyt Titanin ohilentoa kuten Voyager 1, vaan käytti hyväkseen Saturnuksen painovoiman linkovaikutusta matkatakseen Uranukselle ja Neptunukselle. Siitä tuli ensimmäinen ja tähän asti ainoa avaruusluotain, joka on vieraillut noiden planeettojen läheisyydessä, ja ensimmäinen avaruusluotain, joka on tehnyt "Suuren planetaarisen kiertomatkan" (Planetary Grand Tour) vieraillessaan Jupiterin, Saturnuksen, Uranuksen ja Neptunuksen luona. Tämän mahdollisti noiden neljän planeetan harvinainen keskinäinen asema, joka toistuu vain joka 175. vuosi[1].
+Voyager schematic.
+Voyager 2 is a space probe of the Voyager space program, launched in 1977. Originally intended to be Mariner 12 of the Mariner space program, Voyager 2 is identical to Voyager 1 (or "Mariner 11"). However, Voyager 2 followed a slightly different trajectory as it passed Saturn, and instead of making a flyby of Titan like Voyager 1, it used Saturn's gravitational pull to travel to Uranus and Neptune. It became the first and so far only space probe to visit the vicinity of those planets, and the first space probe to complete a "Planetary Grand Tour" by visiting Jupiter, Saturn, Uranus, and Neptune. This was made possible by the rare relative positions of those four planets, which only occur every 175 years.[1]
 
-Voyager 2:n lento
+Voyager 2 flight
 
-Voyager 2:n laukaisu.
-Laukaisu
-20. elokuuta, 1977 – laukaisu Cape Canaveral Air Force Stationin laukaisukompleksi 41:stä, Floridasta Titan IIIE Centaur kantoraketilla.
+Voyager 2 launch.
+Launch
+August 20, 1977 – Launch from Cape Canaveral Air Force Station Launch Complex 41, Florida, aboard a Titan IIIE Centaur launch vehicle.
 Jupiter
-9. heinäkuuta, 1979 – Jupiterin ohilento.
-Saturnus
-25. elokuuta, 1981 – Saturnuksen ohilento.
+July 9, 1979 – Jupiter flyby.
+Saturn
+August 25, 1981 – Saturn flyby.
 
-Saturnus Voyager 2:n kuvaamana.
-Ollessaan Saturnuksen takana (Maasta katsottuna) Voyager 2 suoritti tutkamittauksia Saturnuksen ulommasta kaasukehästä selvittääkseen sen lämpötilan ja tiheyden vaihteluita. Voyager 2 havaitsi, että kaasukehän yläosissa (70 millibaaria) Saturnuksen lämpötila oli 70 kelviniä, kun taas mittauksien alimmilla tasoilla (1200 millibaaria) lämpötila nousi 143 kelviniin. Pohjoisnavan havaittiin olevan 10 kelviniä kylmempi, vaikka tämä saattaa olla kausivaihteluista johtuvaa.
+Saturn as imaged by Voyager 2.
+While behind Saturn (as seen from Earth), Voyager 2 took radar measurements of Saturn's outer atmosphere to determine variations in its temperature and density. Voyager 2 found that at the top of the atmosphere (70 millibars), Saturn's temperature was 70 kelvin, while at the lowest levels of the measurements (1200 millibars), the temperature rose to 143 kelvin. The north pole was found to be 10 kelvin colder, although this may be due to seasonal variations.
 
 Uranus
-24. tammikuuta, 1986 – Uranuksen ohilento.
-Voyager 2 havaitsi 10 ennestään tuntematonta kuuta, tutki Uranuksen ainutlaatuista kaasukehää (Uranuksen akselin kaltevuus on 97,77 °) ja sen rengasjärjestelmää.
+January 24, 1986 – Uranus flyby.
+Voyager 2 discovered 10 previously unknown moons, studied Uranus' unique atmosphere (Uranus' axial tilt is 97.77°) and its ring system.
 
-Neptunus
-26. elokuuta, 1989 – Neptunuksen ohilento.
+Neptune
+August 26, 1989 – Neptune flyby.
 
-Neptunus Voyager 2:n kuvaamana.
-Koska Neptunus oli viimeinen planeetoista joilla Voyager 2 voisi vierailla, niin päätettiin tehdä Triton-kuun ohilento läheltä välittämättä sen vaikutuksesta luotaimen radan muuttumiseen, samoin kuin Voyager 1 teki tutkiessaan Saturnusta ja sen kuuta Titania.
+Neptune as imaged by Voyager 2.
+Since Neptune was the last of the planets that Voyager 2 could visit, it was decided to make a close flyby of the moon Triton without worrying about its effect on the spacecraft's orbit, just as Voyager 1 did when studying Saturn and its moon Titan.
 
-Luotain havaitsi myös Suuren tumman pilkun ("Great Dark Spot") Neptunuksen eteläisellä pallonpuoliskolla, mikä muistutti Jupiterin vastaavaa ulkonäöltään ja kooltaan. Pilkku näytti muuttuvan luotaimen ohittaessa sen. Pilkun ei ajatella olevan myrsky kuten Jupiterissa, vaan reikä Neptunuksen kaasukehässä aivan kuten maapallolla on reikä otsonikehässä. Hubble-avaruusteleskooppi kuvasi vuonna 1994 Neptunusta, eikä kuvissa nähty enää pilkkua, vaikka samankaltainen pilkku oli ilmestynyt planeetan pohjoiselle pallonpuoliskolle.
+The probe also observed a "Great Dark Spot" in Neptune's southern hemisphere, which resembled Jupiter's in appearance and size. The spot appeared to change as the probe passed over it. The spot is not thought to be a storm like Jupiter's, but a hole in Neptune's atmosphere, much like Earth's ozone hole. The Hubble Space Telescope imaged Neptune in 1994, and the spot was no longer visible, although a similar spot had appeared in the planet's northern hemisphere.
 
-Aurinkokunnasta poistuminen
-Koska luotaimen planeettatutkimusvaihe on ohi, se pyrkii nyt hankkimaan Nasaa kiinnostavaa tietoa siitä, missä Aurinkokunta loppuu (katso heliosfääri) ja millaiset olosuhteet vallitsevat Aurinkokunnan ulkopuolisessa tähtienvälisessä avaruudessa.
+Leaving the Solar System
+Since the probe's planetary exploration phase is over, it is now aiming to obtain information of interest to NASA about where the Solar System ends (see heliosphere) and what conditions exist in interstellar space outside the Solar System.
 
-30.12.2005 luotain oli noin 78,4 AU:n päässä maasta ja loittonee aurinkokunnasta noin 3,3 AU:a vuodessa (noin 15,6 km/s). Luotain on jo lähes poistunut aurinkokunnasta. Voyager 2:n oletetaan jatkavan tietojen lähettämistä aina 2020-luvulle [2].
+As of December 30, 2005, the probe was approximately 78.4 AU from Earth and is moving away from the Solar System at a rate of approximately 3.3 AU per year (approximately 15.6 km/s). The probe has almost left the Solar System. Voyager 2 is expected to continue sending data into the 2020s [2].

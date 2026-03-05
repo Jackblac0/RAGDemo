@@ -1,214 +1,214 @@
-Kuu
+Moon
 
-Löytäminen
-Löytöaika	esihistoriallinen
-Kiertoradan ominaisuudet
-Planeetta	Maa
-Keskietäisyys	384 400[1][2] km
-Eksentrisyys	0,0549[3]
-Kiertoaika	27,3217 d (27 d 7 h 43 min)[3][1]
-Inklinaatio	5,145°[3]
-Fyysiset ominaisuudet
-Päiväntasaajan halkaisija	3 474,2[3] km
-Massa	7,346 × 1022[3] kg
-0,0123[3][1] Maan massaa
-Keskitiheys	3,344[3] g/cm3
-Painovoima pinnalla	1,62[3] m/s2
-Pakonopeus pinnalla	2,38 km/s[3] km/s
-Pyörähdysaika	27,3217 d[1]
-Albedo	0,12[3]
-Pinnan lämpötila	alin: 40 K (−233 °C)[4]
-keski: 250 K (−23 °C)
-ylin: 396 K (123 °C)[4]
-Kaasukehän ominaisuudet
-Kaasunpaine	3 × 10−10 Pa[3]
-Koostumus
-Pinnan koostumus[2]
-– happea
-– piitä
-– magnesiumia
-– rautaa
-– kalsiumia
-– alumiinia
-– kromia
-– titaania
-– mangaania	Osuus
+Discovery
+Discovery period 	prehistoric
+Orbital characteristics
+Planet 	Earth
+Average distance 	384,400[1][2] km
+Eccentricity 	0.0549[3]
+Orbital period 	27.3217 d (27 d 7 h 43 min)[3][1]
+Inclination 	5.145°[3]
+Physical properties
+Equatorial diameter 	3,474.2[3] km
+Mass 	7.346 × 1022[3] kg
+0.0123[3][1] Earth's mass
+Average density 	3.344[3] g/cm3
+Gravity at surface 	1.62[3] m/s2
+Escape velocity on surface 	2.38 km/s[3] km/s
+Rotation period 	27.3217 d[1]
+Albedo 	0.12[3]
+Lowest surface temperature 	: 40 K (−233 °C)[4]
+average: 250 K (−23 °C)
+highest: 396 K (123 °C)[4]
+Gas ring properties
+Gas pressure 	3 × 10−10 Pa[3]
+Composition
+Surface composition[2]
+– oxygen
+– silicon
+– magnesium
+– iron
+– calcium
+– aluminum
+– chrome
+– titanium
+– manganese 	Share
 [2]
-43 %
-20 %
-19 %
-10 %
-3 %
-3 %
-0,42 %
-0,18 %
-0,12 %
-Kuu (symboli: ☾) on Maan ainoa luonnollinen kiertolainen ja aurinkokunnan viidenneksi suurin kuu. Sen säde on 27 prosenttia Maan säteestä, mikä tekee siitä aurinkokunnan suhteessa emoplaneettaansa suurimman kuun. Kuun massa on 1,23 prosenttia ja tiheys 61 prosenttia Maan vastaavasta. Se kiertää Maata keskimäärin noin 384 400 kilometrin etäisyydellä.
+43%
+20%
+19%
+10%
+3%
+3%
+0.42%
+0.18%
+0.12%
+The Moon (symbol: ☾ ) is the Earth's only natural satellite and the fifth-largest moon in the Solar System. Its radius is 27 percent that of Earth, making it the largest moon in the Solar System relative to its parent planet. The Moon has a mass of 1.23 percent and a density of 61 percent that of Earth. It orbits Earth at an average distance of about 384,400 kilometers.
 
-Kuu on vuorovesilukkiutunut Maan kanssa. Tämä tarkoittaa, että Kuusta on kääntynyt Maahan päin aina sama puoli, jolloin niin sanottu Kuun etäpuoli jää aina näkymättömiin. Kuu heijastaa Auringon valoa, ja on taivaan toiseksi kirkkain kohde Auringon jälkeen. Noin kuukaudessa Kuu käy läpi säännölliset vaiheet uusikuusta puolikuun kautta täysikuuhun. Erityisesti tämä on tehnyt Kuusta tärkeän kulttuurillisen ikonin, jolla on ollut suuri vaikutus eri kansojen ajanmittaukseen, mytologiaan ja taiteeseen.
+The Moon is tidally locked with the Earth. This means that the same side of the Moon always faces the Earth, so the so-called far side of the Moon is always invisible. The Moon reflects the light of the Sun, and is the second brightest object in the sky after the Sun. Over the course of about a month, the Moon goes through regular phases from new moon to crescent moon to full moon. This has made the Moon an important cultural icon, having had a major influence on the timekeeping, mythology, and art of different peoples.
 
-Kuun uskotaan syntyneen samoihin aikoihin kuin Maankin, lähes 4,5 miljardia vuotta sitten. Synnystä on esitetty useita erilaisia teorioita, joista suosituin on törmäyshypoteesi. Törmäyshypoteesin mukaan nuoreen Maahan törmäsi noin planeetta Marsin kokoinen kohde, protoplaneetta Theia. Törmäyksessä Maan kiertoradalle jääneestä materiaalista muodostui Kuu.
+The Moon is believed to have formed around the same time as the Earth, almost 4.5 billion years ago. Several different theories have been put forward about its formation, the most popular of which is the impact hypothesis. According to the impact hypothesis, the young Earth was hit by an object about the size of the planet Mars, the protoplanet Theia. The material left in Earth's orbit during the impact formed the Moon.
 
-Ensimmäinen miehittämätön luotain laskeutui Kuun pinnalle vuonna 1959. Miehitetty Apollo 8 kiersi Kuun vuonna 1968. Kuu on ainoa vieras taivaankappale, jonka pinnalla ihminen on kävellyt. Vuosina 1969–1972 Kuuhun laskeutui kuusi miehitettyä avaruuslentoa, joista ensimmäinen oli Apollo 11 heinäkuussa 1969. Vuoden 1972 jälkeen Kuuhun on lähetetty vain tieteellistä työtä tekeviä miehittämättömiä luotaimia.
+The first unmanned probe landed on the Moon in 1959. The manned Apollo 8 orbited the Moon in 1968. The Moon is the only other celestial body on which humans have walked. Between 1969 and 1972, six manned space missions landed on the Moon, the first of which was Apollo 11 in July 1969. Since 1972, only unmanned probes have been sent to the Moon for scientific purposes.
 
-Historia
-Synty
-Pääartikkeli: Kuun synty
+History
+Birth
+Main article: Birth of the Moon
 
-Vallitsevan teorian mukaan noin Marsin kokoinen protoplaneetta törmäsi Maahan. Törmäyksestä singonnut aines synnytti kaasurenkaan, josta tiivistyi ja kasautui Kuu.
-Useimmat tieteilijät ovat nykyisin sitä mieltä, että Kuu syntyi 4,5 miljardia vuotta sitten Theia-nimisen protoplaneetan törmättyä Maahan. Tämä teoria syrjäytti kilpailevat teoriat 1980-luvulla. Teorian todisteena ovat Apollo-astronauttien Kuusta keräämät kivet, joista on löytynyt materiaalia toisesta planeetasta.[5]
+The prevailing theory is that a protoplanet about the size of Mars collided with Earth. The material ejected from the collision created a ring of gas that condensed and formed the Moon.
+Most scientists now believe that the Moon was formed 4.5 billion years ago when a protoplanet called Theia collided with Earth. This theory superseded competing theories in the 1980s. Evidence for this theory comes from rocks collected from the Moon by Apollo astronauts, which have been found to contain material from another planet.[5]
 
-Theian törmättyä Maahan kummankin kappaleen ytimet sulautuivat yhteen. Osa ympäröivästä vaippa-aineksesta sinkoutui ulos ja höyrystyi. Siitä muodostui Maata kiertävä irtoaines- ja pölypilvi, joka tiivistyi Kuuksi ehkä satojen miljoonien vuosien kuluessa.[6] Kuun kiertorata alkoi loitontua, koska Kuun Maahan aiheuttama vuorovesipullistuma veti Kuulle lisää vauhtia ja siirsi energiaa Maan pyörimisestä Kuuhun.[7]
+When Theia collided with Earth, the cores of the two bodies merged. Some of the surrounding mantle material was ejected and vaporized, forming a cloud of debris and dust orbiting Earth that condensed into the Moon over perhaps hundreds of millions of years.[6] The Moon's orbit began to recede as the tidal bulge of the Moon on Earth accelerated the Moon and transferred energy from the Earth's rotation to the Moon.[7]
 
-Muotoutuminen
-Kuun syntymän jälkeen sen pintaa pommitti lähes puolen miljardin vuoden ajan aurinkokunnan planeettojen syntymästä ylitse jäänyt aines. Törmäysten energia synnytti Kuuhun yli 480 kilometrin syvyisen sulan magmameren. Sen pinnalle kohosi alumiinista, piistä, hapesta ja kalsiumista muodostuneista kiteistä eli plagioklaasista muodostunutta kuonaa. Sen jäähtyessä anortosiitiksi Kuu sai ensimmäisen kuorensa, josta Kuun ikivanhat ylänköalueet ovat muodostuneet. Pommitusten lakattua kuori jäähtyi lähes kokonaan ja muuttui liikkumattomaksi noin 50 miljoonassa vuodessa. Kuoreen kertyi lisää ainetta altapäin, ja paikoittain sen puhkaisivat magmavirrat, jotka synnyttivät ylänköalueille tulivuoria.[8]
+Formation
+After the Moon was formed, its surface was bombarded for almost half a billion years by material left over from the formation of the planets of the solar system. The energy of the collisions created a molten magma ocean over 480 kilometers deep on the Moon. Slag, made of crystals of aluminum, silicon, oxygen, and calcium, or plagioclase, rose to its surface. As it cooled to anorthosite, the Moon acquired its first crust, from which the ancient highlands of the Moon have formed. After the bombardment ceased, the crust cooled almost completely and became immobile in about 50 million years. More material accumulated in the crust from below, and in places it was ruptured by magma flows that created volcanoes in the highlands.[8]
 
-Raskaimpien alkuaineiden painuessa alaspäin Kuulle muodostui rauta-nikkeliydin. Samalla sen pinnalle syntyi laajoja altaita suurissa törmäyksissä 500 miljoonan vuoden aikana 4,5–4 miljardia vuotta sitten. Noin 100 kilometrin läpimittaiset asteroidit synnyttivät Australen, Nubiumin, Tranquilitatiksen ja Focunditatiksen altaat. Uudemmat törmäykset hävittivät vanhempien törmäyksien jälkiä, joita saattaa kuitenkin vielä heikosti erottua. Yksi suurimmista törmäyksistä synnytti Kuun etelänavan ympärille valtavan Aitkenin altaan, joka on aurinkokunnan suurin kuoppa. Kaikki suuret altaat olivat syntyneet viimeistään 3,9 miljardia vuotta sitten, kun aurinkokunnassa vaeltaneet suuret kappaleet olivat jo ehtyneet. Altaat täyttyivät seuraavien satojen miljoonien vuosien aikana Kuun sisuksista nousseesta sulasta laavasta. Koska Kuun kääntöpuolella kuori on paksumpaa, sinne ei tummia laava-altaita eli ”meriä” juurikaan syntynyt. Laavan purkautuminen päättyi 3,5 miljardia vuotta sitten. Sen jälkeen ovat vielä syntyneet jotkin nykyisin parhaiten näkyvistä kraattereista, kuten Kopernikus vähän yli miljardi vuotta sitten ja Tycho hieman yli 100 miljoonaa vuotta sitten. Geologisesti Kuussa ei enää tapahdu paljoakaan, sillä vulkaaninen toiminta on lakannut ja törmäyksiäkin tapahtuu paljon aikaisempaa harvemmin.[9]
+As the heavier elements sank downward, the Moon formed an iron-nickel core. At the same time, large basins were created on its surface in large impacts over a period of 500 million years, 4.5–4 billion years ago. Asteroids with a diameter of about 100 kilometers created the Australe, Nubium, Tranquilitatis, and Focunditatis basins. More recent impacts erased traces of older impacts, which may still be faintly visible. One of the largest impacts created the enormous Aitken Basin around the Moon's south pole, which is the largest crater in the solar system. All the large basins were created no later than 3.9 billion years ago, when the large bodies that had roamed the solar system had already been exhausted. The basins were filled over the next hundreds of millions of years by molten lava rising from the Moon's interior. Because the crust on the far side of the Moon is thicker, there were hardly any dark lava basins or "seas" formed there. Lava eruptions ceased 3.5 billion years ago. Some of the craters that are best seen today have been formed since then, such as Copernicus a little over a billion years ago and Tycho a little over 100 million years ago. Geologically, not much is happening on the Moon anymore, as volcanic activity has ceased and impacts occur much less frequently than before.[9]
 
-Fyysiset ominaisuudet
-Koostumus
+Physical properties
+Composition
 
-Kuun rakenne. Sisällä rautaydin, joka on osittain kiinteä, osittain sulanut. Sen ulkopuolella vaippa ja kuori.
-Kuun mineraalit ovat samoja kuin Maassa.[10] Kuussa on merkittävä määrä jäätynyttä vettä,[11] joka on todennäköisesti peräisin aurinkotuulesta.[12]
+The structure of the moon. Inside is an iron core that is partly solid, partly molten. Outside is a mantle and crust.
+The Moon's minerals are similar to those on Earth.[10] The Moon contains a significant amount of frozen water,[11] which is likely derived from the solar wind.[12]
 
-Kuun kuoren paksuus on 50–65 kilometriä, kääntöpuolella noin 13 kilometriä enemmän kuin Maahan näkyvällä puolella. Kuun pinnan vaaleat alueet ovat koostumukseltaan Maan vaipan kaltaisia.[10] Ne koostuvat lähinnä anortosiitista ja breksiasta.[13] Tummat alueet, ”meret”, koostuvat basaltista, joka nousi pinnalle valtavissa törmäyksissä yli kolme miljardia vuotta sitten. Sen jälkeen Kuun sisus on ollut melko rauhallinen.[10]
+The Moon's crust is 50–65 kilometers thick, about 13 kilometers thicker on the far side than on the side visible to Earth. The light areas of the Moon's surface are similar in composition to the Earth's mantle.[10] They are composed primarily of anorthosite and breccia.[13] The dark areas, known as "seas", are composed of basalt that was brought to the surface in massive impacts over three billion years ago. Since then, the Moon's interior has been relatively quiet.[10]
 
-Kuoren alapuolella on vaippa, joka ulottuu yli 1 000 kilometrin syvyyteen. Vaippa koostuu lähinnä silikaattimineraaleista, kuten Maankin vaippa. Metalleja Kuun vaipassa on vähemmän kuin Maassa.[10]
+Beneath the crust is a mantle that extends to a depth of over 1,000 kilometers. The mantle is composed mainly of silicate minerals, like the Earth's mantle. The Moon's mantle is less metal-rich than the Earth's.[10]
 
-Kuun massa 7,346 × 1022 kg on 1,2 prosenttia ja keskitiheys 3,344 g/cm3 on 61 prosenttia Maan vastaavasta.[3] Kuun matala tiheys merkinnee sitä, että sen rautaydin on pieni, arviolta noin 450 kilometriä halkaisijaltaan. Ydin on osittain sulanut. Sen massa on noin 4 prosenttia Kuun kokonaismassasta. Raudan vähäisyydestä johtuen Kuun magneettikenttä on heikko.[10]
+The Moon's mass of 7.346 × 1022 kg is 1.2 percent and its average density of 3.344 g/cm3 is 61 percent that of Earth.[3] The Moon's low density suggests that its iron core is small, estimated to be about 450 kilometers in diameter. The core is partially molten. Its mass is about 4 percent of the Moon's total mass. Due to the small amount of iron, the Moon's magnetic field is weak.[10]
 
-Kuulla ei ole varsinaista kaasukehää. Sen vuoksi pinnan lämpötilat vaihtelevat Kuun vuorokauden aikana +130 ja −200 celsiusasteen välillä.[14][15]
+The Moon has no real atmosphere, so surface temperatures fluctuate between +130 and −200 degrees Celsius during the lunar day.[14][15]
 
-Pinnanmuodot
-Pääartikkeli: Luettelo Kuun pinnanmuodoista
+Surface shapes
+Main article: List of landforms of the Moon
 
-Erityyppisiä kraattereita, joista kuvassa suurimpana Daedalus.
-Kuun maisemaa hallitsevat tummat basalttimeret ja vaaleat ylängöt. Meret muodostavat pinta-alasta 17 prosenttia. Ylängöt ovat rosoisia ja täynnä törmäyskraattereita, joita on enemmän eteläisellä pallonpuoliskolla kuin pohjoisella.[13]
+Different types of craters, the largest of which in the picture is Daedalus.
+The lunar landscape is dominated by dark basaltic seas and pale highlands. The seas make up 17% of the lunar surface. The highlands are rugged and dotted with impact craters, more numerous in the southern hemisphere than in the northern.[13]
 
-Kuun kraatterit ovat syntyneet asteroidien, komeettojen ja meteoriittien törmäyksissä.[13] Ne jaetaan neljään luokkaan: vallitasankoihin, rengasvuoriin, varsinaisiin kraattereihin sekä pikkukraattereihin tai kraatterikuoppiin. Vallitasangot ovat halkaisijaltaan 60–300 kilometriä. Niitä ympäröi mahtava reunavalli, joka voi olla jo sortunut tai myöhempien meteoriittien murskaama. Vallitasangon pohjalla on usein kraattereita, rotkoja ja kukkuloita. Rengasvuoret ovat halkaisijaltaan noin 20–100 kilometriä. Niitä ympäröi tasainen ja selvästi erottuva reunavalli, jonka sisärinteet laskeutuvat tavallisesti portaittain. Kraatterin pohjalla kohoaa keskusvuori. Varsinaiset kraatterit ovat halkaisijaltaan 5–60 kilometriä. Ne ovat useimmiten pyöreitä ja selväpiirteisiä, eikä niiden sisärinteissä ole portaittaista rakennetta tai pohjalla keskusvuorta. Pikkukraatterit tai kraatterikuopat ovat halkaisijaltaan alle 5 kilometriä.[16] Kuun suurin törmäyskraatteri Aitkenin allas on halkaisijaltaan 2 500 kilometriä.[17] Kuun eteläpuolella erottuu hyvin Tycho, josta lähtee sädemäisesti kirkkaita viiruja.[18]
+Lunar craters are formed by the impact of asteroids, comets, and meteorites.[13] They are divided into four categories: dike plains, ring mountains, actual craters, and small craters or crater pits. Dike plains are 60–300 kilometers in diameter. They are surrounded by a massive rim that may have collapsed or been crushed by later meteorites. The base of the dike plain often contains craters, ravines, and hills. Ring mountains are about 20–100 kilometers in diameter. They are surrounded by a flat and distinct rim, the inner slopes of which usually descend in steps. At the bottom of the crater rises a central mountain. Actual craters are 5–60 kilometers in diameter. They are most often round and well-defined, and their inner slopes do not have a stepped structure or a central mountain at the base. Small craters, or crater pits, are less than 5 kilometers (3.1 mi) in diameter.[16] The largest impact crater on the Moon, Aitken Basin, is 2,500 kilometers (1,600 mi) in diameter.[17] Tycho is prominent on the southern side of the Moon, with bright streaks radiating from it.[18]
 
-Kuun onkaloissa on isoja luolia ja ehkä myös luolaverkostoja. Syvissä luolissa ihmiset voisivat olla turvassa haitalliselta avaruussäteilyltä.[19]
-
-
-Kuun vuoria. Montes Apenninus -vuoriston pohjoisosaa 105 kilometrin korkeudesta kuvattuna.
-Kuun vuoret ovat muotoutuneet törmäyksissä. Useimmat niistä reunustavat jättimäisiä, laavan täyttämiä törmäysaltaita. Näkyvän puolen korkeimmat huiput ovat Montes Apenninus -vuoristossa. Korkein vuori on Mons Huygens, joka kohoaa yli 5 kilometriä tasangon yläpuolelle.[20] Kuun vuoret ovat laakeampia kuin Maan vuoret. Niiden rinteiden kaltevuus on yleensä alle 20 astetta, harvoin yli 30 astetta. Yksittäiset vuoret ovat reunavallien jäännöksiä, ja niitä on ainoastaan merissä ja valtamerissä.[16]
-
-Kraatterilaaksoja on syntynyt, kun meteoriitti on hajonnut sirpaleiksi ja aiheuttanut pitkän yhtenäisen päällekkäisten törmäysaltaiden jonon. Laavalaaksot ovat romahtaneita laavaonkaloita tai -kanavia. Murtumalaaksot ovat syntyneet luultavasti Kuun kuorikerrosten murtuessa.[16]
-
-Kanavan kaltaiset laaksouomat eli rillit voivat olla satojen kilometrien pituisia. Eniten niitä on merialueilla. Mutkaiset uomat ovat luultavasti muinaisia laavatunneleita tai -kanavia ja suoremmat uomat halkeamia.[21]
-
-Vallit ovat pitkittäisiä harjannemuodostumia, joiden toinen rinne on toista korkeampi. Niiden pituus, korkeus ja muoto vaihtelevat suuresti. Vallit ovat mahdollisesti syntyneet Kuun kuoren siirroksissa, joita ovat aiheuttaneet törmäykset ja laavapurkaukset.[22]
-
-Useimmat Kuun muodostumien nykyisistä nimistä antoi italialainen astronomi Giovanni Riccioli, joka myös kehitti vuonna 1651 periaatteen Kuun pinnanmuotojen nimeämiselle. Kraatterit on nimetty kuuluisien tiedemiesten ja filosofien mukaan, meret säiden ja mielentilojen mukaan ja vuoret ja vuoristot Maan vuoristojen mukaan.[16] Alla olevassa kuvassa on Kuun näkyvän puolen kohteita nimineen ja niiden englanninkielisine käännöksineen. Sinisellä meret, keltaisella kraatterit.
+The lunar cavities contain large caves and perhaps even cave networks. Deep caves could provide humans with protection from harmful cosmic radiation.[19]
 
 
-Suhde Maahan
-Etäisyys ja rata
+Mountains on the Moon. The northern part of the Montes Apenninus mountain range photographed from an altitude of 105 kilometers.
+The mountains of the Moon are formed by impacts. Most of them border giant lava-filled impact basins. The highest peaks on the visible side are in the Montes Apenninus range. The highest mountain is Mons Huygens, which rises more than 5 kilometers above the plain.[20] The mountains of the Moon are flatter than those of Earth. Their slopes are generally less than 20 degrees, rarely more than 30 degrees. Individual mountains are remnants of rim dykes, and are found only in seas and oceans.[16]
 
-Kuun asema Maahan nähden, sen kiertorata ja keskimääräinen etäisyys Maasta. Kuu on todellisuudessa paljon kauempana Maasta kuin kuvassa.
-Kuun etäisyys Maasta vaihtelee noin 357 000 kilometristä noin 406 000 kilometriin.[23] Tämän vuoksi myös Kuun näennäinen halkaisija vaihtelee 29,4:stä 33,5:een kaariminuuttiin.[24] Kuu etääntyy Maasta noin 3,8 senttimetriä vuodessa.[25]
+Crater valleys are formed when a meteorite breaks into fragments, creating a long, continuous line of overlapping impact basins. Lava valleys are collapsed lava cavities or channels. Fracture valleys are probably formed when the Moon's crustal layers break apart.[16]
 
-Kuu kiertää Maata ellipsin muotoisella radalla, joka on 5,1 astetta kallellaan Maan ratatason suhteen. Kuun ratataso kiertyy ja tekee yhden kierroksen 18,6 vuodessa. Myös Kuun deklinaation vaihteluväli muuttuu samassa jaksossa. Lisäksi Kuun radan Maata lähinnä olevan pisteen suunta tekee 8,8 vuodessa täyden kierroksen.[26]
+Channel-like valleys, or rilles, can be hundreds of kilometers long. They are most common in marine areas. The winding channels are probably ancient lava tunnels or channels, and the straighter channels are fissures.[21]
 
+Dikes are long ridges with one side higher than the other. They vary greatly in length, height, and shape. They may have been formed by faults in the lunar crust caused by impacts and lava eruptions.[22]
 
-Kuu kiertää Maan samassa ajassa, kun Maa kiertää oman akselinsa ympäri noin 29,5 kertaa.
-Kuun kiertoaikaa Maan ympäri kutsutaan kuukaudeksi. Kuun kiertoaikaa ympäröivään tähtiavaruuteen verrattuna kutsutaan sideeriseksi kuukaudeksi. Sen pituus on 27 vuorokautta 7 tuntia 43 minuuttia. Kuun vaiheisiin liittyvää, esimerkiksi kahden täydenkuun välistä aikaa kutsutaan synodiseksi kuukaudeksi. Sen pituus on 29 vuorokautta 12 tuntia 44 minuuttia. Näiden kuukausien pituuksien ero johtuu siitä, että Maa kiertää Aurinkoa.[27]
-
-Kuun pyörähdysaika oman akselinsa ympäri on lukkiutunut samaksi kuin sen kiertoaika Maan ympäri. Siten Kuusta on aina sama puoli Maata kohti. Lukkiutuminen johtuu Maan aiheuttamasta massajakauman epäsymmetrisyydestä ja vääntömomentista, joka hidasti Kuun pyörimistä ja lopulta kulutti sen lähes kokonaan. Myös Kuu hidastaa koko ajan Maan pyörimistä.[25]
-
-Koska Kuusta on aina sama puoli kääntyneenä Maata kohti, vasta avaruusluotaimilla pystyttiin kartoittamaan kokonaan Maahan kaukoputkella suoraan näkymätön Kuun kääntöpuoli. Näkyvä osa Kuun pinnasta on kuitenkin hiukan enemmän kuin puolet (noin 59 %), sillä pääasiassa Kuun radan muodon vuoksi se näennäisesti hieman huojahtelee puolelta toiselle.[28]
+Most of the current names for lunar features were given by the Italian astronomer Giovanni Riccioli, who also developed the principle of naming lunar features in 1651. Craters are named after famous scientists and philosophers, seas after weather and moods, and mountains and ranges after mountain ranges on Earth.[16] The image below shows features on the far side of the Moon with their names and their English translations. Blue represents seas, yellow represents craters.
 
 
-Maa ja Kuu samassa mittakaavassa.
-Vaiheet
-Pääartikkeli: Kuun vaiheet
-Katso myös: Taulukko Kuun vaiheista
+Relationship with the Earth
+Distance and track
 
-Kuun vaiheet pohjoisella pallonpuoliskolla touko-kesäkuussa 2005. Uusikuu 8. toukokuuta ja 6. kesäkuuta, täysikuu 23. toukokuuta.
-Kuun vaihe viittaa siihen, kuinka suuri osa Kuun Maahan näkyvästä puoliskosta on Auringon valaisemaa ja kuinka suuri osa siitä on Aurinkoon nähden Kuun takapuolella auringonsäteiden ulottumattomissa. Vaihe riippuu kiertoradallaan etenevän Kuun sijainnista Maahan ja Aurinkoon nähden. Uudenkuun aikaan Maata kohti kääntynyt puolisko ei heijasta valoa, koska Kuu ja Aurinko ovat taivaalla melkein samalla suunnalla. Kuunkierron ensimmäisessä neljänneksessä puoliskon länsipuoli on valaistuna (Maassa pohjoiselta pallonpuoliskolta nähtynä Kuun oikea puoli). Täydenkuun aikaan koko Maata kohti kääntynyt puolisko on valaistuna. Viimeisessä neljänneksessä Kuun puoliskon itäpuoli on valaistuna (Maassa pohjoiselta pallonpuoliskolta nähtynä Kuun vasen puoli). Valon ja varjon rajaa Kuun pinnalla kutsutaan terminaattoriksi.[29]
+The Moon's position relative to the Earth, its orbit, and its average distance from the Earth. The Moon is actually much further from the Earth than in the image.
+The Moon's distance from Earth varies from about 357,000 kilometers to about 406,000 kilometers.[23] As a result, the Moon's apparent diameter also varies from 29.4 to 33.5 arcminutes.[24] The Moon is receding from Earth at a rate of about 3.8 centimeters per year.[25]
 
-Valaistusvoima ja väri
-Täysikuu valaisee noin 0,1 luksin voimalla. Puolikuu valaisee noin 0,03–0,04 luksin ja neljänneskuu 0,01 luksin voimalla.[30]
-
-Kuu on väriltään todellisuudessa harmaa pintansa mineraalien vuoksi, minkä voi todeta avaruudesta otetuista kuvista. Maasta Kuu voi näyttää muunkin väriseltä. Päivänvalossa keskellä sinistä taivasta Kuu näyttää himmeän valkoiselta. Yöllä Kuu näyttää kirkkaan keltaiselta. Matalalla taivaanrannassa sekä täydellisen kuunpimennyksen aikana Kuu näyttää punertavalta tai tiilenpunaiselta. Kuun värin vaihtelu johtuu Maan ilmakehän aiheuttamasta valon aallonpituuksien sironnasta. Mitä pitemmän matkan kuunvalo kulkee ilmakehässä, sitä enemmän siitä häviää sinistä valoa, mikä aiheuttaa punertavan sävyn.[31][32]
-
-Kuunpimennys ja auringonpimennys
-
-Kuunpimennyksessä Kuu (alhaalla) siirtyy puolivarjon kautta kohti Maan täysvarjoa.
-Kuunpimennys tapahtuu, kun Kuu joutuu Maan varjoon, eli Maa on Auringon ja Kuun välissä. Täydellisessä kuunpimennyksessä Maan täysvarjo pimentää koko Kuun. Osittaisessa kuunpimennyksessä vain osa Kuusta kulkee Maan täysvarjon kautta. Puolivarjopimennyksessä Kuu kulkee ainoastaan Maan puolivarjon kautta, eikä Kuun kirkkaus tällöin muutu kovin paljoa.[33]
-
-Kuu aiheuttaa Maassa auringonpimennyksen menemällä Maan ja Auringon väliin.[34]
-
-Vuorovesi
-Pääartikkeli: Vuorovesi
-Kuu on Maan vuorovesi-ilmiön pääasiallinen aiheuttaja. Kuun painovoima nostaa Maassa pullistuman Kuun puoleiseen valtamereen ja toisen pullistuman vastakkaiselle puolelle.[35]
-
-Aika
-Kuun omaa aikastandardia ei ole määritelty, ja jokainen kuulento ja kuuluotain on toistaiseksi sitonut kellonsa maanpäälliseen aikaan, koordinoituun yleisaikaan. Kuun oman aikastandardin määrittelyä vaikeuttaa se, että aika kuluu Kuussa yleisen suhteellisuusteorian mukaan nopeammin kuin Maan pinnalla, koska Kuun painovoimapotentiaalin kuoppa on Maan kuoppaa matalampi. Kuun aika edistää Maahan nähden noin 20 millisekuntia Maan vuoden aikana. Perusvaihtoehtoja Kuun oman aikastandardin määritelmäksi ovat virtuaalinen kuuaika, joka perustuu maanpäälliseen UTC-aikaan, mutta asianmukaisilla korjauslaskuilla, sekä itsenäinen kuuaika.[36]
-
-Kuun tutkimus ja kuulennot
-Varhainen havainnointi ja tutkimus
-Jo ennen ajanlaskun alkua eläneet antiikin kreikkalaiset tähtitieteilijät kykenivät selittämään kuunpimennyksen syitä ja laskemaan Kuun etäisyyden Maasta. Kuun todellista olemusta rosoisena kivipallona ei kuitenkaan tunnettu ennen kuin kaukoputki otettiin käyttöön 1600-luvun alussa. Kuun piirteet teki tunnetuksi Galileo Galilei. Hänen herättämänään syntyi uusi tiede selenografia, joka kartoittaa, nimeää ja tulkitsee Kuun pinnanmuotoja.[37]
+The Moon orbits the Earth in an elliptical orbit that is inclined 5.1 degrees to the plane of the Earth's orbit. The Moon's orbital plane rotates, completing one revolution every 18.6 years. The Moon's declination also changes over the same period. In addition, the direction of the Moon's orbit closest to Earth takes 8.8 years to complete a complete revolution.[26]
 
 
-Michael van Langrenin kuukartta vuodelta 1645.
-Galilein jälkeen muutkin tähtitieteilijät alkoivat tutkia Kuuta kaukoputkilla ja piirtää omia kuukarttojaan. Kaukoputkien alettua kehittyä nopeasti vuoden 1640 jälkeen kartoistakin voitiin tehdä yksityiskohtaisia. Hollantilaisen Michael van Langrenin kuukartta vuodelta 1645 antoi suuntaviivat kaikille myöhemmille kuukartoille. Saksalainen Johannes Hevelius julkaisi vuonna 1647 laajan ja yksityiskohtaisen Selenografia-kuukartastonsa.[38] Italialainen Giovanni Riccioli antoi omassa kuukartassaan vuodelta 1651 monelle Kuun kohteelle nimen, joilla ne edelleen tunnetaan.[39]
+The Moon orbits the Earth in the same time that the Earth rotates on its axis about 29.5 times.
+The time it takes for the Moon to orbit the Earth is called a month. The time it takes for the Moon to orbit the surrounding starry sky is called a sidereal month. It is 27 days, 7 hours, and 43 minutes. The time between the phases of the Moon, such as between two full moons, is called a synodic month. It is 29 days, 12 hours, and 44 minutes. The difference in the lengths of these months is due to the Earth's orbit around the Sun.[27]
 
-Kuusta etsittiin 1600- ja 1700-luvuilla ratkaisua merenkulkijoita pitkään vaivanneeseen pituusasteiden määritysongelmaan. Kuutaulukoiden avulla pituusaste voitiin lopulta määritellä yhden asteen tarkkuudella, mutta siihen liittyvien työläiden laskelmien vuoksi menetelmän korvasi helpompi laivakronometri.[40]
+The Moon's rotation period around its axis has locked to the same as its rotation period around the Earth. Thus, the same side of the Moon always faces the Earth. The lock is due to the asymmetry of the mass distribution and the torque caused by the Earth, which slowed the Moon's rotation and eventually consumed it almost completely. The Moon also constantly slows down the Earth's rotation.[25]
 
-Ensimmäisen valokuvan Kuusta otti Louis Daguerre vuonna 1839. Muutaman vuosikymmenen kuluessa valokuvaamalla alettiin tekniikan kehityksen myötä saada tarkempia kuukarttoja kuin käsin piirtämällä. Parhaat tulokset saatiin kuitenkin vielä pitkälle 1900-luvulle asti yhdistämällä valokuvat piirroksiin kaukoputkella havaituista yksityiskohdista.[41]
-
-Pitkään Kuuta oli tutkittu vain sen pinnanmuotojen kannalta. 1900-luvun alussa Kuuta alettiin tutkia myös geologian näkökulmasta, ja esimerkiksi Kuun vulkaanisesta toiminnasta ja kraattereiden syntytavoista esitettiin teorioita.[42]
-
-Vuonna 1919 perustetun Kansainvälisen tähtitieteellisen unionin jaos 17 sai vastuulleen Kuun nimistön.[43]
-
-Kuuluotaimet ja kuumatkat
-Katso myös: Kuulento, Avaruuskilpa, Kuun valloituksen aikajana ja Neuvostoliiton kuuohjelma
-Sen jälkeen kun neuvostoliittolainen Sputnik 1 oli käynyt Maan kiertoradalla ensimmäisenä tekokuuna vuonna 1957, suurvaltojen avaruusponnistukset suuntautuivat Kuun tutkimiseen. Neuvostoliiton Luna 1- ja Yhdysvaltain Pioneer 4 -luotaimet lensivät kahden vuoden sisällä Kuun ohi. Niitä seurasi 1960-luvun aikana joukko miehittämättömiä aluksia: Neuvostoliitolta Lunan lisäksi Zondit sekä Yhdysvalloilta Ranger-, Surveyor- ja Lunar Orbiter -luotaimet, jotka toivat Kuusta paljon uutta tietoa.[44]
-
-Neuvostoliitto otti avaruuskilvassa aluksi johtoaseman. Ensimmäinen alus Kuun pinnalla oli miehittämätön Luna 2, joka iskeytyi Kuuhun 14. syyskuuta 1959.[45] Ensimmäiset kuvat Kuun kääntöpuolelta lähetti Luna 3 samana vuonna.[44] Ensimmäinen Kuuhun pehmeästi laskeutunut luotain oli Luna 9 vuonna 1966. Se onnistui myös lähettämään ensimmäiset Kuun pinnalta otetut kuvat. Ensimmäinen Kuun kiertänyt ja takaisin palannut luotain oli Zond 5 vuonna 1968. Kummankin suurvallan luotaimet etsiskelivät tutkimuksen ohella myös sopivaa laskeutumispaikkaa miehitetylle kuulennolle.[46]
+Because the same side of the Moon always faces Earth, it was only with the help of space probes that the far side of the Moon, which is not directly visible to Earth through telescopes, was fully mapped. However, the visible portion of the Moon's surface is slightly more than half (about 59%), as it appears to wobble slightly from side to side, mainly due to the shape of the Moon's orbit.[28]
 
 
-Apollo 11 -aluksen kuumoduuli ja astronautti Buzz Aldrin kuun pinnalla.
-Yhdysvaltain presidentti John F. Kennedy julisti vuonna 1961 Yhdysvaltain sitoutuvan lähettämään ihmisen Kuuhun ja takaisin vuosikymmenen loppuun mennessä.[44] Tätä seurasi sarja miehitettyjä Apollo-lentoja, joilla Kuun pintaa kartoitettiin valokuvaamalla sitä kiertoradalta.[47] Ensimmäisen Kuun kiertäneen miehitetyn lennon teki Apollo 8 vuonna 1968.[46] Ensimmäinen ihminen laskeutui kuunpinnalle 20. heinäkuuta 1969, jolloin Yhdysvaltain avaruusalus Apollo 11 laskeutui Kuuhun, mukanaan kaksi astronauttia, Neil Armstrong ja Buzz Aldrin. Kaiken kaikkiaan Kuussa kävi 12 astronauttia vuosina 1969–1972.[48] Yhdysvallat pystytti Kuuhun lippunsa vuonna 1969 ja Kiina vuonna 2020.[49]
+Earth and Moon on the same scale.
+Vicissitudes
+Main article: Phases of the Moon
+See also: Table of Moon Phases
 
-Kuun pinnalle Apollo-ohjelmassa tehdyillä tutkimusretkillä kerättiin pinta-aines- ja kivinäytteitä, tarkasteltiin geologisia paljastumia sekä dokumentoitiin Kuun pintaa valokuvaamalla. Kuututkimuksia varten suunniteltiin tutkimusohjelma ALSEP, jolla mitattiin muun muassa seismisyyttä, painovoimaa, magneettikenttää, lämmönsiirtoa ja aurinkotuulta. Kuuautoa käytettiin kolmella viimeisellä lennolla (Apollo 15–17).[50]
+Moon phases in the northern hemisphere in May-June 2005. New moon on May 8 and June 6, full moon on May 23.
+The phase of the Moon refers to how much of the Moon's visible side to Earth is illuminated by the Sun and how much of it is on the far side of the Moon relative to the Sun, out of reach of the Sun's rays. The phase depends on the Moon's position in its orbit relative to the Earth and the Sun. At new moon, the half facing Earth does not reflect light because the Moon and the Sun are almost in the same direction in the sky. During the first quarter of the Moon's orbit, the western half of the half is illuminated (the right side of the Moon as seen from Earth's northern hemisphere). During full moon, the entire half facing Earth is illuminated. During last quarter, the eastern half of the Moon is illuminated (the left side of the Moon as seen from Earth's northern hemisphere). The boundary between light and shadow on the Moon's surface is called the terminator.[29]
 
-Kuussa kävijät jättivät Kuuhun yli 202 tonnin edestä roskaa. Tämä määrä sisältää muun muassa 70 avaruusalusta ja muuta kulkuneuvoa; 5 Yhdysvaltain lippua, 2 golfpalloa, 12 paria saappaita; useita patsaita, valokuvia, muistoesineitä, kameroita, työkaluja, reppuja, lapioita, peittoja, ruoka-astioita; sekä satakunta virtsa-, uloste- tai oksennuspussia.[51]
+Illuminance and color
+A full moon illuminates with an intensity of about 0.1 lux. A crescent moon illuminates with an intensity of about 0.03–0.04 lux, and a quarter moon illuminates with an intensity of 0.01 lux.[30]
+
+The Moon is actually gray in color due to the minerals on its surface, as can be seen in images taken from space. From Earth, the Moon can appear to be a variety of colors. In daylight, in a blue sky, the Moon appears dull white. At night, the Moon appears bright yellow. Low in the sky and during a total lunar eclipse, the Moon appears reddish or brick red. The Moon's color varies due to the scattering of light wavelengths by the Earth's atmosphere. The farther the Moon travels through the atmosphere, the more blue light is lost, giving it a reddish hue.[31][32]
+
+Lunar eclipse and solar eclipse
+
+During a lunar eclipse, the Moon (below) moves through the penumbra towards the Earth's total shadow.
+A lunar eclipse occurs when the Moon passes into the Earth's shadow, meaning the Earth is between the Sun and the Moon. In a total lunar eclipse, the entire Moon is obscured by the Earth's shadow. In a partial lunar eclipse, only part of the Moon passes through the Earth's shadow. In a penumbral eclipse, the Moon passes only through the Earth's shadow, and the Moon's brightness does not change much.[33]
+
+The Moon causes a solar eclipse on Earth by passing between the Earth and the Sun.[34]
+
+Tide
+Main article: Tide
+The Moon is the primary cause of Earth's tides. The Moon's gravity lifts one bulge on Earth into the ocean on the side of the Moon and another bulge on the opposite side.[35]
+
+Time
+The Moon has no defined time standard, and every lunar mission and spacecraft has so far tied its clock to terrestrial time, Coordinated Universal Time. Defining a lunar time standard is complicated by the fact that, according to general relativity, time passes faster on the Moon than on the Earth's surface, because the Moon's gravitational potential well is shallower than the Earth's. Lunar time advances relative to Earth by about 20 milliseconds during an Earth year. The basic options for defining a lunar time standard are virtual lunar time, which is based on terrestrial UTC time, but with appropriate corrections, and autonomous lunar time.[36]
+
+Lunar exploration and hearings
+Early observation and research
+Even before the beginning of the Common Era, ancient Greek astronomers were able to explain the causes of lunar eclipses and calculate the distance of the Moon from Earth. However, the Moon's true nature as a jagged ball of rock was not known until the telescope was introduced in the early 17th century. The features of the Moon were made known by Galileo Galilei. He sparked the birth of a new science, selenography, which maps, names, and interprets the Moon's surface features.[37]
 
 
-Yhdysvaltain Lunar Prospector -kuuluotain laukaistiin vuonna 1998.
-Ihminen ei ole astunut Kuun pinnalle vuoden 1972 jälkeen. Kuuhun on kuitenkin edelleen lähetetty luotaimia, joiden avulla sitä on tutkittu. Yhdysvaltojen mielenkiinto kuututkimuksia kohtaan heikkeni Apollo 17:n jälkeen. Maa laukaisi pienen miehittämättömän Clementine-luotaimen vuonna 1994 ja Lunar Prospectorin vuonna 1998.[52] Yhdysvallat on 2000-luvulla suunnitellut perustavansa Kuuhun pysyvän tukikohdan ja laukaisi vuonna 2009 kaksi luotainta, LROn ja LCROSSin.[53]
+Michael van Langren's lunar map from 1645.
+After Galileo, other astronomers began to study the Moon with telescopes and draw their own lunar maps. As telescopes began to develop rapidly after 1640, maps could be made more detailed. The Dutchman Michael van Langren's lunar map of 1645 provided guidelines for all subsequent lunar maps. The German Johannes Hevelius published his extensive and detailed lunar atlas Selenographia in 1647.[38] The Italian Giovanni Riccioli gave many lunar features the names by which they are still known in his own lunar map of 1651.[39]
 
-Japani on laukaissut Hiten-luotaimen vuonna 1990 ja Kaguya-luotaimen vuonna 2007. Euroopan avaruusjärjestö laukaisi vuonna 2003 ensimmäisen kuuluotaimensa Smart 1:n. Kiina lähetti Kuun kiertoradalle vuoden 2007 lokakuussa Chang’e 1 -avaruusaluksen,[52] joka tutki kuuta maaliskuuhun 2009 saakka sen kiertoradalla ja lopulta lennettiin suunnitellusti päin kuuta. Lokakuussa 2010 lähetetty Chang’e 2 -avaruusalus tutki ja kuvasi kuuta kesäkuuhun 2011 saakka, jolloin se jatkoi matkaansa avaruuteen.[54] 14. joulukuuta 2013 Chang’e 3 -avaruusalus laskeutui kuuhun ja toimi siellä kolmen kuukauden ajan ja liikkui noin 10 kilometriä kuun pinnalla.[55] Kiina lähetti vuonna 2018 Kuun pinnalle ekosysteemisäiliön, jonka avulla tutkitaan kasvien ja hyönteisten kasvatusta Kuussa. Kiinan Chang’e 4 -avaruusalus oli ensimmäinen, joka laskeutui pehmeästi Kuun kääntöpuolelle tammikuussa 2019.[56] Aluksen kuljettamat puuvillansiemenet ovat versoneet Kuussa.[57][58] Intian ensimmäinen kuuluotain Chandrayaan-1 laukaistiin vuonna 2008.[59]
+In the 17th and 18th centuries, the Moon was sought as a solution to the long-standing problem of determining longitude. Moon tables eventually allowed longitude to be determined to within one degree, but due to the laborious calculations involved, this method was replaced by the simpler ship's chronometer.[40]
 
-Kuumatkojen tulevaisuus
-Kiinnostus Kuuta kohtaan on herännyt uudelleen 2000-luvulla. Yksityiset avaruusteknologiayritykset, kuten SpaceX ja Blue Origin, ovat tulleet mukaan avaruustutkimukseen. Tulevaisuuden kuumatkojen tarkoituksena voisi olla Kuun arvometallien ja Maassa harvinaisten alkuaineiden tuominen Maahan. Kuusta toivotaan myös löydettävän avaruusalusten polttoainetta. Kuuhun suunniteltu teleskooppi näkisi kaukaisiin kohteisiin asti. Pysyvän tutkimusaseman perustamista Kuuhun onkin selvitelty kansainvälisissä yhteistyöprojekteissa. Aseman yksi tarkoitus olisi valmistella vielä syvemmälle avaruuteen suuntautuvia matkoja.[60]
+The first photograph of the Moon was taken by Louis Daguerre in 1839. Within a few decades, advances in technology allowed photography to produce more accurate lunar maps than hand-drawn maps. However, the best results were still achieved well into the 20th century by combining photographs with drawings of details observed through a telescope.[41]
 
-Yhdysvaltain presidentti Donald Trump on kehottanut Nasaa tekemään jälleen miehitetyn lennon Kuuhun. Nasan Artemis-kuuohjelman tavoitteeksi on otettu lento Kuun pinnalle viimeistään vuonna 2024 ja jatkuva miehitys Kuun ympäristöön vuoteen 2028 mennessä.[61]
+For a long time, the Moon had been studied only in terms of its landforms. In the early 20th century, the Moon also began to be studied from a geological perspective, and theories were put forward, for example, about the Moon's volcanic activity and the formation of craters.[42]
+
+Division 17 of the International Astronomical Union, founded in 1919, was given responsibility for the nomenclature of the Moon.[43]
+
+Lunar probes and lunar missions
+See also: Moon flight, Space Race, Moon landing timeline, and Soviet lunar program
+After the Soviet Sputnik 1 orbited the Earth as the first artificial moon in 1957, the space efforts of the major powers turned to exploring the Moon. The Soviet Luna 1 and the American Pioneer 4 probes flew by the Moon within two years. They were followed by a series of unmanned spacecraft in the 1960s: the Soviet Luna and the Zonds, and the American Ranger, Surveyor, and Lunar Orbiter probes, which provided much new information about the Moon.[44]
+
+The Soviet Union initially took the lead in the space race. The first craft to land on the Moon was the unmanned Luna 2, which crashed on September 14, 1959.[45] The first images of the far side of the Moon were sent back by Luna 3 the same year.[44] The first probe to soft-land on the Moon was Luna 9 in 1966. It also succeeded in sending back the first images taken from the Moon's surface. The first probe to orbit the Moon and return was Zond 5 in 1968. In addition to research, probes from both superpowers also searched for a suitable landing site for a manned lunar mission.[46]
+
+
+The Apollo 11 lunar module and astronaut Buzz Aldrin on the lunar surface.
+In 1961, US President John F. Kennedy declared that the United States would send a man to the Moon and back by the end of the decade.[44] This was followed by a series of manned Apollo missions, which mapped the lunar surface by taking photographs from orbit.[47] The first manned mission to orbit the Moon was Apollo 8 in 1968.[46] The first human landing on the Moon was on 20 July 1969, when the US spacecraft Apollo 11 landed on the Moon, carrying two astronauts, Neil Armstrong and Buzz Aldrin. A total of 12 astronauts walked on the Moon between 1969 and 1972.[48] The United States planted a flag on the Moon in 1969, and China did so in 2020.[49]
+
+The Apollo missions to the Moon collected surface material and rock samples, examined geological outcrops, and documented the lunar surface through photography. The Lunar Exploration Program (ALSEP) was designed to measure seismicity, gravity, magnetic field, heat transfer, and solar wind, among other things. The Lunar Rover was used on the last three missions (Apollo 15–17).[50]
+
+Visitors to the Moon left behind over 202 tons of debris on the Moon. This includes 70 spacecraft and other vehicles; 5 American flags, 2 golf balls, 12 pairs of boots; several statues, photographs, memorabilia, cameras, tools, backpacks, shovels, blankets, food containers; and about 100 bags of urine, feces, or vomit.[51]
+
+
+The US Lunar Prospector spacecraft was launched in 1998.
+Humans have not set foot on the Moon since 1972. However, probes have continued to be sent to explore the Moon. American interest in lunar exploration waned after Apollo 17. The country launched a small unmanned probe, Clementine, in 1994 and Lunar Prospector in 1998.[52] The United States has planned to establish a permanent base on the Moon in the 21st century, and launched two probes, LRO and LCROSS, in 2009.[53]
+
+Japan launched the Hiten probe in 1990 and the Kaguya probe in 2007. The European Space Agency launched its first lunar probe, Smart 1, in 2003. China launched the Chang'e 1 spacecraft into lunar orbit in October 2007,[52] which explored the Moon until March 2009, and eventually flew toward the Moon as planned. The Chang'e 2 spacecraft, launched in October 2010, explored and photographed the Moon until June 2011, when it continued its journey into space.[54] On December 14, 2013, the Chang'e 3 spacecraft landed on the Moon and operated there for three months, moving about 10 kilometers on the lunar surface.[55] In 2018, China launched an ecosystem tank to the lunar surface to study the cultivation of plants and insects on the Moon. China's Chang'e 4 spacecraft was the first to soft-land on the far side of the Moon in January 2019.[56] Cotton seeds carried by the spacecraft have sprouted on the Moon.[57][58] India's first lunar mission, Chandrayaan-1, was launched in 2008.[59]
+
+The future of summer travel
+Interest in the Moon has been rekindled in the 21st century. Private space technology companies such as SpaceX and Blue Origin have become involved in space exploration. Future lunar missions could aim to bring back valuable lunar metals and elements rare on Earth. It is also hoped that the Moon will provide fuel for spacecraft. A telescope planned for the Moon would be able to see far away. The establishment of a permanent research station on the Moon has been explored in international collaborative projects. One of the purposes of the station would be to prepare for journeys even deeper into space.[60]
+
+US President Donald Trump has called on NASA to return to the Moon with a manned mission. NASA's Artemis lunar program aims to land on the Moon by 2024 and maintain a permanent presence in the lunar environment by 2028.[61]
 
 nkm
-Kuun valloituksen aikajana
-Havainnointi Maasta
+Moon conquest timeline
+Observation from Earth
 
-Galileo Galilein kuuluisat ensimmäiset kaukoputken avulla tekemät kuvaukset Kuusta vuodelta 1610 osoittavat, kuinka pinnan yksityiskohdat erottuvat parhaiten valon ja varjon rajalla.
-Kuu näkyy taivaalla toisinaan samassa suunnassa kuin Aurinko, toisinaan vastakkaisella suunnalla. Kesällä täysikuu jää matalammalle ja nousee Suomessa juuri ja juuri eteläisen taivaanrannan yläpuolelle – pohjoisessa se ei aina edes näy. Iltataivaalla Kuu näkyy ensimmäisen neljänneksensä aikana, aamuyön taivaalla viimeisellä neljänneksellään. Kapea kuunsirppi näkyy parhaiten kevätiltoina ja syysaamuina.[62]
+Galileo Galilei's famous first telescope photographs of the Moon in 1610 show how surface details are best distinguished at the boundary between light and shadow.
+The Moon is sometimes visible in the sky in the same direction as the Sun, sometimes in the opposite direction. In summer, the full Moon is lower and rises just above the southern horizon in Finland – in the north it is not always visible at all. In the evening sky, the Moon is visible during its first quarter, in the morning sky during its last quarter. The narrow crescent Moon is best seen on spring evenings and autumn mornings.[62]
 
-Maasta katsottuna paljaalla silmällä Kuusta erottuvat suuret tummat vyöhykkeet eli Kuun meret, jotka peittävät Kuun näkyvästä puolesta noin 30 prosenttia. Kiikarilla erottuvat pienimmätkin meret sekä monet kraatterit. Yli 60-millisellä linssikaukoputkella erottuu pienempiä yksityiskohtia, kuten vuoristoja ja vuoria, laaksoja ja uomia. Satakertainen suurennos on yleensä riittävä, sillä sitä suurempi suurennos tuo näkyviin lisää yksityiskohtia vain, kun Maan ilmakehä on poikkeuksellisen rauhallinen eikä väreile. Muodostumat erottuvat parhaiten silloin, kun ne osuvat lähelle terminaattoria eli pimeän ja valaistun alueen rajaa, sillä silloin niistä lankeaa pitkä musta varjo. Täydenkuun aikaan, kun Kuun pinta on kirkas, siitä erottuvat selvästi muutamien kraatterien sädejärjestelmät.[63]
+From Earth, the Moon is visible to the naked eye with large dark bands, or lunar seas, covering about 30 percent of the visible surface of the Moon. Binoculars can distinguish even the smallest seas and many craters. A telescope with a lens of more than 60 mm can distinguish smaller details, such as mountain ranges and mountains, valleys and channels. A magnification of 100 times is usually sufficient, as higher magnifications only reveal more details when the Earth's atmosphere is exceptionally calm and does not fluctuate. The formations are best seen when they fall close to the terminator, the boundary between the dark and illuminated areas, as they then cast a long black shadow. During a full moon, when the Moon's surface is bright, the ray systems of a few craters can be clearly distinguished.[63]
 
-Kuu kulttuurissa
-Kuu on aina näyttänyt ihmisen silmään erilaisten merkitysten ja mysteerien täyttämältä paikalta, ja ihminen onkin olemassaolonsa aikana reagoinut Kuuhun monenkirjavasti. Kuu on muun muassa aiheuttanut uskonnollista pelkoa ja taikauskoa, inspiroinut myyttejä, taiteita ja tieteiskirjallisuutta sekä ollut vaikuttamassa tieteellisten keksintöjen syntyyn. Lähes kaikissa kulttuureissa on aikaa mitattu kuukalenterin avulla.[64]
+The Moon in Culture
+The Moon has always seemed to the human eye to be a place filled with various meanings and mysteries, and humans have reacted to it in many ways throughout their existence. The Moon has, among other things, caused religious fear and superstition, inspired myths, art and science fiction, and influenced the emergence of scientific discoveries. In almost all cultures, time has been measured using a lunar calendar.[64]
 
-Uskonnossa ja mytologiassa
+In religion and mythology
 
-Kreikkalaisten kuun jumalatar Selene.
-Kuun jumaluuksia on esiintynyt ilmeisesti kaikkien kulttuurien varhaishistoriassa. Kuun jumalattaret olivat yleisempiä kuin jumalat, mikä saattaa selittyä kuunkierron ja kuukautiskierron näennäisellä yhteydellä. Kuu on edustanut ihmisille muutosta siinä kun Aurinko on edustanut pysyvyyttä.[64] Kuunjumalia ja -jumalattaria ovat esimerkiksi kreikkalaisten Selene ja Artemis, egyptiläisten Thot, babylonialaisten Nannar, syyrialaisten Aglibol, intialaisten Soma, nepalilaisten Chandra sekä asteekkien Xochipili ja Coyolxauhqui.[65]
+Selene, the Greek goddess of the moon.
+Lunar deities have been present in the early history of all cultures. Lunar goddesses were more common than gods, which may be explained by the apparent connection between the lunar cycle and the menstrual cycle. The Moon has represented change to humans while the Sun has represented permanence.[64] Lunar gods and goddesses include the Greek Selene and Artemis, the Egyptian Thoth, the Babylonian Nannar, the Syrian Aglibol, the Indian Soma, the Nepalese Chandra, and the Aztec Xochipili and Coyolxauhqui.[65]
 
-Kuusta kertovissa taruissa on kuvattu, kuinka kuunpimennys ja kuunvaiheet selittyvät nälkäisellä lohikäärmeellä tai palkitsemattomalla rakkaudella. Kuun on kerrottu pystyvän kontrolloimaan eläimiä tai muuttamaan ihmisen pedoksi tai hulluksi. Kuukiven, erään maasälvän muodon, on uskottu olevan kivettynyttä kuunvaloa, jolla on suunnaton parantava ja suojeleva voima. Astrologiassa Kuu on yhdistetty naisenergiaan, tunneherkkyyteen ja kasvuvoimaan sekä ihmispsyyken vaistonvaraiseen puoleen, kuten ailahtelevaan vihaan sekä kykyyn luoda ja tuhota.[64]
+Legends about the Moon describe how lunar eclipses and lunar phases are explained by a hungry dragon or unrequited love. The Moon is said to be able to control animals or turn people into beasts or madmen. Moonstone, a form of feldspar, is believed to be petrified moonlight with immense healing and protective powers. In astrology, the Moon is associated with feminine energy, emotional sensitivity and the power of growth, as well as the instinctive side of the human psyche, such as volatile anger and the ability to create and destroy.[64]
 
-Ihmiset ovat nähneet Kuun pinnanmuodoissa erilaisia hahmoja: kiinalaiset naisen tai jäniksen, keskiajan britit keppiä kantavan vanhuksen, skandinaavit kaksosia ja jotkin intiaaniheimot rupikonnan.[64]
+People have seen various figures in the lunar landforms: the Chinese saw a woman or a hare, the medieval British saw an old man carrying a stick, the Scandinavians saw twins, and some Native American tribes saw a toad.[64]
 
-Taiteissa ja populaarikulttuurissa
+In the arts and popular culture
 
-Kuu on maalausten yleinen elementti. Yasumasa soittaa huilua vuodelta 1883 on Yoshitoshi Tsukiokan kuuluisin puupiirros.[66]
-Kuu on ollut merkittävässä roolissa niin uskonnollisessa kuin maallisessakin kuvataiteessa kautta aikain. Kuu esitettiin usein kuunsirppiin piirtyneinä kasvoina tai kaapuun pukeutuneena jumalattarena. Runoilijat Dantesta ja Shakespearesta nykyajan populaarimusiikin tekijöihin ja lastenloruilijoihin ovat toistuvasti kertoneet kuun muodosta. Kirjallisuudessa kuumatka on ollut yleinen aihe, josta ovat kirjoittaneet esimerkiksi Johannes Kepler, Cyrano de Bergerac, Jules Verne ja Arthur C. Clarke.[64] Klassikoksi nousseita kuuaiheisia tieteiselokuvia ovat esimerkiksi Matka kuuhun (1902) ja 2001: Avaruusseikkailu (1968).[67]
+The moon is a common element in paintings. Yasumasa Playing the Flute from 1883 is Yoshitoshi Tsukioka's most famous woodcut.[66]
+The moon has played a significant role in both religious and secular visual art throughout history. The moon has often been depicted as a face drawn on a crescent moon or as a goddess dressed in a robe. Poets from Dante and Shakespeare to contemporary popular music composers and children's storytellers have repeatedly described the shape of the moon. In literature, the moon has been a common theme, with writers such as Johannes Kepler, Cyrano de Bergerac, Jules Verne, and Arthur C. Clarke writing about it.[64] Classic science fiction films about the moon include One Man's Journey (1902) and 2001: A Space Odyssey (1968).[67]

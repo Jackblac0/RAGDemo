@@ -1,214 +1,214 @@
 Mars
 
-Löytäminen
-Löytöaika	esihistoriallinen[1]
-Kiertoradan ominaisuudet
-Keskietäisyys Auringosta	227 920 000[1] km
-1,52366231 AU
-Eksentrisyys	0,09341233
-Kiertoaika Auringon ympäri	686,9601 d
-Synodinen kiertoaika	779,96 d
-Keskiratanopeus	24,077 km/s
-Inklinaatio	1,85061°
-Kuiden lukumäärä	2
-Fyysiset ominaisuudet
-Päiväntasaajan halkaisija	6 792,4[1] km
-Pinta-ala	1,448 · 108 km2
-Massa	6,4185 · 1023 kg
-0,108 Maan massaa
-Keskitiheys	3,934 g/cm3
-Putoamiskiihtyvyys pinnalla	3,71 m/s2
-Pyörähdysaika	24,622962 h (eli 1 sol)
-Akselin kaltevuus	25,19°
-Albedo	0,15
-Pakonopeus	5,027 km/s
-Pinnan lämpötila	alin: 133 K (−140 °C)
-keski: 210 K (−63 °C)
-ylin: 293 K (20 °C)
-Kaasukehän ominaisuudet
-Kaasunpaine	0,7–0,9 kPa
-Koostumus
-hiilidioksidi
-typpi
+Discovery
+Discovery period 	prehistoric[1]
+Orbital characteristics
+Average distance from the Sun 	227,920,000[1] km
+1.52366231 AU
+Eccentricity 	0.09341233
+Orbital period around the Sun 	686.9601 d
+Synodic period 	779.96 d
+Average orbital speed 	24.077 km/s
+Inclination 	1.85061°
+Number of threads 	2
+Physical properties
+Equatorial diameter 	6,792.4[1] km
+Area 	1,448 108 km2
+Mass 	6.4185 1023 kg
+0.108 Earth masses
+Average density 	3.934 g/cm3
+Gravity acceleration on the surface 	3.71 m/s2
+Rotation period 	24.622962 h (i.e. 1 sol)
+Axis inclination 	25.19°
+Albedo 	0.15
+Escape velocity 	5.027 km/s
+Lowest surface temperature 	: 133 K (−140 °C)
+average: 210 K (−63 °C)
+highest: 293 K (20 °C)
+Gas ring properties
+Gas pressure 	0.7–0.9 kPa
+Composition
+carbon dioxide
+nitrogen
 argon
-happi
-hiilimonoksidi
-vesihöyry
-typpioksidi
+oxygen
+carbon monoxide
+water vapor
+nitrous oxide
 neon
 krypton
-ksenon
-otsoni
-metaani	95,32 %
-2,7 %
-1,6 %
-0,13 %
-0,07 %
-0,03 %
-0,01 %
-2,5 ppm
+xenon
+ozone
+methane 	95.32 %
+2.7%
+1.6%
+0.13%
+0.07%
+0.03%
+0.01%
+2.5 ppm
 300 ppb
 80 ppb
 30 ppb
-10,5 ppb
-Mars (symboli: ♂) on Maan naapuriplaneetta ja aurinkokunnan neljäs planeetta Auringosta laskettuna. Planeetta on nimetty roomalaisessa mytologiassa esiintyvän sodanjumala Marsin mukaan. Punertavan Marsin läpimitta on noin puolet Maan läpimitasta,[1] ja se on ihmiselle elinkelvoton.[2] Marsissa on höyrynä, nesteenä[3] ja jäänä esiintyvää vettä sekä hyvin ohut kaasukehä, josta suurin osa on hiilidioksidia ja loput pääasiassa typpeä.[1] Kaasukehän ohuus johtuu Marsin pienestä painovoimasta. Mars on lisäksi niin kylmä, että sen kaasukehän hiilidioksidi tiivistyy siellä aika ajoin napalakkeihin. Marsilla on myös kaksi pientä kuuta, Phobos ja Deimos.[4]
+10.5 ppb
+Mars (symbol: ♂) is the fourth planet from the Sun in the Solar System and the nearest neighbor to Earth. It is named after the Roman god of war, Mars. The red planet is about half the diameter of Earth,[1] and is uninhabitable by humans.[2] Mars has water in the form of vapor, liquid[3] and ice, and a very thin atmosphere, most of which is carbon dioxide and the rest is mainly nitrogen.[1] The thin atmosphere is due to Mars's low gravity. Mars is also so cold that carbon dioxide in its atmosphere condenses into polar caps from time to time. Mars also has two small moons, Phobos and Deimos.[4]
 
-Marsissa ei tunneta olevan elämää. Muinoin Marsin tulivuorien kaasusta sinne oli syntynyt tiheä kaasukehä, ja silloin Marsissa oli laajoja meriä.[5] Nykyisen Marsin pinta muistuttaa Maan aavikoita ja Kuuta. Marsissa on kraattereita, syviä laaksoja, kuivuneita joenuomia ja hiekkadyynejä, pilviä ja napalakkeja.[5] Marsia on tutkittu monilla miehittämättömillä avaruusluotaimilla. Myös toistaiseksi toteuttamaton miehitetty Mars-lento on yleinen suunnittelun aihe.
+There is no known life on Mars. In ancient times, a dense atmosphere was created by volcanic gases from Mars, and Mars had vast oceans.[5] The surface of Mars today resembles the deserts of Earth and the Moon. Mars has craters, deep valleys, dry riverbeds and sand dunes, clouds, and polar caps.[5] Mars has been explored by many unmanned space probes. A manned mission to Mars, which has not yet been completed, is also a common topic of planning.
 
-Historia
-Varhaiset havainnot
-Jo varhain huomattiin Marsin olevan yksi taivaan planeetoista. Ensimmäisenä tämän havainnon tekivät tiettävästi muinaiset egyptiläiset.[6] Marsista tehtiin kaukoputkella havaintoja jo 1600-luvulla, jolloin Christian Huygens näki planeetan pinnalla myöhemmin Syrtis Majoriksi ristityn tumman alueen.[7]
+History
+Early observations
+Mars was recognized as a planet in the sky early on, with the first known observation being by the ancient Egyptians.[6] Telescope observations of Mars began in the 17th century, when Christian Huygens saw a dark region on the planet's surface, later named Syrtis Major.[7]
 
-Giacomo Maraldi huomasi planeetan pyörivän 1600-luvun lopulla ja 1700-luvun alussa, nähden myös napalakit. Maraldi ei ollut varma, olivatko planeetan tummat piirteet osa planeetan pintaa, vai pilvimuodostelmia.[8] Napalakit näki myös William Herschel, joka mittasi planeetan läpimitan suunnilleen oikein. Herschel sai myös selville planeetan pyörähdysajan ja huomasi planeetan akselin kallistuman ja päätteli, että Marsissa on vuodenajat.[8]
+Giacomo Maraldi observed the planet's rotation in the late 17th and early 18th centuries, and also observed the polar caps. Maraldi was unsure whether the dark features on the planet were part of the planet's surface or cloud formations.[8] The polar caps were also observed by William Herschel, who measured the planet's diameter approximately correctly. Herschel also determined the planet's period of rotation and noted the planet's axial tilt, deducing that Mars has seasons.[8]
 
-Ensimmäisiä kohtuullisen tarkkoja karttoja piirrettiin vasta 1800-luvun lopulla. Johann Hieronymus Schröter piirsi Marsin kuvan 1700-luvun lopulla ja näki planeetan napalakit ja joitakin pinnan piirteitä. Hänen mielestään planeetan tummat piirteet olivat pilviä. Flaugergues päätteli 1700-luvun lopulla ja 1800-luvun alussa näkevänsä Marsin kiinteän pinnan. 1800-luvulla Fraunhofer alkoi rakentaa aikaisempia huomattavasti tarkempia suurehkoja akromaattisella linssillä varustettuja kaukoputkia.[9]
+The first reasonably accurate maps were not drawn until the late 19th century. Johann Hieronymus Schröter drew a picture of Mars in the late 18th century and saw the planet's polar caps and some surface features. He thought the dark features on the planet were clouds. Flaugergues concluded in the late 18th and early 19th centuries that he saw a solid surface of Mars. In the 19th century, Fraunhofer began building much more accurate, larger telescopes equipped with achromatic lenses than the earlier ones.[9]
 
-Beer ja Mädler varmistivat 1830-luvulla, etteivät Marsin piirteet ole pilviä, ja koettivat määrittää joidenkin piirteiden pituusasteita sekä mitata pinnan muotoja hiusristikoilla. He totesivat myös Marsin eteläisen napalakin vuodenaikavaihtelut ja huomasivat Marsin napalakkien olevan eri kokoiset. He mittasivat melko tarkoin planeetan pyörähdysajan.[9]
+In the 1830s, Beer and Mädler confirmed that Martian features were not clouds, and attempted to determine the longitudes of some features and measure surface contours with crosshairs. They also noted seasonal variations in the Martian south polar cap and noted that the Martian polar caps were of different sizes. They measured the planet's rotation period quite accurately.[9]
 
-Vuonna 1877 Asaph Hall löysi Marsin kuut Phoboksen ja Deimoksen,[10] ja samana vuonna italialainen tähtitieteilijä Giovanni Schiaparelli väitti nähneensä kanavia Marsin pinnalla.[11] Marsin kanavista väiteltiin kiivaasti noin 25 vuotta, ja vuoden 1909 oppositiosta tehdyt tarkat havainnot todistivat, että kanavia ei ollut. Ne olivat optisia harhoja, jotka näkyivät vain kohtalaisen epätarkoilla teleskoopeilla.[12][13] Vesihöyryä ja happea etsittiin 1900-luvun alun tienoilla Marsin kaasukehästä, mutta niitä ei löydetty. 1910–1930 vahvistettiin kanavaintoilija Percival Lowellin havainnot Marsin tummien alueiden vuodenaikavaeltelusta.[13] Havaittiin pilviä, joista osan arveltiin aivan oikein liittyvän pinnan korkeuseroihin. Kiisteltiin siitä olivatko Marsin napalakit hiilidioksidijäätä vai vesijäätä.[14] Ilmanpaineeksi arveltiin pilvihavaintojen pohjalta noin 85 millibaaria. 1920 ryhmä tiedemiehiä mittasi termoparilla Marsin lämpötilan, joka oli mittausten mukaan alueesta riippuen −70…+30 °C.[15] Noin 1910–1960 spekuloitiin, että Marsin tummat alueet olisivat kasvillisuutta, joissa tapahtuu vuodenaikavaihteluja.
+In 1877, Asaph Hall discovered the Martian moons Phobos and Deimos,[10] and in the same year, Italian astronomer Giovanni Schiaparelli claimed to have seen canals on the surface of Mars.[11] The existence of canals on Mars was hotly debated for about 25 years, and accurate observations of the 1909 opposition proved that there were no canals. They were optical illusions, visible only with moderately inaccurate telescopes.[12][13] Water vapor and oxygen were searched for in the Martian atmosphere in the early 20th century, but were not found. In the 1910s–1930s, canal enthusiast Percival Lowell's observations of seasonal variations in the dark regions of Mars were confirmed.[13] Clouds were observed, some of which were correctly thought to be related to differences in surface elevation. There was some debate as to whether the polar caps of Mars were carbon dioxide ice or water ice.[14] The atmospheric pressure was estimated to be about 85 millibars based on cloud observations. In 1920, a group of scientists used a thermocouple to measure the temperature of Mars, which was measured to be between −70 and +30 °C, depending on the region.[15] Around 1910–1960, it was speculated that the dark areas of Mars were vegetation with seasonal changes.
 
-Vuonna 1947 tähtitieteilijä Gerard Kuiper löysi Marsin kaasukehästä hiilidioksidia.[14] Hän ei kuitenkaan uskonut napalakkien koostuvan hiilidioksidijäästä.[14] Vuonna 1950 uskottiin Marsin kaasukehän sisältävän enimmäkseen typpeä ja vähemmän hiilidioksidia. Samana vuonna Tombaugh, Öpik ja Ralph B. Baldwin väittivät että Marsissa on lukuisia kraattereita niin kuin Kuussa.[15] Kuiper väitti 1956 Marsin tummien, muuttuvien alueiden olevan pölyn peittämiä laavakenttiä.[15] Samaan tulokseen tuli venäläinen V. V. Šaranov. Samoihin aikoihin McLaughlin väitti Marsin olevan vulkaanisesti aktiivinen, ajatus jota monet muut vastustivat.[15]
+In 1947, astronomer Gerard Kuiper discovered carbon dioxide in the Martian atmosphere.[14] However, he did not believe that the polar caps were composed of carbon dioxide ice.[14] In 1950, it was believed that the Martian atmosphere was mostly nitrogen with a small amount of carbon dioxide. In the same year, Tombaugh, Öpik, and Ralph B. Baldwin suggested that Mars had numerous craters, similar to the Moon.[15] In 1956, Kuiper suggested that the dark, variable areas on Mars were dust-covered lava fields.[15] The Russian VV Šaranov came to the same conclusion. Around the same time, McLaughlin suggested that Mars was volcanically active, an idea that many others opposed.[15]
 
-Vuonna 1963 Audouin Dollfus ryhmineen valokuvasi korkealta vuorelta Marsin infrapunaspektrin. Tästä pääteltiin Marsin sisältävän hyvin niukasti vettä, ja hiilidioksidin osapaineen olevan 4,2 millibaaria. Tämän mukaan Marsin kaasukehän paine on alle 25 millibaaria, ja Mars on kuivempi kuin mikään Maan aavikko. Aikaisemmin oletettiin Marsin kaasukehän paineeksi 85 millibaaria.[15] Vuonna 1965 amerikkalainen avaruusluotain Mariner 4 lensi Marsin ohi ja aloitti uuden ajan Marsin tutkimuksessa.[16] Se paljasti Marsin kraatterit ja mittasi planeetan kaasukehän olevan hyvin ohuen.[17]
+In 1963, Audouin Dollfus and his team photographed the infrared spectrum of Mars from a high mountain. This led them to conclude that Mars contains very little water, and that the partial pressure of carbon dioxide was 4.2 millibars. This suggests that the atmospheric pressure on Mars is less than 25 millibars, making Mars drier than any desert on Earth. Previously, the atmospheric pressure on Mars was assumed to be 85 millibars.[15] In 1965, the American space probe Mariner 4 flew by Mars, ushering in a new era in the study of Mars.[16] It revealed craters on Mars and measured the planet's atmosphere to be very thin.[17]
 
-NASAn vuoden 2015 syyskuussa julkistamien tutkimusten perusteella Marsin pinnalla saattaa olla juoksevaa vettä kidevedellisten perkloraattiyhdisteiden (kuten NaClO4 ja Mg(ClO4)2) muodossa.[18]
+According to research published by NASA in September 2015, liquid water may exist on the surface of Mars in the form of crystalline perchlorate compounds (such as NaClO4 and Mg(ClO4)2).[18]
 
-Avaruusluotaimet
-Pääartikkeli: Luettelo Mars-luotaimista
+Space probes
+Main article: List of Mars probes
 
-Mars-laskeutujien kokovertailu.
+Size comparison of Mars landers.
 
-Eräiden Mars-luotainten sähköntuotanto yhdessä solissa.
-Marsia on lähestytty miehittämättömin lennoin jo vuodesta 1960. Amerikkalainen Mariner 4 ohitti Marsin 15. heinäkuuta 1965 lähettäen sieltä ensimmäiset kuvat Marsin kraattereista.[16] Marsiin lähetettiin 1960-luvun lopulla ohilentoluotaimet Mariner 6 ja 7, jotka lähettivät sieltä lisää kuvia.[19][20] Amerikkalainen menestyksekäs Mariner 9 kartoitti Marsin pinnan vuonna 1971.[21] Samoihin aikoihin Neuvostoliiton Mars 2 -laskeutujasta tuli ensimmäinen Marsin pinnalle laskeutunut ihmisen tekemä laite, vaikkakin pehmeä laskeutuminen ei onnistunut suunnitellusti ja laskeutuja tuhoutui.[22] Mars 3 -laskeutuja koki saman kohtalon.[22] Vuonna 1976 tapahtui ensimmäinen suunnitellusti onnistunut laskeutuminen Marsin pinnalle amerikkalaisella Viking-luotaimella.[23]
+Electricity generation from some Mars probes in one cell.
+Mars has been approached by unmanned spacecraft since 1960. The American Mariner 4 flew by Mars on July 15, 1965, sending back the first images of Martian craters.[16] In the late 1960s, the Mariner 6 and 7 flybys were sent to Mars, which sent back more images.[19][20] The successful American Mariner 9 mapped the surface of Mars in 1971.[21] Around the same time, the Soviet Mars 2 lander became the first man-made object to land on Mars, although the soft landing did not go as planned and the lander was destroyed.[22] The Mars 3 lander suffered the same fate.[22] In 1976, the first planned successful landing on Mars occurred with the American Viking probe.[23]
 
-Vuodenvaihteessa 2003–2004 Maa ja Mars osuivat radoillaan lähes ihanteelliselle tasolle, jolloin luotainten lähettäminen oli edullista. Tämän takia useita luotaimia lähetettiin matkaan lyhyessä ajassa. Japanilainen Nozomi jäi jo matkalle. Sillä oli vaikeuksia lähdöstä alkaen, ja lopulta yhteys siihen menetettiin hiukan ennen sen pääsyä perille.[24] ESAn Mars Express -luotain kuljetti mukanaan laskeutujan, joka oli nimetty Beagle 2:ksi Charles Darwinin HMS Beagle -laivan mukaan. Luotain asettui onnistuneesti napojen kautta kiertävälle radalleen, mutta katosi. Beagle 2:n kohtalo on toistaiseksi täysin tuntematon.[25] Nasa puolestaan rakensi varmuuden vuoksi kaksi lähes identtistä laskeutujaa: Spiritin[26] ja Opportunityn[27] (suom. ”Henki” ja ”Mahdollisuus”). Ne osoittautuivat menestyksiksi, ja molemmat luotaimet ovat lähettäneet runsaasti kuvamateriaalia ja tutkimustietoa. Spirit lähetti viimeiset signaalinsa vuonna 2010.[28] NASA julisti Opportunityn virallisesti "kuolleeksi" ja sen tehtävän päättyneeksi 13. helmikuuta 2019. Luotain joutui kesäkuussa 2018 kovaan pölymyrskyyn, jonka jälkeen siihen ei enää saatu lukuisista yrityksistä huolimatta yhteyttä. Viimeisen viestinsä Maahan luotain lähetti 10.6.2018. [29]
+At the turn of the year 2003–2004, Earth and Mars were in an almost ideal orbit, making it affordable to send probes. As a result, several probes were sent on their journey in a short period of time. The Japanese Nozomi was already on its way. It had problems from the start, and contact with it was eventually lost shortly before it reached its destination.[24] ESA's Mars Express probe carried a lander named Beagle 2, after Charles Darwin's ship HMS Beagle. The probe successfully entered a polar orbit, but disappeared. The fate of Beagle 2 is still unknown.[25] NASA, in turn, built two almost identical landers, Spirit[26] and Opportunity[27] (meaning "Spirit" and "Opportunity"). They proved to be successful, and both probes have returned a wealth of images and research data. Spirit sent its last signals in 2010.[28] NASA officially declared Opportunity "dead" and its mission ended on February 13, 2019. The rover was hit by a severe dust storm in June 2018, after which contact with it was lost despite numerous attempts. The rover sent its last message to Earth on June 10, 2018. [29]
 
-Uusin merkittävä Mars-laskeutuja on 26. marraskuuta 2011 matkaan Mars Science Laboratoryn mukana laukaistu Curiosity. Curiosityn on tarkoituksena tutkia elämän mahdollisuutta planeetalla. Mönkijä laskeutui planeetan pinnalle 6. elokuuta 2012.[30]
+The most recent major Mars lander is Curiosity, launched on November 26, 2011, with the Mars Science Laboratory. Curiosity's purpose is to investigate the possibility of life on the planet. The rover landed on the planet's surface on August 6, 2012.[30]
 
-Intia ilmoitti itsenäisyyspäivänään 15. elokuuta 2012 aikovansa lähettää avaruusluotaimen Marsia kiertävälle radalle tutkimaan Marsin kaasukehää. Mars Orbiter Mission -ohjelman luotain suunnitellaan laukaistavan marraskuussa 2013 Intian avaruustutkimusjärjestön Polar Satellite Launch Vehicle (PSLV) kantoraketilla.[31][32]
+On its Independence Day, 15 August 2012, India announced its intention to send a space probe into orbit around Mars to study the Martian atmosphere. The Mars Orbiter Mission is scheduled to be launched in November 2013 aboard the Indian Space Research Organisation's Polar Satellite Launch Vehicle (PSLV).[31][32]
 
-Vuoteen 2019 mennessä suurin Marsiin laskeutunut hyötykuorma on 899 kg:n massainen MSL:n Curiosity-kulkija vuodelta 2012. Siitä mittalaitteita on noin 80 kg. Suurimman solittaisen sähköntuoton synnytti InSight-luotain vuonna 2018, 4588 Wh.
+As of 2019, the largest payload landed on Mars is the 899 kg MSL Curiosity rover from 2012. Of that, about 80 kg are measuring instruments. The largest single-cell electricity output was generated by the InSight probe in 2018, 4588 Wh.
 
-5. toukokuuta 2018 lähetettiin Marsiin yhdysvaltalainen InSight-laskeutuja, joka laskeutui Marsiin 26. marraskuuta 2018.[33] InSight on kerännyt tietoa erityisesti Marsin pinnan alta. Se on mitannut kuivan ja pölyisen planeetan lämpötilaa ja tutkinut Marsin kuoren värähtelyjä laskeutumispaikkansa Elysium Planitian tasangon ympäristöstä. Aiemmat laitteet ovat tutkineet vain planeetan pintaa.[34]
+On May 5, 2018, the American InSight lander was launched to Mars, landing on Mars on November 26, 2018.[33] InSight has been collecting data primarily from beneath the surface of Mars. It has measured the temperature of the dry, dusty planet and studied the vibrations of the Martian crust around its landing site, Elysium Planitia. Previous instruments have only studied the planet's surface.[34]
 
-Kiina aikoo lähettää vuonna 2020 Pitkä marssi 5 -nimisen luotaimen Marsiin. Sen on tarkoitus laskeutua planeetan pinnalle ja mönkijällä tutkia sitä. Lento Marsiin kestää seitsemän kuukautta. Myös Yhdistyneet Arabiemiraatit aikoo Marsiin. Vuoden 2020 heinäkuussa lähetettävä Hope-luotain on ensimmäinen arabi -tai muslimivaltioiden hanke. Sen tavoitteena on tutkia syitä Marsin ilmakehän häviämiseen. Tutkimuksen toivotaan tuovan selkoa myös siihen, millaiset olot maapallon ilmakehässä vallitsivat miljoona vuotta sitten. Hope-luotaimen on määrä saapua Marsiin vuonna 2021 juhlistamaan Arabiemiraattien 50-vuotispäivää.[34]
+China plans to send a probe to Mars in 2020, called Long March 5. It is intended to land on the planet's surface and explore it using a rover. The flight to Mars will take seven months. The United Arab Emirates is also planning to go to Mars. The Hope probe, which will be launched in July 2020, is the first project by an Arab or Muslim state. Its goal is to study the causes of the loss of Mars' atmosphere. It is hoped that the study will also shed light on what conditions existed in the Earth's atmosphere a million years ago. The Hope probe is scheduled to arrive on Mars in 2021 to celebrate the 50th anniversary of the United Arab Emirates.[34]
 
-Fyysiset ominaisuudet
-Pinta ja geologia
-Pääartikkeli: Marsin geologia
-Kaukoputkella katsoen Marsissa näkyy tummempia ja vaaleampia alueita (mantereet ja meret, mare) sekä napalakit, joiden koko vaihtelee vuodenajan mukaan huomattavasti. Tunnetuin Maasta näkyvä pinnanmuoto on tumma Syrtis Major, joka lienee tulivuoren sinkoamaa tummaa ainesta. Mars muistuttaa pinnanmuodoiltaan osaksi Kuuta, osaksi Maata. Pohjoisella pallonpuoliskolla on enimmäkseen vaaleita entisiä merenpohjia. Suurta osaa Marsin eteläisestä pallonpuoliskosta peittävät kraatterit, mutta muitakin pinnanmuotoja on.
+Physical properties
+Surface and geology
+Main article: Geology of Mars
+When viewed through a telescope, Mars shows darker and lighter areas (continents and seas, mare) as well as polar caps, the size of which varies considerably depending on the season. The most famous landform visible from Earth is the dark Syrtis Major, which is probably dark material ejected by a volcano. Mars resembles the landforms partly of the Moon and partly of the Earth. The northern hemisphere mostly has pale former seabeds. A large part of Mars' southern hemisphere is covered in craters, but there are other landforms as well.
 
-Marsille ominainen punainen väri tulee sen pintahiekan rautaoksidista. Marsin pinnasta on Viking-luotaimen mittausten perusteella noin 13 % rautaa, 21 % piitä ja lisäksi muun muassa rikkiä yli kymmenkertainen määrä Maahan verrattuna. Tuulet nostavat marsperän punaista pölyä korkealle ilmakehään, joten Marsin taivaskin näyttää punaiselta varsinkin taivaanrannan läheisyydessä.[35]
-
-
-Marsin pallonpuoliskot.
-Avaruusluotaimet ovat löytäneet Marsin pinnalta valtavia tulivuoria, joista korkein on Tharsiksen ylängön Olympus Mons ja laajin Alba Patera. Siitä itään on yli 4 000 km pitkä, 200 km leveä ja paikoin yli 9 km syvä repeämälaakso Valles Marineris.[36] Hellas ja Argyre ovat suuria muinaisia törmäyskraattereita.
-
-Planeetan pinnalla on joskus virrannut vettä. Niin sanotuilla kaoottisilla alueilla on tapahtunut ikiroudan sulamista. Virtaavan veden jättämiä muinaisia jokiuomia on löydetty monista paikoista, myös merkkejä muinaisista rantaviivoista. Joissakin kraattereissa näkyy pölyn peittämiä jäätiköitä. Eräs alue muistuttaa pölyn peittämää jäätynyttä merta. Joissakin kraatterien syntymäpaikoissa ympäristön aine on roiskunut kuin muta, ei niin kuin kuiva aines. Arvioidaan, että Marsin vesi on liian suolaista ainakin Maassa tavattaville mikrobeille. Toisaalta Atacaman autiomaan syanobakteeripopulaatio elää lähes vastaavissa olosuhteissa.[3]
-
-Monet Marsin pinnanmuodot viittaavat siihen, että pinta ei ole monin paikoin paljonkaan uusiutunut planeetan syntymän jälkeen. Aikoinaan luultiin, että Marsin pinta olisi tasainen, mutta luotainten mukaan pinnan korkeusvaihtelu on 31 km. Jos otetaan huomioon planeettojen säteet, Mars on kolme kertaa ”karkeampi” kuin Maa, jonka korkeusvaihtelut ovat vain noin 20 km.
-
-Marsin nollakorkeus määritellään keskimääräiseksi 6,105 mbar painepinnaksi. Painepinnan yläpuolella on 67 prosenttia Marsin pinnasta, alapuolella 33 prosenttia.
-
-Mars Odyssey -luotaimen ottamista kuvista on löytynyt seitsemän luolan kaltaista muodostelmaa. Nämä luolat näyttävät noin 70–95 metriä syviltä.[37][38][3]
-
-Napalakit
-
-Auringonlasku Gusev-kraatterin luona Spiritin kuvaamana.
-Pääartikkelit: Marsin napalakit ja Marsin vuodenajat
-Marsissa on kilometrien paksuiset pohjoinen ja eteläinen napalakki, joiden nykyään uskotaan koostuvan enimmäkseen vesijäästä, jonka pinnassa ja seassakin on hiilidioksidijäätä. Pohjoinen napalakki, jonka koko on suunnilleen vakio, ulottuu leveysasteelle 70 ja eteläinen napalakki laajimmillaan leveysasteelle 60. Marsin pohjoista napalakkia ympäröivät tummat dyynialueet.
-
-Napalakkien ympärillä ja päällä on myöhäiskesästä tai syksystä talveen napahuntu, joka on pilveä tai sumua. Se paksunee ajan mittaan ja tiivistyy suunnilleen hunnun kohdalla napalakiksi.
-
-Enimmäkseen vesijäästä koostuvat, mutta hiilidioksidijään peittämät napalakit ovat muodoiltaan spiraalimaisia ja monesta kerrostumasta koostuvia. Molemmista on ainakin yksi ulospäin vievä suuri kanjoni. Kerrostumissa vaihtelevat tumman pölyn kerrostumat ja vaaleammat jääkerrokset. Ainakin pohjoisesta napalakista osa on vesijäätä, jonka paksuus on muutamia kilometrejä. Napalakin kanjonien spiraalimuodon on ehkä synnyttänyt tuulieroosio tai sulamis-jäätymisprosessi.[39] Napalakit eivät ole tutkalla tehtyjen mittausten mukaan painaneet Marsin pintaa alas niin kuin Maassa. Marsin napalakkien vesimäärä ei riitä selittämään sen pinnalla joskus lainehtineen veden määrää, joka on päätelty rantaviivoista ja muusta.
-
-Kylminä talvikuukausina 25 prosenttia Marsin kaasukehän hiilidioksidista tiivistyy napalakkiin, joko pohjoiseen tai eteläiseen vuorollaan. Suurin osa Marsin vedestä lienee ikiroutana maaperän pintakerroksessa. Marsissa hiilidioksidi tiivistyy ajoittain kuuraksi. Monissa napalakkien ulkopuolisissa kraattereissa havaitaan varjopaikoissa hiilidioksidijäätä.
-
-Kaasukehä
-Pääartikkeli: Marsin kaasukehä
-Ensimmäiset havainnot Marsin kaasukehästä teki jo vuonna 1783 William Herschel, kun hän päätteli näkemiensä muutosten Marsin pinnalla johtuvan kaasujen ja pilvien liikkeistä.
-
-Marsin kaasukehän paine on noin 6 millibaaria, mutta se vaihtelee suuresti paikan ja vuodenajan mukaan. Ylempänä Marsin 95,32-prosenttisesti hiilidioksidista, typestä ja argonista koostuva ”ilma” on harvempaa, alangoilla huomattavasti tiheämpää. Ilmanpaine vaihtelee vuodenajan mukaan muun muassa sen takia, että osa hiilidioksidikaasukehästä sitoutuu talvella napalakkiin.
-
-Marsin kaasukehässä on noin yhdeksän kertaa enemmän hiilidioksidia kuin Maan kaasukehässä.[40] Vesihöyryä kaasukehässä on 0,03 %.[40]
-
-Marsin pinnan keskilämpötila on −55 °C, Maassa se on noin 15 °C. Navoilla lämpötila voi pudota yöllä −133 °C:seen, päiväntasaajalla nousta jopa +20…+25 °C:seen. Lämpötilan vuorokausivaihtelu on yli 50 astetta. Marsin sään vaihtelut ovat huomattavasti säännöllisempiä kuin Maassa.
-
-Marsin kaasukehässä on hyvin pieniä määriä vesihöyryä. Napalakeissa ja ikiroudassa on suuret vesivarastot. Marsissa esiintyy valkoisia hiilidioksidi- ja vesijäästä koostuvia kidepilviä. Vesijääpilvet leijuvat noin 10 km:n korkeudessa ja hiilidioksidijääpilvet noin 50 km:n korkeudessa. Marsin ylempi kaasukehä ulottuu erään arvion mukaan noin 300 km:n korkeuteen.[40][41] Tornadoa hieman muistuttavat pölypyörteet ovat Marsissa tavallisia. Suurempia pölymyrskyjä on, ja joskus ne peittävät koko planeetan pinnan näkyvistä.
-
-Koska suojaavaa magneettikenttää ei ole, kaasukehää haihtuu avaruuteen aurinkotuulen mukana jatkuvasti, noin 100 grammaa sekunnissa.[42]
-
-Muinaisolot ja elämän mahdollisuus
-Pääartikkeli: Elämä Marsissa
-
-Nasan hypoteettinen näkemys muinaisista valtameristä Marsissa.
-Oletetaan, että muinoin Marsin pohjoisosia on peittänyt paikoitellen jopa kilometrin syvyinen valtameri.[5] Marsissa on mahdollisesti ollut tiheä kaasukehä noin 4 miljardia vuotta sitten 500 miljoonan vuoden ajan. Nykyisin Mars on kuitenkin tuntemallemme elämälle keskimäärin liian kylmä ja Marsin kaasukehä on liian ohut. Planeetan menneisyydessä on tosin ollut jaksoja, jolloin tulivuoret ovat purkaneet kaasukehään kaasuja ja se on ollut paksumpi. Ei kuitenkaan osata sanoa, kuinka pitkiä nämä ajanjaksot ovat olleet, ja elämän kehitys puolestaan vie pitkän aikaa. Mars on terrestrinen planeetta, mutta pieni. Merkittävää auringon hiukkassäteilyltä suojaavaa magneettikenttää ei ole ytimen jäähdyttyä, mutta tiettyjen alueiden ympäriltä löydetyt heikot magneettikentät voivat olla jäänne entisestä, koko planeetan kattaneesta kentästä. Marsin vaipassa ei tapahdu enää riittävästi laattatektoniikkaa tuottavia virtauksia. Marsissa ei ole myöskään ultraviolettisäteilyltä suojaavaa otsonikerrosta.
+The characteristic red color of Mars comes from iron oxide in its surface sand. According to measurements by the Viking probe, the Martian surface is about 13% iron, 21% silicon, and also contains sulfur, more than ten times the amount found on Earth. Winds lift the red dust of Mars high into the atmosphere, so the Martian sky also appears red, especially near the horizon.[35]
 
 
-ALH 84001 -meteoriitin pintaa kuvattuna elektronimikroskoopilla.
-Vielä 1960-luvulla uskottiin, että Marsissa voisi olla elämää, sillä kaasukehää pidettiin melko paksuna ja pinnalla havaittiin vuodenaikavaihteluita. Myöhemmin ne ovat paljastuneet tumman ja vaalean pölyn liikkeeksi planeetan vuodenajan mukaan muuttuvien tuulten mukana. 1800-luvun lopuilla ja aivan 1900-luvun alussa Marsin pinnassa nähtiin kanavia, jotka sittemmin paljastuivat ihmissilmän taipumukseksi yhdistellä pistemäisiä tummia kohtia. Kanavakarttoja laativat italialainen Giovanni Schiaparelli ja amerikkalainen Percival Lowell. Näiden kanavien uskottiin olevan marsilaisten rakentamia. Usko kanaviin hiipui jo 1910-luvulla. Marsia tutkineet luotaimet ovat kyllä löytäneet pienempiä mahdollisesti veden tai jään muovaamia joenpohjia ja järvenrantoja. Vaikka eräistä Viking-luotainten tekemistä maaperäanalyyseistä kiisteltiin aikanaan, Marsista ei ole löydetty elämää.
+The hemispheres of Mars.
+Space probes have discovered huge volcanoes on the surface of Mars, the tallest of which is Olympus Mons in the Tharsis Plateau and the largest is Alba Patera. To the east of this is the Valles Marineris, a rift valley over 4,000 km long, 200 km wide, and in places over 9 km deep.[36] Hellas and Argyre are large ancient impact craters.
 
-On arveltu, että Marsin kaasukehässä oleva pieni määrä metaania olisi seurausta mikroskooppisista elämänmuodoista planeetan kuoren alla. 19. syyskuuta 2013 julkaistiin Curiosity-mönkijän havaintoihin perustuva tutkimustulos, jonka mukaan metaania olisi kaasukehässä vain murto-osa aiemmin Maasta tai avaruudesta käsin tehtyihin havaintoihin verrattuna. Tutkimustulos vähentää mikroskooppisen elämän mahdollisuutta planeetalla, vaikkei sulje sitä kokonaan pois.[43][44][45]
+Water has flowed on the planet's surface at times. Permafrost thawing has occurred in so-called chaotic regions. Ancient riverbeds left by flowing water have been found in many places, including traces of ancient shorelines. Some craters show dust-covered glaciers. One area resembles a frozen sea covered in dust. In some crater birth sites, the surrounding material has been spattered like mud, not like dry matter. It is estimated that the water on Mars is too salty, at least for microbes found on Earth. On the other hand, the cyanobacterial population in the Atacama Desert lives in almost similar conditions.[3]
 
-Havaitseminen
-Mars näkyy parhaiten sen ollessa lähimpänä Maata eli oppositiossa. Opposition tienoilla kannattaa havaita Marsia. Koska Marsin rata on varsin soikea, oppositioetäisyydet Maan ja Marsin välillä vaihtelevat. Marsin ollessa lähellä Aurinkoa oppositiota sanotaan perihelioppositioksi. Perihelioppositio, missä Mars on lähellä maapalloa, ei ole kovin yleinen. Läheiset Marsin oppositiot toistuvat kerran 15–17 vuodessa heinä-syyskuussa. Lähioppositioissa näkyy Marsin piirteitä pienilläkin kaukoputkilla. 27. elokuuta 2003 kello 9.51.13 UTC Mars oli 60 000 vuoteen lähimpänä, 55 758 006 km:n (0,37271 AU:n) päässä Maasta. Suomesta katsottuna perihelioppositiot ovat kuitenkin epäedullisia, koska Mars on silloin Suomesta katsottuna hyvin matalalla horisontissa Jousimiehen tähdistön suunnalla. Suomessa parhaimpia ovatkin perihelioppositiota seuraavat oppositiot, jolloin planeetta nousee korkeammalle taivaalle. Edellinen Marsin oppositio oli 29. tammikuuta 2010, ja seuraava oppositio oli 3. maaliskuuta 2012 (aphelioppositio). Maata sisempänä kiertävä planeetta Merkurius on joskus peittänyt kaukana Auringon toisella puolella olevan Marsin.
+Many of Mars' landforms suggest that the surface has not been renewed much in many places since the planet's birth. It was once thought that Mars' surface was flat, but probes have shown that the surface varies in elevation by 31 km. If we take into account the radii of the planets, Mars is three times "rougher" than Earth, which varies in elevation by only about 20 km.
 
-Mars näyttää Maasta katsottuna paljain silmin kirkkaalta tähdeltä. Kun sitä katsoo suurella kaukoputkella, siinä näkyy tummempia ja vaaleampia alueita, ”mantereita” ja ”meriä”, joiden nykyään tiedetään olevan erivärisiä pintamaalajeja. Maahan näkyvät myös kooltaan vaihtelevat pohjoinen ja eteläinen napalakki, keltaisia pölymyrskyjä ja valkeita pilviä. Tunnetuin Marsin tumma alue on Syrtis Major, joka erottuu melko hyvin pienehkölläkin kaukoputkella. Normaalikokoisella kaukoputkella Marsin kraatterit eivät näy, vaaleaa Hellasta lukuun ottamatta.
+The zero altitude of Mars is defined as the average pressure surface of 6.105 mbar. Above the pressure surface is 67 percent of the Martian surface, below 33 percent.
 
-Topografinen kartta
+Images taken by the Mars Odyssey spacecraft have revealed seven cave-like formations. These caves appear to be approximately 70–95 meters deep.[37][38][3]
 
-Marsin korkeuskuvakartta.
-Marsista on laadittu karttoja 1800-luvun lopulta lähtien. Varhaisissa kartoissa näkyy tummia ja vaaleita alueita. 1800-luvun lopulla ja 1900-luvun alussa Marsista laativat kaukoputkihavaintojen perusteella karttoja muun muassa Green, J. N. Lockyear, Giovanni Schiaparelli, Earl Charles Slipher, Percival Lowell ja Eugène Antoniadi. Eräässä vaiheessa oltiin näkevinään kanavia Marsin pinnalla. Nykyiset kartat perustuvat avaruusluotainten ottamiin kuviin. Ensimmäisen laajan Marsin kartoituksen teki amerikkalaisen Marsia kiertänyt Mariner 9. Sitä seurasivat Viking 1 ja Viking 2. Tulevia luotainlentoja varten ja tiedon saamiseksi on tarvetta kartoittaa Marsia yhä tarkemmin. Nykyään Marsia kartoittaa Euroopan Mars Express.
+Polar caps
 
-Kuut
-Pääartikkeli: Marsin kuut
+Sunset at Gusev Crater as captured by Spirit.
+Main articles: Polar caps of Mars and Martian seasons
+Mars has a north and south polar ice cap, each several kilometers thick, which are now thought to consist mostly of water ice, with carbon dioxide ice on and in the crust. The north polar ice cap, which is approximately constant in size, extends to latitude 70°, and the south polar ice cap, at its widest, extends to latitude 60°. The north polar ice cap of Mars is surrounded by dark dune areas.
 
-Marsin kuut Phobos (yllä) ja Deimos (alla) oikeassa kokosuhteessa.
+From late summer or autumn to winter, a polar veil, which is a cloud or fog, surrounds and covers the polar caps. It thickens over time and condenses into a polar cap at about the point of the veil.
 
-Phobosin ja Deimoksen etäisyyserot Marsista.
-Marsilla on kaksi kuuta, Phobos (Pelko) ja Deimos (Kauhu).[4] Molemmat ovat Maan kuuhun ja emoplaneettaansa verrattuna erittäin pieniä: Phobos on halkaisijaltaan 22,2 kilometriä, Deimos 12,4 kilometriä.
+The polar caps, which are mostly composed of water ice but are covered in carbon dioxide ice, are spiral-shaped and consist of many layers. Each has at least one large canyon leading outward. The layers alternate between layers of dark dust and lighter layers of ice. At least part of the northern polar cap is water ice, several kilometers thick. The spiral shape of the canyons of the polar cap may have been created by wind erosion or a melt-freeze process.[39] According to radar measurements, the polar caps have not depressed the surface of Mars as they have on Earth. The amount of water in the Martian polar caps is not sufficient to explain the amount of water that has sometimes rippled on its surface, as inferred from shorelines and other evidence.
 
-Mars on mahdollisesti kaapannut kuut läheisestä asteroidivyöhykkeestä, sillä ne ovat asteroidien näköisiä, kokoisia ja niiden koostumuskin on miltei sama kuin kiviasteroideilla. On myös esitetty kuiden saaneen alkunsa, kun Marsiin on törmännyt yksi tai useampi kappale nostattaen kiertoradalle suuret määrät materiaalia, joka kasaantui muodostaen Phoboksen ja Deimoksen.[46]
+During the cold winter months, 25 percent of the carbon dioxide in the Martian atmosphere condenses in the polar caps, either north or south. Most of the water on Mars is likely permafrost in the surface layer of the soil. On Mars, carbon dioxide occasionally condenses into frost. Carbon dioxide ice is observed in shadowed areas in many craters outside the polar caps.
 
-Asaph Hall löysi molemmat kiertolaiset vuonna 1877. Ne on nimetty kreikkalaisen mytologian Ares-jumalan poikien mukaan.
+Gas ring
+Main article: Atmosphere of Mars
+The first observations of the Martian atmosphere were made as early as 1783 by William Herschel, when he concluded that the changes he saw on the surface of Mars were due to the movements of gases and clouds.
 
-Nimi	Numero	Keskihalkaisija
-(km)[4]	Massa
-(kg)[4]	Kiertoradan keskisäde
-(km)[4]	Kiertoaika
-(d)[4]	Löytövuosi[4]
-Phobos	I	22,2	1,07 · 1016	9 378	0,3189	1877
-Deimos	II	12,4	1,47 · 1015	23 458	1,2624	1877
-Meteoriitit
+The atmospheric pressure on Mars is about 6 millibars, but it varies greatly depending on location and season. In the higher altitudes, the Martian “air,” which consists of 95.32 percent carbon dioxide, nitrogen, and argon, is thinner, and in the lowlands it is significantly denser. The atmospheric pressure varies with the season, among other things because part of the carbon dioxide atmosphere binds to the polar ice caps in winter.
+
+The Martian atmosphere contains about nine times more carbon dioxide than Earth's atmosphere.[40] The atmosphere contains 0.03% water vapor.[40]
+
+The average temperature of the surface of Mars is −55 °C, while on Earth it is about 15 °C. At the poles, the temperature can drop to −133 °C at night, and at the equator it can rise to +20…+25 °C. The daily temperature variation is more than 50 degrees. The weather on Mars is much more regular than on Earth.
+
+The Martian atmosphere contains very small amounts of water vapor. The polar ice caps and permafrost contain large amounts of water. White crystalline clouds of carbon dioxide and water ice occur on Mars. Water ice clouds hover at an altitude of about 10 km, and carbon dioxide ice clouds at an altitude of about 50 km. The upper atmosphere of Mars is estimated to extend to an altitude of about 300 km.[40][41] Dust storms, somewhat resembling tornadoes, are common on Mars. Larger dust storms occur, sometimes obscuring the entire surface of the planet.
+
+Because there is no protective magnetic field, the atmosphere is constantly being lost to space by the solar wind, at a rate of about 100 grams per second.[42]
+
+Ancient conditions and the possibility of life
+Main article: Life on Mars
+
+NASA's hypothetical view of ancient oceans on Mars.
+It is assumed that in ancient times the northern parts of Mars were covered by an ocean up to a kilometer deep in places.[5] Mars may have had a dense atmosphere for 500 million years, about 4 billion years ago. However, today Mars is on average too cold for life as we know it, and the atmosphere is too thin. There have been periods in the planet's past when volcanoes have released gases into the atmosphere and it has been thicker. However, it is not known how long these periods have been, and the development of life in turn takes a long time. Mars is a terrestrial planet, but a small one. There is no significant magnetic field that protects against solar particle radiation after the core cooled, but the weak magnetic fields found around certain regions may be a remnant of a former field that covered the entire planet. The Martian mantle no longer has sufficient flows to produce plate tectonics. Mars also does not have an ozone layer to protect against ultraviolet radiation.
+
+
+The surface of the ALH 84001 meteorite photographed with an electron microscope.
+As late as the 1960s, it was believed that Mars could support life, as the atmosphere was considered quite thick and seasonal variations were observed on the surface. Later, these were revealed to be the movement of dark and light dust along with the planet's seasonal winds. In the late 19th century and early 20th century, channels were seen on the surface of Mars, which were later revealed to be the human eye's tendency to combine dark dots. Channel maps were made by the Italian Giovanni Schiaparelli and the American Percival Lowell. These channels were believed to have been built by Martians. Belief in channels waned as early as the 1910s. Probes that have explored Mars have indeed found smaller riverbeds and lake shores, possibly shaped by water or ice. Although some of the soil analyses performed by the Viking probes were disputed at the time, no life has been found on Mars.
+
+It has been suggested that the small amount of methane in the Martian atmosphere could be the result of microscopic life forms beneath the planet's crust. On September 19, 2013, a study based on observations by the Curiosity rover revealed that the atmospheric methane levels were a fraction of those previously observed from Earth or space. The study reduces the possibility of microscopic life on the planet, although it does not rule it out.[43][44][45]
+
+Detection
+Mars is best seen when it is closest to Earth, i.e. at opposition. It is worth observing Mars around opposition. Because Mars' orbit is quite elliptical, the opposition distances between Earth and Mars vary. When Mars is close to the Sun, opposition is called perihelion opposition. Perihelion opposition, where Mars is close to Earth, is not very common. Close oppositions of Mars occur once every 15–17 years in July–September. At close oppositions, features of Mars can be seen even with small telescopes. On August 27, 2003 at 9:51:13 UTC, Mars was at its closest in 60,000 years, at a distance of 55,758,006 km (0.37271 AU) from Earth. However, from Finland, perihelion oppositions are unfavorable because Mars is then very low on the horizon in the direction of the constellation Sagittarius. In Finland, the best oppositions are those following perihelion opposition, when the planet rises higher in the sky. The previous opposition of Mars was on January 29, 2010, and the next opposition was on March 3, 2012 (aphelion opposition). The planet Mercury, which orbits closer to Earth, has sometimes eclipsed Mars, which is far away on the other side of the Sun.
+
+From Earth, Mars appears to the naked eye like a bright star. When viewed with a large telescope, it shows darker and lighter areas, “continents” and “seas,” which are now known to be different types of surface land. Also visible to Earth are the north and south polar caps of varying sizes, yellow dust storms, and white clouds. The most famous dark area on Mars is Syrtis Major, which stands out quite well even with a small telescope. With a normal-sized telescope, the craters on Mars are not visible, except for the pale Hellas.
+
+Topographic map
+
+Elevation map of Mars.
+Maps of Mars have been made since the late 19th century. Early maps show dark and light areas. In the late 19th and early 20th centuries, maps of Mars based on telescope observations were made by Green, JN Lockyear, Giovanni Schiaparelli, Earl Charles Slipher, Percival Lowell and Eugène Antoniadi, among others. At one point, canals were thought to be visible on the surface of Mars. Current maps are based on images taken by space probes. The first extensive mapping of Mars was done by the American Mariner 9, which orbited Mars. It was followed by Viking 1 and Viking 2. There is a need to map Mars more and more precisely for future probe flights and to obtain information. Today, Mars is being mapped by the European Mars Express.
+
+Moons
+Main article: Moons of Mars
+
+Mars' moons Phobos (above) and Deimos (below) in correct size.
+
+Distance differences between Phobos and Deimos from Mars.
+Mars has two moons, Phobos (Fear) and Deimos (Horror).[4] Both are very small compared to Earth's moon and their parent planet: Phobos is 22.2 kilometers in diameter, Deimos 12.4 kilometers.
+
+Mars may have captured the moons from the nearby asteroid belt, as they are similar in appearance, size, and composition to rocky asteroids. It has also been suggested that the moons originated when one or more objects collided with Mars, throwing large amounts of material into orbit, which accumulated to form Phobos and Deimos.[46]
+
+Both circumpolar planets were discovered by Asaph Hall in 1877. They are named after the sons of the god Ares in Greek mythology.
+
+Name 	Number Diameter
+(km)[4] 	Mass
+(kg)[4] 	Orbital radius
+(km)[4] 	Lap time
+(d)[4] 	Year of discovery[4]
+Phobos 	I22,21,07 · 10169 3780,31891877
+Deimos 	II12,41,47 · 101523 4581,26241877
+Meteorites
 
 ALH 84001.
-Jotkut meteoriitit sisältävät ainetta Marsista. Kun Marsiin on törmännyt iso kappale, osa törmäyksessä syntyneistä törmääjän ja Marsin sirpaleista on saavuttanut niin suuren nopeuden, että ne ovat kyenneet karkaamaan Marsin vetovoimakentästä. Tämän jälkeen sirpale on törmännyt Maahan meteoriittina. Tunnetuin Mars-peräinen meteoriitti on ALH 84001.
+Some meteorites contain material from Mars. When a large object has collided with Mars, some of the fragments of the impactor and Mars created in the collision have reached such high speeds that they have been able to escape the gravitational field of Mars. After this, the fragment has hit Earth as a meteorite. The best-known meteorite of Martian origin is ALH 84001.
 
-Miehitetty Mars-lento ja Marsin asuttaminen
-Pääartikkeli: Miehitetty Mars-lento ja Marsin asuttaminen
-Miehitetyistä Mars-lennoista ja Marsin asuttamisesta on tehty erilaisia suunnitelmia. On esitetty myös, että Marsia voitaisiin jopa maankaltaistaa, koska planeetalla on jäätynyttä vettä ja kaasukehääkin jonkin verran. Siihen tarvittaisiin muun muassa kaasukehän paineen nostamista yli satakertaiseksi, myrkyllisen hiilidioksidin poistamista sekä happi–typpi-seoksen lisäämistä esimerkiksi vapauttamalla niitä maaperästä ja jäästä; käytännössä ilmäkehän luomista ja sen suojaamista aurinkotuulelta. Maankaltaistamisen eettisyys on herättänyt tieteellistä keskustelua.[47]
+Manned Mars flight and Mars colonization
+Main article: Manned Mars flight and Mars colonization
+Various plans have been made for manned missions to Mars and the colonization of Mars. It has also been suggested that Mars could even be made Earth-like, since the planet has frozen water and some atmosphere. This would require, among other things, increasing the atmospheric pressure by more than a hundredfold, removing toxic carbon dioxide, and increasing the oxygen-nitrogen mixture, for example by releasing it from soil and ice; in practice, creating an atmosphere and protecting it from the solar wind. The ethics of making Mars Earth-like have sparked scientific debate.[47]
 
-Nasa on pohtinut miehitettyä lentoa Marsiin jo 1950-luvulla, jolloin muun muassa Collier-lehti lobbasi avaruuslentojen puolesta monilla teemoilla. Mars-lennot olivat 1960-luvulla vaihtoehtona Apollo-ohjelmalle siltä varalta, että neuvostoliittolaiset olisivat ehtineet Kuuhun ennen yhdysvaltalaisia. Mars-lennot olivat myös 1980-luvun lopulla osana Space Exploration Initiative (SEI) -hanketta ja vuodesta 2004 Moon to Mars -ohjelmassa. Kuten 1980-luvun lopun suunnitelmassa, miehitetty Mars-lento toteutunee aikaisintaan vuonna 2030.
+NASA has been considering a manned flight to Mars since the 1950s, when Collier magazine, among others, lobbied for spaceflight on many topics. In the 1960s, Mars flights were an alternative to the Apollo program in case the Soviets had reached the Moon before the Americans. Mars flights were also part of the Space Exploration Initiative (SEI) project in the late 1980s and, since 2004, in the Moon to Mars program. As in the plan from the late 1980s, a manned flight to Mars is likely to be realized no earlier than 2030.
 
-Neuvostoliitto osoitti 1980-luvulla suurta kiinnostusta Marsia kohtaan (esimerkiksi Phobos-luotaimet, Mars-96).
+The Soviet Union showed great interest in Mars in the 1980s (for example, the Phobos probes, Mars-96).
 
-Euroopan avaruusjärjestön Aurora-ohjelma varsinkin alkuvaiheessa sisälsi panostusta miehitettyihin lentoihin mutta on sittemmin siirtynyt pääosin miehittämättömiin.
+The European Space Agency's Aurora program, especially in the early stages, included an investment in manned flights, but has since shifted mainly to unmanned ones.
 
-Hollantilainen Mars One -yhtiö suunnitteli valitsevansa vuoden 2014 aikana internetin kautta ilmoittautuneista vapaaehtoisista monikansallisen 40 ihmisen ryhmän monivuotiseen koulutukseen. Koulutukseen osallistuvista seulottaisiin 2 miestä ja 2 naista laukaistavaksi yksisuuntaiselle matkalle kohti Marsia syyskuussa 2022.[48]
+The Dutch company Mars One planned to select a multinational group of 40 people for a multi-year training program from volunteers who had registered online in 2014. Of those who would participate in the training, 2 men and 2 women would be selected for a one-way trip to Mars in September 2022.[48]
 
 
-BFR Starship Mk2 -prototyyppi rakenteilla. Cocoa, Florida, elokuussa 2019.
-SpaceX-yritys kehittää Mars-lentoihin soveltuvaa avaruusalusta BFR:ää. Vuonna 2019 sen ensimmäiset prototyypit ovat rakenteilla. Yrityksen tavoite on Marsin asuttaminen. Sen ensimmäinen ja SpaceX:n perustajan Elon Muskin mukaan vaikein askel on riittävän suuren ja edullisen kuljetusratkaisun kehittäminen.
+BFR Starship Mk2 prototype under construction. Cocoa, Florida, August 2019.
+SpaceX is developing a spacecraft called BFR, which is suitable for Mars flights. The first prototypes are under construction in 2019. The company's goal is to colonize Mars. The first and, according to SpaceX founder Elon Musk, the most difficult step is to develop a sufficiently large and affordable transportation solution.
 
-Marsin tulivuoret
-Olympus Mons on sammunut tulivuori, joka sijaitsee tuliperäisellä Tharsiksen ylängöllä kolmen muun kilpitulivuoren kanssa: Arsia Mons, Pavonis Mons ja Ascraeus Mons.
+Mars volcanoes
+Olympus Mons is an extinct volcano located in the volcanic Tharsis Plateau along with three other shield volcanoes: Arsia Mons, Pavonis Mons, and Ascraeus Mons.
 
-Tulivuorten kokovertailuja
+Volcano size comparisons
 
-Olympus Mons verrattuna Ranskaan.
+Olympus Mons compared to France.
 
-Olympus Mons väärävärikuvassa.
+Olympus Mons in false color.
 
-Olympus Mons verrattuna maapallon vuoriin.
-Marsin maankaltaistaminen
-Marsin maankaltaistaminen tarkoittaisi Marsin olojen, kuten ilmaston ja kaasukehän muokkaamista elämälle sopiviksi.[49] Kaksi teoreettista vaihtoehtoa on esitetty, ensimmäisessä napalakeissa oleva hiilidioksidijää haihdutetaan nostamalla Marsin kaasukehän lämpötilaa kasvihuonekaasuilla. Toinen vaihtoehto on napalakin lämmittäminen ja höyrystäminen Marsin kiertoradalle sijoitettujen peilien avulla.
+Olympus Mons compared to mountains on Earth.
+Terraforming Mars
+Terraforming Mars would involve modifying the Martian conditions, such as climate and atmosphere, to be suitable for life.[49] Two theoretical options have been proposed, the first being to evaporate the carbon dioxide ice in the polar caps by raising the temperature of the Martian atmosphere with greenhouse gases. The second option is to heat and vaporize the polar caps using mirrors placed in orbit around Mars.

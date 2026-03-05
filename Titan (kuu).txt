@@ -1,82 +1,82 @@
-Titan (kuu)
+Titan (moon)
 
-Löytäminen
-Löytäjät	Christiaan Huygens
-Löytöaika	25. maaliskuuta 1655
-Kiertoradan ominaisuudet
-Planeetta	Saturnus
-Keskietäisyys	1 221 931 km
-Eksentrisyys	0,028880
-Kiertoaika	15,94542 d
-Inklinaatio	0,34854°
-Fyysiset ominaisuudet
-Päiväntasaajan halkaisija	5 150 km
-Pinta-ala	83 000 000 km2
-Massa	1,345×1023 kg
-0,025 Maan massaa
-Keskitiheys	1,88 g/cm3
-Painovoima pinnalla	1,35 m/s2
-Pakonopeus pinnalla	2,639 km/s
-Pyörähdysaika	15,94542 d
-Akselin kaltevuus	0°
-Albedo	0,21
-Pinnan lämpötila	alin: K
-keski: 94 K
-ylin: K
-Kaasukehän ominaisuudet
-Kaasunpaine	160 kPa
-Koostumus
-typpi
-metaani	95 %
-5 %
-Titan on Saturnuksen suurin kuu.[1] Sen löysi hollantilainen Christiaan Huygens 25. maaliskuuta 1655.[2] Titan on halkaisijaltaan suurempi kuin Merkurius-planeetta, mutta massaltaan huomattavasti Merkuriusta pienempi. Titan on aurinkokunnan toiseksi suurin kuu Ganymedeksen jälkeen.
+Discovery
+Discoverers 	Christiaan Huygens
+Date of discovery: 	March 25, 1655
+Orbital characteristics
+Planet 	Saturn
+Average distance 	1,221,931 km
+Eccentricity 	0.028880
+Rotation period 	15.94542 d
+Inclination 	0.34854°
+Physical properties
+Equatorial diameter 	5,150 km
+Area 	83,000,000 km2
+Mass 	1.345×1023 kg
+0.025 Earth masses
+Average density 	1.88 g/cm3
+Gravity at surface 	1.35 m/s2
+Escape velocity on the surface 	2.639 km/s
+Rotation period 	15.94542 d
+Axis inclination 	0°
+Albedo 	0.21
+Surface temperature 	lowest: K
+average: 94 K
+top: K
+Gas ring properties
+Gas pressure 	160 kPa
+Composition
+nitrogen
+methane 	95%
+5%
+Titan is the largest moon of Saturn.[1] It was discovered by Dutch astronomer Christiaan Huygens on March 25, 1655.[2] Titan is larger in diameter than the planet Mercury, but significantly less massive. Titan is the second-largest moon in the Solar System, after Ganymede.
 
-Titanissa on niin kylmä että muun muassa vesi on siellä pinnalla jäänä ja yksi "peruskallion" rakennusaine, ja veden sijaan järvissä lainehtii metaani.[3] Titan on aurinkokunnan ainoa kuu, jolla on tiheä kaasukehä. Kaasukehä koostuu lähinnä typestä, metaanista ja etaanista, ja siinä oleva utu peittää kuun piirteet näkyvässä valossa alleen. Kaasukehä läpäisee silti tutka-aaltoja ja infrapunaa. Kaasukehä tekee mahdolliseksi sen, että Titanin pinnalla on joitain hiilivetyjärviä. Muuten Titanin pinnalla on vulkaanisia muodostumia, repeämälaaksoja, tuulen muokkaamia dyynejä ja viirumaisia muodostumia ja muutama kraatterikin.
+Titan is so cold that, among other things, water exists as ice on its surface and is one of the building blocks of "bedrock," and instead of water, methane flows in lakes.[3] Titan is the only moon in the solar system with a dense atmosphere. The atmosphere consists mainly of nitrogen, methane, and ethane, and the haze in it obscures the moon's features in visible light. The atmosphere is still transparent to radar and infrared. The atmosphere makes it possible for Titan to have some hydrocarbon lakes on its surface. Otherwise, Titan's surface has volcanic formations, rift valleys, wind-shaped dunes, and streaky formations, and even a few craters.
 
-Titan-kuu kiinnostaa tutkijoita erityisesti, koska sen uskotaan jossain määrin muistuttavan alkuaikojen Maata. Jopa elämän esiintymistä pidetään mahdollisena runsaan hiilivetyaineksen pohjalta. Sitä on tutkittu muun muassa Hubble-avaruusteleskoopilla ja Cassini-Huygens-luotainparilla.
+Titan is of particular interest to scientists because it is believed to resemble the early Earth to some extent. It is even considered possible for life to exist, based on its abundant hydrocarbons. It has been studied by, among others, the Hubble Space Telescope and the Cassini-Huygens spacecraft.
 
-Titanin geologia
+Geology of Titan
 
-Poikkileikkaus Titanin ilmakehästä ja ytimestä.
-Titan on melko tasainen, korkeusvaihtelu lienee korkeintaan kilometrin-parin luokkaa. Titanin pinta tunnetaan kokonaisuudessaan hyvin epätarkasti maasta otetuista kuvista ja Cassini-luotaimen ottamista kaukokuvista. Cassinin tutkan keila on niin kapea, että yhdellä ohituksella ei pystytä kartoittamaan suuria alueita kerrallaan. Kuun pintaa peittää vesijään ja hiilivetyjään seos. Jäätä on kivinä. Jään seassa on hiekan tai saven karkeuksista mineraaliainesta. Pinnan lämpötila on Huygens-luotaimen mittausten perusteella arvioitu 93,8 kelvinin (noin −180 °C) lämpöiseksi. Titanin kuori koostuu jäästä, jonka alla arvioidaan olevan noin kymmenien kilometrien paksuinen sula kerros. Se on syntynyt Saturnuksen vuorovesivoimien aiheuttamasta kitkakuumennuksesta. Sieltä purkautuu "jäätulivuorissa" luultavasti ajoittain nestemäistä "laavaa" joka on veden ja ammoniakin seos. Laava syntyy radioaktiivisen hajoamisen aiheuttaman lämmitysvaikutuksen takia niin kuin Maassakin. Jäätulivuorten purkama laava lienee jäätä tiheämpää, ja vaatii ylimääräisen voimanlähteen, joka saattaa olla vuorovesi-ilmiö. Saturnuksen aiheuttamat vuorovesivoimat ovat Titanin pinnalla 400 kertaa suurempia kuin Kuun aiheuttamat Maassa.
+Cross-section of Titan's atmosphere and core.
+Titan is fairly flat, with elevation variations of no more than a couple of kilometers. Titan's surface is known in its entirety, albeit very imprecisely, from images taken from the ground and from distant images taken by the Cassini spacecraft. Cassini's radar beam is so narrow that it is not possible to map large areas at a time with a single pass. The moon's surface is covered by a mixture of water ice and hydrocarbons. The ice is in the form of rocks. The ice contains coarse mineral matter of sand or clay. The surface temperature is estimated to be 93.8 kelvins (about −180 °C) based on measurements by the Huygens spacecraft. Titan's crust consists of ice, beneath which is estimated to be a molten layer about tens of kilometers thick. It was created by frictional heating caused by Saturn's tidal forces. From there, liquid "lava" probably erupts from time to time in "ice volcanoes", which are a mixture of water and ammonia. Lava is produced by the heating effect of radioactive decay, just as it is on Earth. Lava erupted by ice volcanoes is likely denser than ice, and requires an additional source of power, which may be tidal forces. The tidal forces exerted by Saturn are 400 times greater on Titan's surface than those exerted by the Moon on Earth.
 
-Ennen Cassini-luotaimen tutkimuksia arveltiin, että merkittävimmät Titanin pinnan piirteet olisivat törmäyskraattereita ja vastaavia muodostumia, niin kuin Maan Kuussa. Mutta Titanista löytyikin yllättäen enemmän Maan geologisia ja pinnanmuotoja muistuttavia piirteitä.
+Before the Cassini probe's studies, it was thought that the most prominent features on Titan's surface would be impact craters and similar formations, like those on Earth's Moon. But Titan surprisingly contained more geological and landform features that resembled Earth.
 
-Titanista otetuissa kuvissa näkyy vain muutama meteoriittikraatteri, koska pinta uusiutuu niin nopeasti.
+Only a few meteorite craters are visible in images taken from Titan because the surface is renewed so quickly.
 
-Titanin pinnasta otetuissa infrapunakuvissa erottuu tummia tasankoja ja vaaleita vulkaanisia alueita, joista tunnetuin on Xanadu. Xanadussa on monenlaista maastoa, muun muassa halkeamia. Vaaleiden alueiden oletetaan olevan hieman tummempia alueita ylempänä. Päiväntasaajalla olevat laajat tummat alueet tulkittiin ennen meriksi, mutta nykytiedon mukaan ne ovat hiilivetyhiekasta ja -pölystä syntyneitä dyynikenttiä. Päiväntasaajan suurta, tummaa kuivaa aluetta kutsutaan nimellä Shangri-La.
+Infrared images of Titan's surface show dark plains and light volcanic areas, the most famous of which is Xanadu. Xanadu has a variety of terrain, including fissures. The light areas are thought to be slightly darker areas higher up. The large dark areas at the equator were previously interpreted as seas, but are now thought to be dune fields formed by hydrocarbon sand and dust. The large, dark, dry area at the equator is called Shangri-La.
 
-Pinnalta erottuu Venuksen tuliperäisiä "pannukakkuja" muistuttavia vaaleita, pyöreitä kupoleita. On myös löydetty vaalea, ehkä metaanilumen peittämä vuoristo, joka on luultavasti syntynyt kahden "mannerlaatan" puristuessa toistaan vasten. Erään näkemyksen mukaan Titanin vuoret syntyivät, kun se kutistui.[4]
+The surface features pale, round domes resembling the volcanic "pancakes" of Venus. A pale mountain range, perhaps covered in methane snow, has also been discovered, likely formed by the collision of two "continental plates". One theory is that Titan's mountains were formed as it shrank.[4]
 
 
-Titanista otettuja infrapunakuvia.
-Erityyppisten alueiden rajalla, rantaviivalla, leviää paikoin joenuomia ja suistoja muistuttavia maastonpiirteitä. Lisäksi pinnalla on tummia lyhyitä kanavanpätkiä, joiden muodostumista metaanilähteistä pidetään todennäköisempänä alkuperänä kuin metaanisateita. Vaaleat harjanteet ovat ehkä pinnan läpi purkautunutta vesijäätä.
+Infrared images taken from Titan.
+Along the boundary of different types of areas, the coastline, there are landforms resembling riverbeds and estuaries. In addition, there are dark short sections of channels on the surface, the formation of which is considered to be more likely to be from methane sources than from methane rain. The light ridges are perhaps water ice that has erupted through the surface.
 
-Titanin hiilivetyjärvet ovat lähempänä napaseutuja. Cassini-luotain havaitsi Titanin pinnalla useita metaanijärviä, joista yksi on nimetty Suomessa sijaitsevan Koitere-järven mukaan.[5] Järvi on noin 70 kilometriä pitkä. Titanin metaanijärvien on huomattu painottuvan voimakkaasti pohjois- ja etelänapojen läheisyyteen, jättäen päiväntasaajan melko kuivaksi alueeksi, näistä pohjoisnavalla on enemmän järviä kuin etelänavalla. Suurin kuulta löydetty metaanijärvi on Suomen pinta-alaa suurempi.[3] Titanin suurin järvi saattaa olla osin tutkalla kartoitettu Krakenin meri.
+Titan's hydrocarbon lakes are closer to the poles. The Cassini spacecraft detected several methane lakes on Titan's surface, one of which is named after Lake Koitere in Finland.[5] The lake is about 70 kilometers long. Titan's methane lakes have been found to be concentrated near the north and south poles, leaving the equator a relatively dry area, with more lakes at the north pole than at the south pole. The largest methane lake found on the moon is larger than Finland.[3] Titan's largest lake may be the Kraken Sea, which has been partially mapped by radar.
 
-Titanin kaasukehä
+Titan's atmosphere
 
-Titanin kaasukehä Cassini-luotaimesta kuvattuna.
-Titanin kaasukehän löysi Gerard Kuiper vuonna 1944. Kaasukehä koostuu typestä, metaanista ja vähäisessä määrin joistakin muista aineista kuten etaanista.
+Titan's atmosphere as seen by the Cassini spacecraft.
+Titan's atmosphere was discovered by Gerard Kuiper in 1944. The atmosphere consists of nitrogen, methane, and small amounts of other substances such as ethane.
 
-Titanin kaasukehässä on typpeä 98,4 %, 1,6 % metaania ja jälkiä muista yksinkertaisista hiilivedystä. Etaani ja asetyleeni tekevät kaasukehästä utuisen ja kellertävän.[6] Paine Titanin typpi-metaanikehässä on pinnalla noin 1,5 bar, missä lämpötila on 94 K eli −179 °C. Pohjoisnavan yllä on noin 40 kilometrin korkeudessa luultavasti metaani- tai etaanikiteistä koostuvia pilviä pienellä alueella, Titanin troposfäärin ylärajalla. Metaanijääpilviä lienee alempana, yli 15 kilometrin korkeudessa, 10 % Titanin pinnasta peittyy noin 20 kilometrin korkeudessa oleviin pilviin.
+Titan's atmosphere is 98.4% nitrogen, 1.6% methane, and traces of other simple hydrocarbons. Ethane and acetylene give the atmosphere a hazy, yellowish color.[6] The pressure in Titan's nitrogen-methane atmosphere is about 1.5 bar at the surface, where the temperature is 94 K (−179 °C). There are clouds of methane or ethane crystals in a small area above the north pole, about 40 km above the upper limit of Titan's troposphere. Methane ice clouds are likely lower, above 15 km, and 10% of Titan's surface is covered in clouds at an altitude of about 20 km.
 
-Alle 160 kilometrin korkeudessa stratosfäärissä typpeä ja metaania on kumpaakin yhtä paljon. Troposfäärissä metaanin määrä kasvaa tasaisesti alaspäin mennessä. Kahdenkymmenen kilometrin korkeudella on metaanipilviä ja pinnan tuntumassa leijuu metaanin lisäksi myös etaanisumua. Kaasukehän metaani on peräisin tulivuorista.
+Below 160 kilometers in the stratosphere, nitrogen and methane are both present in equal amounts. In the troposphere, the amount of methane increases steadily as you go down. At an altitude of twenty kilometers, there are methane clouds, and near the surface, in addition to methane, there is also an ethane fog. The methane in the gas cycle comes from volcanoes.
 
-Titanin stratosfääri on 45–280 kilometrin korkeudessa, jossa lämpötila nousee noin 80 kelvinistä 180 kelviniin. Siellä on etaani-asetyleeniutua. Hyvin ohuessa mesosfäärissä noin 180–600 kilometrin korkeudessa lämpötila taas laskee.[7][6] Noin 30–55 kilometrin korkeudessa lämpötila on tasainen. Yli 60 kilometrin korkeudessa lämpötila alkaa kasvaa. Paine on siellä noin 0,05 bar. 20 kilometrin korkeudessa on 0,5 bar.
+Titan's stratosphere is at an altitude of 45–280 km, where the temperature rises from about 80 kelvin to 180 kelvin. There is an ethane-acetylene atmosphere. In the very thin mesosphere, at an altitude of about 180–600 km, the temperature decreases again.[7][6] At an altitude of about 30–55 km, the temperature is constant. Above 60 km, the temperature begins to increase. The pressure there is about 0.05 bar. At an altitude of 20 km, it is 0.5 bar.
 
-Titanin kaasukehää lämmittävän kasvihuoneilmiön vaikutuksen lasketaan olevan noin 12 °C,[8] mikä on pienempi kuin Venuksessa (noin 96 % hiilidioksidia) ja Maassa (vesihöyryä noin 1,25 % ja hiilidioksidia noin 0,04 %), mutta suurempi kuin Marsissa (noin 95 % hiilidioksidia). Sitä aiheuttaa muun muassa metaani (noin 1,4 %) ja vety (noin 0,1 - 0,2 %). Kasvihuoneilmiö saadaan laskemalla lämpötila albedon 0,21 perusteella ja vertaamalla sitä havaittuun lämpötilaan. Poikkeaman aiheuttaa Titanin monimutkainen anti-kasvihuoneilmiö.[9][10]'
+Titan's atmospheric greenhouse effect is estimated to be about 12 °C,[8] which is lower than that of Venus (about 96% carbon dioxide) and Earth (about 1.25% water vapor and about 0.04% carbon dioxide), but higher than that of Mars (about 95% carbon dioxide). It is caused by, among other things, methane (about 1.4%) and hydrogen (about 0.1–0.2%). The greenhouse effect is obtained by calculating the temperature based on an albedo of 0.21 and comparing it with the observed temperature. The deviation is caused by Titan's complex anti-greenhouse effect.[9][10]'
 
-Ilmasto
-Titanin ilmastoa on yritetty ennustaa monia kertoja, mutta aikaisemmat yritykset eivät ole olleet kovin menestyksekkäitä. Vuonna 2011 tutkijat onnistuivat kuitenkin luomaan melko tarkan mallinnuksen Titanin kaasukehästä. Tutkimuksessa havaittiin, että Titanin pinnalla olevista metaanijärvistä suurin osa sijaitsee kuun napa-alueilla, ja sen arvioidaan johtuvan napa-alueiden keskivertoa vähäisemmästä auringon valon määrästä. Toinen merkittävä tekijä järvien sijainnille napa-alueilla on sateet. Titanin päiväntasaaja on melko kuivaa aluetta, ja suurin osa Titanin sateista esiintyykin juuri napojen läheisyydessä. Maan sateista poiketen Titanilla sataa metaania.
+Climate
+Many attempts have been made to predict Titan's climate, but previous attempts have not been very successful. In 2011, however, scientists managed to create a fairly accurate model of Titan's atmosphere. The study found that most of the methane lakes on Titan's surface are located in the moon's polar regions, and this is estimated to be due to the lower than average amount of sunlight in the polar regions. Another significant factor in the location of lakes in the polar regions is rainfall. Titan's equator is a fairly dry area, and most of Titan's rainfall occurs near the poles. Unlike rainfall on Earth, it rains methane on Titan.
 
-Myös Titanin pilvet koostuvat metaanista. Vaikka pilvet suurilta osin muistuttavatkin maan pilviä, on niissä huomattavia eroja. Titanin pilvet ovat valtavia nähden kuun kokoon; yksi pilvi voi olla jopa yli 1000 kilometriä halkaisijaltaan, ja ne ovat todella korkeita, ylettäen jopa 40 kilometrin korkeuteen Titanin tropopaussiin asti. Vertauksena maan pilviin, maassa pilvet kohoavat korkeintaan 18 kilometrin korkeuteen. Jos Titanin pilviä katsoo alhaalta päin ne näyttävät kovin mustilta, koska ne eivät päästä paljoa valoa lävitseen. Jos pilviä katsoo sivusta, ne ovat melko kirkkaita, melko samanlaisia kuin maan pilvet, tosin ne omaavat oranssin sävyn johtuen titanin ilmakehän koostumuksesta. Vaikka pilvet ovat melko yleisiä napa-alueilla, peittävät ne melko pienen alueen kuun pinnasta. Titanin pilvet peittävät noin prosentin pinnasta, kun taas maan pilvet peittävät jopa 65 prosenttia. Pilvet ovat Titanissa paljon harvinaisempia alemmilla leveysasteilla.
+Titan's clouds are also composed of methane. Although the clouds largely resemble those on Earth, there are significant differences. Titan's clouds are enormous compared to the size of the moon; a single cloud can be over 1,000 kilometers across, and they are very high, reaching up to 40 kilometers into Titan's tropopause. In comparison, clouds on Earth rise to a maximum height of 18 kilometers. If you look at Titan's clouds from below, they appear very black, because they do not let much light through. If you look at the clouds from the side, they are quite bright, quite similar to Earth's clouds, although they have an orange tint due to the composition of Titan's atmosphere. Although clouds are quite common in the polar regions, they cover a relatively small area of the moon's surface. Titan's clouds cover about 1 percent of the surface, while Earth's clouds cover up to 65 percent. Clouds are much rarer on Titan at lower latitudes.
 
-Kun napa-alueet nauttuivat runsaista sateista, saattaa päiväntasaajalla mennä vuosikausia ilman ainuttakaan sadepisaraa. Tämän seurauksena Titanin päiväntasaaja onkin äärimmäisen kuivaa aluetta. Tutkijoille tuli yllätyksenä kun vuonna 2005 laskeutunut Cassini luotain lähettikin kuvia kuivista joen uomista päiväntasaajalla. Tästä pääteltiin että päiväntasaajallakin on joskus ollut nestettä huomattavissa määrin, tosin kukaan ei ymmärtänyt miten se oli mahdollista. Kosteimmatkin mallit olivat onnistuneet tuomaan tälle alueelle vain pieniä tihkusateita. Myös 2011 tehdyt tutkimukset ovat osoittaneet päiväntasaajan kuivaksi alueeksi. Tutkijoiden arvioiden mukaan päiväntasaajan alueelle kertyy noin 15 vuoden välein paljon pilviä, jotka saattavat aiheuttaa "supersateen", joka saattaa olla riittävä kaivertamaan muodostumia Titanin pintaan.[3]
+While the polar regions enjoyed abundant rainfall, the equator can go for years without a single drop of rain. As a result, Titan's equator is an extremely dry region. Scientists were surprised when the Cassini spacecraft, which landed in 2005, sent back images of dry riverbeds on the equator. This led them to conclude that the equator had once had significant amounts of liquid, although no one understood how this was possible. Even the most humid models had only managed to bring light drizzle to this region. Studies conducted in 2011 also showed the equator to be a dry region. According to scientists, large clouds accumulate in the equatorial region about every 15 years, which could cause a "super rain", which could be enough to carve features into Titan's surface.[3]
 
-Titanin tutkiminen
-Maanpäällisillä kaukoputkilla on nähty Titanin pinnan värivaihtelut. Luotaimet Voyager 1 ja Voyager 2 1970- ja 1980-luvulla tutkivat ohikulkumatkallaan Titanin kaasukehää.
+Exploring Titan
+Ground-based telescopes have observed variations in the color of Titan's surface. The Voyager 1 and Voyager 2 probes studied Titan's atmosphere during flybys in the 1970s and 1980s.
 
-Cassini-Huygens-luotain saapui Saturnusta kiertävälle radalle heinäkuussa 2004. Cassini tutkii Saturnusta, sen renkaita ja kuita sekä erityisesti Titania muun muassa tutkalla. Huygens-luotain suunniteltiin yksinomaan Titanin tutkimiseen. Cassini lähetti sen kohti Titania 25. joulukuuta 2004. Luotain laskeutui onnistuneesti Titanin pinnalle 14. tammikuuta 2005. Huygens tutki pudotessaan muun muassa kaasukehän koostumusta. Se selvisi laskeutumisesta ja pystyi lähettämään takaisin tietoa Titanin pinnan olosuhteista.
+The Cassini-Huygens probe entered orbit around Saturn in July 2004. Cassini studies Saturn, its rings and moons, and especially Titan, using radar, among other things. The Huygens probe was designed exclusively to study Titan. Cassini sent it towards Titan on December 25, 2004. The probe successfully landed on Titan's surface on January 14, 2005. Huygens studied, among other things, the composition of the atmosphere as it fell. It survived the landing and was able to send back information about the conditions on Titan's surface.
 
-Kaasukehän tuulia pyrittiin havaitsemaan mittaamalla tarkasti Huygensin laskeutumista. Maapallon laajuinen radioteleskooppien havaintoverkko seurasi luotaimen lähettämää merkkisignaalia. Pitkäkantainterferometrialla yhdistetyistä suuntamittauksista luotaimen reitti onnistuttiin määrittämään kilometrin tarkkuudella.
+The aim was to detect the winds in the gas ring by accurately measuring the Huygens landing. A global network of radio telescopes monitored the signal emitted by the probe. From the direction measurements combined with long-range interferometry, the probe's path was determined with an accuracy of one kilometer.

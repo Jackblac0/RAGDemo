@@ -1,155 +1,155 @@
-Saturnus
+Saturn
 
-Löytäminen
-Löytäjät	–
-Löytöaika	esihistoriallinen
-Kiertoradan ominaisuudet
-Keskietäisyys Auringosta	1 426 725 400 km
+Discovery
+Discoverers 	–
+Discovery period 	prehistoric
+Orbital characteristics
+Average distance from the Sun 	1,426,725,400 km
 9,582 AU
-Eksentrisyys	0,05415060
-Kiertoaika Auringon ympäri	29,42 a
-Synodinen kiertoaika	378,1 d
-Keskiratanopeus	9,6724 km/s
-Inklinaatio	2,48446°
-Kuiden lukumäärä	274[1]
-Fyysiset ominaisuudet
-Päiväntasaajan halkaisija	120 536 km
-Pinta-ala	4,38 · 1010 km2
-Massa	5,688 · 1026 kg
-95,162 Maan massaa
-Keskitiheys	0,69 g/cm3
-Putoamiskiihtyvyys pinnalla	10,44 m/s2
-Pyörähdysaika	10 h 39 min
-Akselin kaltevuus	26,73°
-Albedo	0,47
-Pakonopeus	35,49 km/s
-Pinnan lämpötila	alin: 82 K
-keski: 143 K
-Kaasukehän ominaisuudet
-Kaasunpaine	140 kPa
-Koostumus
-vetyä
-heliumia
-metaania
-vesihöyryä
-ammoniakkia
-etaania
-fosforia	93 %
-5 %
-0,2 %
-0,1 %
-0,01 %
-0,0005 %
-0,0001 %
+Eccentricity 	0.05415060
+Orbital period around the Sun 	29.42 a
+Synodic period 	378.1 d
+Average orbital speed 	9.6724 km/s
+Inclination 	2.48446°
+Number of moons 	274[1]
+Physical properties
+Equatorial diameter 	120,536 km
+Area 	4.38 1010 km2
+Mass 	5.688 1026 kg
+95.162 Earth masses
+Average density 	0.69 g/cm3
+Gravity acceleration on the surface 	10.44 m/s2
+Spin time 	10 h 39 min
+Axis inclination 	26.73°
+Albedo 	0.47
+Escape velocity 	35.49 km/s
+Surface temperature 	lowest: 82 K
+average: 143 K
+Gas ring properties
+Gas pressure 	140 kPa
+Composition
+hydrogen
+helium
+methane
+water vapor
+ammonia
+ethane
+phosphorus 	93%
+5%
+0.2%
+0.1%
+0.01%
+0.0005%
+0.0001%
 
-Saturnuksen pohjoisnavan pyöriminen.
-Saturnus (symboli: ♄) on kuudes planeetta Auringosta ulospäin laskettuna. Se on jättiläisplaneetta (eli joviaaninen planeetta) ja aurinkokunnan toiseksi suurin planeetta. Se on nimetty roomalaisen Saturnus-jumalan mukaan.
+The rotation of Saturn's north pole.
+Saturn (symbol: ♄ ) is the sixth planet from the Sun. It is a giant planet (or Jovian planet) and the second largest planet in the Solar System. It is named after the Roman god Saturn.
 
-Saturnus on navoiltaan selvästi litistynyt. Sen halkaisija päiväntasaajalta mitattuna on lähes 10 prosenttia suurempi kuin navalta mitattuna (120 536 km ja 108 728 km). Tämä johtuu planeetan nopeasta pyörimisliikkeestä sekä sen sisäisestä rakenteesta. Saturnus on lisäksi tiheydeltään pienin aurinkokunnan planeetoista: sen keskitiheys on vain 0,69 g/cm³ eli pienempi kuin vedellä.
+Saturn is clearly flattened at the poles. Its diameter measured at the equator is almost 10 percent larger than that measured at the poles (120,536 km and 108,728 km). This is due to the planet's rapid rotation and its internal structure. Saturn is also the least dense of the planets in the solar system: its average density is only 0.69 g/cm³, which is less than that of water.
 
-Saturnuksen sisus on Jupiterin kaltainen: keskellä on silikaattiydin, jota ympäröi metallisen nestemäisen vedyn muodostama kerros. Lisäksi sisustassa on merkkejä erilaisista jääkiteistä. Saturnuksen ydin on erittäin kuuma, 12 000 kelviniä, ja se säteilee avaruuteen enemmän lämpöä kuin se saa Auringosta.
+Saturn's interior is similar to Jupiter's: a silicate core surrounded by a layer of metallic liquid hydrogen. There are also signs of various ice crystals in the interior. Saturn's core is extremely hot, 12,000 kelvins, and it radiates more heat into space than it receives from the Sun.
 
-Saturnuksen sisäinen rakenne
-Saturnuksen sisäinen rakenne muistuttanee Jupiterin rakennetta. Suurin osa Saturnuksesta on nestemäistä vetyä ja heliumia, keskellä lienee kiinteä kivinen ja rautainen ydin. Uloimpana ovat meille näkyvän kaasukehän huipulla näkyvät pilvet. Paine, lämpötila ja tiheys eivät Saturnuksen keskustassa ole aivan yhtä suuria kuin Jupiterissa. Saturnuksen nestemäisen molekulaarisen vedyn kerros on noin kaksi kertaa paksumpi kuin Jupiterin vastaava[2] ja ulottuu 30 000 kilometrin syvyyteen. Vety muuttuu metalliseksi melko lähellä ydintä, toisin kuin Jupiterissa. Metallinen vetykerros on 14 000 kilometriä paksu. Paine kaasukehän pohjalla on noin 100 000 baaria, ja nestemäisen molekulaarisen vedyn rajalla 1 000 000 baaria suunnilleen Saturnuksen säteen puolivälissä.[3][4] Eräiden arvioiden mukaan Saturnuksessa olisi ytimessä 8 000 kilometriä paksu jääkerros ja 8 000 kilometriä paksu kivikerros. Ytimessä lämpötila voi nousta noin 12 000 kelviniin. Saturnuksesta näyttää puuttuvan heliumia, jonka uskotaan pudonneen kohti planeetan keskustaa.lähde?.
+The internal structure of Saturn
+Saturn's internal structure is likely similar to that of Jupiter. Most of Saturn is liquid hydrogen and helium, with a solid rocky and iron core in the middle. The outermost are the clouds visible to us at the top of the visible atmosphere. The pressure, temperature, and density at Saturn's center are not quite as high as at Jupiter. Saturn's layer of liquid molecular hydrogen is about twice as thick as that of Jupiter[2] and extends to a depth of 30,000 kilometers. The hydrogen turns metallic quite close to the core, unlike Jupiter's. The metallic hydrogen layer is 14,000 kilometers thick. The pressure at the bottom of the atmosphere is about 100,000 bars, and at the boundary of liquid molecular hydrogen 1,000,000 bars at about half the radius of Saturn.[3][4] Some estimates suggest that Saturn has a core of ice 8,000 kilometers thick and a rocky layer 8,000 kilometers thick. The core can reach temperatures of about 12,000 Kelvin. Saturn appears to lack helium, which is thought to have fallen towards the center of the planet.source?.
 
-Kaasukehä
-Kaasukehästä on löydetty vetyä, heliumia sekä hiukan metaania ja ammoniakkia. Kaasukehässä puhaltavat päiväntasaajalla tuulet, joiden nopeus on jopa 500 m/s.[5]
+Gas ring
+Hydrogen, helium, and small amounts of methane and ammonia have been found in the gas ring. Winds blow at the equator in the gas ring, reaching speeds of up to 500 m/s.[5]
 
-Saturnuksen kellertävä pilvipeite näyttää ulospäin melko piirteettömältä, siellä näkyy tummempia ja vaaleampia raitoja ja parin vuoden välein melko lyhytikäisiä valkeita täpliä, pyörremyrskyjä. Suuri valkea täplä esiintyy lyhyen aikaa Saturnuksen kiertoajan tahdissa noin 30 vuoden välein. Vuoden 1933 myrsky on kuuluisin. Avaruusluotain Cassinin ottamissa kuvissa näkyy Saturnuksen pohjoisella pallonpuoliskolla Uranuksen pilvien tapaista sinistä pilveä. Saturnuksella on lämmin napapyörre, joka on ainoa tunnettu aurinkokunnassa, muilla planeetoilla se on kylmä. Pohjoisnavalla näkyy hieman kuusikulmiota muistuttava virtaus, seisova aalto, jonka keskellä on hurrikaanimainen myrsky pohjoisnavan ympärillä. Siinä näkyy selvä myrskyn silmä, korkeapaine. Kuusikulmaisia muotoja on tuotettu laboratorioissa tietokonemallinnuksissa.lähde?.
+Saturn's yellowish cloud cover looks rather featureless from the outside, with darker and lighter stripes and fairly short-lived white spots, or whirlwinds, appearing every couple of years. A large white spot appears for a short time in the rhythm of Saturn's rotation period, about every 30 years. The storm of 1933 is the most famous. Images taken by the Cassini space probe show blue clouds similar to those on Uranus in Saturn's northern hemisphere. Saturn has a warm polar vortex, the only one known in the solar system; it is cold on other planets. A flow resembling a hexagon is visible at the north pole, a standing wave, with a hurricane-like storm in the middle around the north pole. It shows a clear eye of the storm, a high pressure. Hexagonal shapes have been produced in laboratories in computer modeling.source?.
 
-Saturnuksen kaasukehä on kylmimmillään 0,07 baarin pinnalla, noin 94 kelviniä eli −179 °C. Saturnuksen kaasukehän kemia on samantyyppinen kuin Jupiterin, mutta koska planeetan painovoima on pienempi, ylempi utupeite on paksumpi ja peittää alemmat värikkäät pilvet. Utuisuus johtuu myös Jupiterin kaasukehää kylmemmästä lämpötilasta.[6] Udun paksuus on kymmeniä kilometrejä. Utu heijastaa puolet Auringon valosta pois.lähde?.
+Saturn's atmosphere is at its coldest at 0.07 bar at the surface, about 94 kelvins or −179 °C. Saturn's atmospheric chemistry is similar to Jupiter's, but because the planet's gravity is lower, the upper layer of haze is thicker and covers the lower colorful clouds. The haze is also due to the colder temperature than Jupiter's atmosphere.[6] The haze is tens of kilometers thick. The haze reflects half of the Sun's light.source?.
 
-Utukerros alkaa tropopaussista, joka on 0,1 ilmakehän painepinnalla. Ammoniakkipilvien yläraja on tästä 50 kilometriä alaspäin, ammoniumvetysulfidipilvien alaraja 170 kilometriä tropopaussin alapuolella, ja vesijääpilviä on noin 230 kilometriä syvemmällä. Maan ilmakehän painetta vastaavalla yhden barin painepinnalla on lämpötila 133 kelviniä eli −140 °C, ja ammoniakkipilviä.lähde?.
+The stratosphere begins at the tropopause, which is at a pressure level of 0.1 atmospheres. The upper limit of ammonia clouds is 50 kilometers below this, the lower limit of ammonium hydrogen sulfide clouds is 170 kilometers below the tropopause, and water ice clouds are about 230 kilometers deeper. At a pressure level of one bar, which corresponds to the pressure of the Earth's atmosphere, the temperature is 133 kelvins or −140 °C, and ammonia clouds.source?.
 
-Pilvikerros	Korkeus / km	Paine ilmakehää	Lämpötila
-Tropopaussi		n. 0,1	
-Ammoniakkipilvet	−100[7]		−250 °C
-Ammoniumvetysulfidipilvet	−170		−70 °C
-Vesijääpilvet
-Vesipisarapilvet	−230?		0 °C
-Saturnuksen renkaat
-Pääartikkeli: Saturnuksen renkaat
-Saturnuksen valtavat renkaat ovat sen kuuluisin piirre. Saturnuksella on seitsemän nimettyä päärengasta. Viimeisin uusi rengas havaittiin vuonna 2009.[8] Galileo Galilei havaitsi ne ensimmäisenä teleskoopillaan vuonna 1610, mutta hän ei ilmeisesti osannut sanoa, mitä havainnosta olisi pitänyt ajatella. Hän kirjoitti: ”Saturnus ei ole yksin, vaan se muodostuu kolmesta kappaleesta, jotka melkein koskettavat toisiaan eivätkä koskaan liiku tai muutu toisiinsa nähden. Ne ovat suorassa linjassa toisiinsa nähden, ja keskimmäinen Saturnus on noin kolme kertaa suurempi kuin laidoilla olevat renkaiden reunat.” Hänen mukaansa Saturnuksella oli myös ”korvat”. Vuonna 1612 renkaat olivat vaakatasossa Maahan nähden, jolloin ne näyttivät katoavan. Seuraavana vuonna ne ilmestyivät jälleen, mikä hämmensi Galileita entisestään.
+Cloud layer 	Height / km Atmospheric pressure Temperature
+Tropopause 		approx. 0.1	
+Ammonia clouds 	−100[7] 		−250 °C
+Ammonium hydrogen sulfide clouds 	−170 		−70 °C
+Water ice clouds
+Water drop clouds 	−230? 		0 °C
+Saturn's rings
+Main article: Rings of Saturn
+Saturn's enormous rings are its most famous feature. Saturn has seven named main rings. The last new ring was discovered in 2009.[8] Galileo Galilei first observed them with his telescope in 1610, but he apparently was at a loss to say what to make of the observation. He wrote: "Saturn is not alone, but consists of three bodies, almost touching each other, and never moving or changing in relation to each other. They are in a straight line with each other, and the central Saturn is about three times larger than the outer rings." He also said that Saturn had "ears." In 1612, the rings were horizontal to Earth, when they seemed to disappear. The following year, they reappeared, which further confused Galileo.
 
 
-Saturnuksen renkaat auringon valaisemana.
-Vasta vuonna 1655 Christiaan Huygens ratkaisi renkaiden arvoituksen käyttämällä paljon Galileon kaukoputkea voimakkaampaa teleskooppia. Giovanni Domenico Cassini päätteli 1676, että Saturnuksen rengas muodostuu useista pienemmistä renkaista, joiden välissä on aukkoja. Suurin näistä aukoista nimettiin Cassinin jaoksi.[9]
+Saturn's rings illuminated by the sun.
+It was not until 1655 that Christiaan Huygens, using a telescope much more powerful than Galileo's, solved the riddle of the rings. Giovanni Domenico Cassini concluded in 1676 that Saturn's rings were made up of several smaller rings with gaps between them. The largest of these gaps was named Cassini's gap.[9]
 
-Saturnuksen renkaiden uskotaan syntyneen suurehkojen kuiden, pyrstötähtien ja meteoriittien törmäyksissä muodostuneista kappaleista, jotka ovat painovoiman vaikutuksesta jääneet kiertämään planeettaa.
+Saturn's rings are believed to have been formed from collisions between larger moons, comets, and meteorites, which have remained orbiting the planet due to gravity.
 
-Renkaat erottuvat varsin vaatimattomalla nykyaikaisella teleskoopilla tai jopa laadukkailla kiikareilla. Ne kiertävät Saturnuksen päiväntasaajaa 6 630–120 700 kilometrin etäisyydellä. Renkaat muodostuvat pii- ja rautaoksidista sekä jääkappaleista. Kappaleiden koko vaihtelee pölyhiukkasista pieneen henkilöautoon saakka.
+The rings are visible with a fairly modest modern telescope or even with high-quality binoculars. They orbit Saturn's equator at a distance of 6,630–120,700 kilometers. The rings are made up of silicon and iron oxides and ice particles. The particles range in size from dust particles to the size of a small car.
 
-Saturnuksen kuut
-Pääartikkeli: Saturnuksen kuut
-Saturnukselta tunnetaan 274 kuuta (vuonna 2023). Viimeksi vuonna 2025 määrä kasvoi 128 kuulla.[10][11][12][13][1] Saturnuksen kuista suurin on 5 150 kilometrin läpimittainen Titan. Titan sisältää yli 90 prosenttia Saturnusta kiertävästä massasta renkaat mukaan lukien. Pilvien peittämä Titan on ainoa kuu aurinkokunnassa, jolla on merkittävä, enimmäkseen typestä koostuva kaasukehä ja siellä on myös hiilivetyjärviä. Saturnuksen toiseksi suurimmalla kuulla Rhealla saattaa olla heikko oma rengasjärjestelmä. Useimmat Saturnuksen kuut ovat pieniä jäisiä kappaleita, joiden tiheys on alhainen. Perinteisesti useat Saturnuksen kuut on nimetty kreikkalaisen mytologian titaaneiden mukaan.
+Saturn's moons
+Main article: Moons of Saturn
+Saturn has 274 known moons (as of 2023). The most recent increase in the number was 128 in 2025.[10][11][12][13][1] The largest of Saturn's moons is Titan, with a diameter of 5,150 km. Titan contains over 90% of the mass orbiting Saturn, including its rings. Cloud-covered Titan is the only moon in the Solar System with a significant atmosphere, mostly composed of nitrogen, and also contains hydrocarbon lakes. Saturn's second-largest moon, Rhea, may have a faint ring system of its own. Most of Saturn's moons are small, icy bodies with low densities. Traditionally, several of Saturn's moons are named after Titans from Greek mythology.
 
-Saturnuksen suurimmat kuut, verrattuna Maan Kuuhun
-Nimi
-Kuva	Läpimitta
-(km)	Massa
-(kg)	Ratasäde
-(km)	Kiertoaika
-(päivää)	Radan
-eksentrisyys	Radan
-inklinaatio	Tiheys
-g/cm³	Albedo
+Saturn's largest moons, compared to Earth's Moon
+Name
+Image 	Diameter
+(km) 	Mass
+(kg) 	Radius
+(km) 	Lap time
+(days) 	Track
+Eccentricity 	of the track
+Inclination 	Density
+g/cm³ 	Albedo
 Mimas	
 
 400
-(10 % Kuu)	0,4 · 1020
-(0,05  Kuu)	185 000
-(50 % Kuu)	0,9
-(3 % Kuu)	0,0202	1,51°	1,15	0,77
+(10% Moon) 	0.4 1020
+(0.05 Moon) 	185,000
+(50% Moon) 	0.9
+(3% Moon) 	0.02021.51°1.150.77
 Enceladus	
 
 500
-(15 % Kuu)	1,1 · 1020
-(0,2 % Kuu)	238 000
-(60 % Kuu)	1,4
-(5 % Kuu)	0,0045	0,019°	1,60	0,99
+(15% Moon) 	1.1 1020
+(0.2% Moon) 	238,000
+(60% Moon) 	1.4
+(5 % Kuu) 	0,00450,019°1,600,99
 Tethys	
 
 1 060
-(30 % Kuu)	6,2 · 1020
-(0,8% Kuu)	295 000
-(80 % Kuu)	1,9
-(7 % Kuu)	0	1,12°	0,97	0,8
+(30 % Kuu) 	6.2 · 1020
+(0.8% of the total) 	295,000
+(80% of you) 	1.9
+(7 % Kuu) 	01.12°0.970.8
 Dione	
 
 1 120
-(30 % Kuu)	11 · 1020
-(1,5 % Kuu)	377 000
-(100 % Kuu)	2,7
-(10 % Kuu)	0,0022	0,02°	1,48	0,55
+(30 % Kuu) 	11 · 1020
+(1.5% of the total) 	377,000
+(100% Kuu) 	2.7
+(10 % Kuu) 	0,00220,02°1,480,55
 Rhea	
 
 1 530
-(45 % Kuu)	23 · 1020
-(3 % Kuu)	527 000
-(140 % Kuu)	4,5
-(20 % Kuu)	0,0012583	0,345°	1,23	0,65
+(45 % Kuu) 	23 · 1020
+(3% of) 	527 000
+(140% of you) 	4.5
+(20 % Kuu) 	0,00125830,345°1,230,65
 Titan	
 
 5 150
-(150 % Kuu)	1 350 · 1020
-(180 % Kuu)	1 222 000
-(320 % Kuu)	16
-(60 % Kuu)	0,028880	0,34854°	1,88	0,21
+(150 % Kuu) 	1 350 · 1020
+(180% of yours) 	1 222 000
+(320 % Kuu) 	16
+(60 % Kuu) 	0,0288800,34854°1,880,21
 Hyperion	
 
-360 · 280 · 225	0,5584 ± 0,0068 · 1019	1 481 009 (380 % Kuu)	21,27661 (78 % Kuu)	0,1230061	0,43°	0,56	0,25
-Japetus		1 440
-(40 % Kuu)	20 · 1020
-(3 % Kuu)	3 560 000
-(930 % Kuu)	79
-(290 % Kuu)	0,0286125	15,47°	1,08	0,04–0,5
+360 · 280 · 225 	0.5584 ± 0.0068 · 10191 481 009 (380 % Moon)21.27661 (78 % Moon)0.12300610.43°0.560.25
+Iapetus 		1 440
+(40 % Kuu) 	20 · 1020
+(3% of) 	3 560 000
+(930 % Kuu) 	79
+(290 % Kuu) 	0,028612515,47°1,080,04–0,5
 Phoebe	
 
-230 · 220 · 210	0,8292 ± 0,0010 · 1019	12 955 759 (3 370 % Kuu)	550,564636 (2 000 % Kuu)	0,1562415	151,66°	1,63	0,06
-Saturnuksen tutkiminen
-Pääartikkeli: Saturnuksen tutkimus
+230 · 220 · 210 	0.8292 ± 0.0010 · 101912 955,759 (3,370% Moon)550.564636 (2,000% Moon)0.1562415151.66°1,630.06
+Exploring Saturn
+Main article: Exploration of Saturn
 
-Luotain Cassini taiteilijan näkemyksenä Saturnusta kiertävällä radalla.
-Pioneer 11 oli ensimmäinen avaruusluotain, joka lensi Saturnuksen ohi syyskuussa 1979. Seuraavien kahden vuoden aikana planeetan ohittivat Voyager 1 (marraskuussa 1980) ja Voyager 2 (elokuussa 1981). Cassini-Huygens oli ensimmäinen avaruusluotain, joka saapui tutkimaan Saturnusta ja sen kuu- ja rengasjärjestelmää kiertoradalta vuonna 2004. Luotaimen mukana kulkenut Huygens-luotain laskeutui Titanin pinnalle vuonna 2005.
+An artist's impression of the Cassini spacecraft orbiting Saturn.
+Pioneer 11 was the first spacecraft to fly by Saturn in September 1979. Over the next two years, Voyager 1 (in November 1980) and Voyager 2 (in August 1981) flew by the planet. Cassini–Huygens was the first spacecraft to reach Saturn and its moons and ring system from orbit, in 2004. The Huygens probe that accompanied the probe landed on Titan in 2005.
 
-Saturnuksen renkaat eivät näy kiikarilla, vaan tarvitaan harrastajakaukoputki, jolla ne näkyvät noin 20-kertaisella suurennuksella. Kaukoputkella näkyy Saturnuksen suurin kuu Titan, toiseksi suurin kuu Rhea sekä Tethys, Dione ja Japetus.
+Saturn's rings cannot be seen with binoculars, but an amateur telescope is needed to see them at about 20x magnification. The telescope shows Saturn's largest moon Titan, the second largest moon Rhea, as well as Tethys, Dione, and Iapetus.

@@ -1,202 +1,202 @@
 Venus
 
-Löytäminen
-Löytäjät	–
-Löytöaika	esihistoriallinen
-Kiertoradan ominaisuudet
-Keskietäisyys Auringosta	108 208 926 km
-0,72333199 AU
-Eksentrisyys	0,00677323
-Kiertoaika Auringon ympäri	224,70096 d
-Synodinen kiertoaika	583,92 d
-Keskiratanopeus	35,020 km/s
-Inklinaatio	3,39471°
-Kuiden lukumäärä	0
-Fyysiset ominaisuudet
-Päiväntasaajan halkaisija	12 103,7 km
-Pinta-ala	4,60×108 km2
-Massa	4,8685×1024 kg
-0,815 Maan massaa
-Keskitiheys	5,204 g/cm3
-Putoamiskiihtyvyys pinnalla	8,87 m/s2
-Pyörähdysaika	243,0185 d
-Akselin kaltevuus	177,36°
-Albedo	0,65
-Pakonopeus	10,36 km/s
-Pinnan lämpötila	alin: 228 K (–45 °C)*
-keski: 737 K (464 °C)
-ylin: 773 K (500 °C)
-*kohta "alin" viittaa pilvikerroksen
-yläosan eikä pinnan lämpötilaan
-Kaasukehän ominaisuudet
-Kaasunpaine	9,3 MPa
-Koostumus
-hiilidioksidi
-typpi
-rikkidioksidi
+Discovery
+Discoverers 	–
+Discovery period 	prehistoric
+Orbital characteristics
+Average distance from the Sun 	108,208,926 km
+0.72333199 AU
+Eccentricity 	0.00677323
+Orbital period around the Sun 	224.70096 d
+Synodic period 	583.92 d
+Average orbital speed 	35.020 km/s
+Inclination 	3.39471°
+Number of months 	0
+Physical properties
+Equatorial diameter 	12,103.7 km
+Area 	4.60×108 km2
+Mass 	4.8685×1024 kg
+0.815 Earth masses
+Average density 	5.204 g/cm3
+Gravity acceleration on the surface 	8.87 m/s2
+Rotation period 	243.0185 d
+Axis inclination 	177.36°
+Albedo 	0.65
+Escape velocity 	10.36 km/s
+Surface temperature 	lowest: 228 K (–45 °C)*
+average: 737 K (464 °C)
+highest: 773 K (500 °C)
+*the "lowest" refers to the cloud layer
+to the temperature of the top and not the surface
+Gas ring properties
+Gas pressure 	9.3 MPa
+Composition
+carbon dioxide
+nitrogen
+sulfur dioxide
 argon
-vesihöyry
-hiilimonoksidi
+water vapor
+carbon monoxide
 helium
-neon	~96,5 %
-~3,5 %
-0,015 %
-0,007 %
-0,002 %
-0,0017 %
-0,0012 %
-0,0007 %
+neon 	~96.5%
+~3.5%
+0.015%
+0.007%
+0.002%
+0.0017%
+0.0012%
+0.0007%
 
-Pioneer Venus Orbiterin vuonna 1979 Venuksesta ottama ultraviolettivalokuva, jossa näkyy Venuksen pilvien liike nopeassa, planeettaa noin neljässä vuorokaudessa kiertävässä tuulessa. Näin syntyy 90 astetta käännettyjä V:n ja Y:n muotoisia pilvikuvioita.
-Venus (symboli: ♀) on aurinkokunnan toinen planeetta Auringosta lukien. Se näkyy Maahan kirkkaana aamu- ja iltatähtenä ja on taivaan kirkkain tähtimäinen kohde. Se on mahdollista nähdä jopa päivällä ilman apuvälineitä, jos tietää, mistä etsiä. Venus kiertää Aurinkoa lähempänä kuin Maa ja tulee planeetoista lähimmäksi Maata.
+An ultraviolet photograph of Venus taken by the Pioneer Venus Orbiter in 1979 shows the movement of Venus' clouds in the fast winds that circle the planet every four days, creating 90-degree V- and Y-shaped cloud patterns.
+Venus (symbol: ♀) is the second planet from the Sun in the Solar System. It appears to Earth as the bright morning and evening star and is the brightest star in the sky. It can be seen even during the day without any aids if you know where to look. Venus orbits the Sun closer than Earth and is the closest planet to Earth.
 
-Kaukoputkella katsottaessa Venus näyttää useimmiten piirteettömältä kuunsirppimäiseltä kohteelta. Kaukoputkella näkyvät vain planeetan ilmakehän yläosien pilvet, joissa ei näy juurikaan yksityiskohtia. Venusta on kartoitettu planeettaa kiertävillä avaruusluotaimilla, joissa on tutkat. Planeetalla on runsaasti tuliperäisiä muodostumia. Venuksen pinnalla on yli 460 celsiusasteen kuumuus, johtuen planeetan paksusta hiilidioksidipitoisesta kaasukehästä, joka aiheuttaa voimakkaan kasvihuonevaikutuksen.[1] Planeetan pinnalle laskeutuneiden avaruusluotaimien kuvissa näkyy pinnan kalliota, kiveä ja soraa. Suuri kaasunpaine vääristää näkyvyyttä planeetan pinnalla.
+When viewed through a telescope, Venus often appears as a featureless crescent moon. Only the clouds in the upper atmosphere of the planet are visible through a telescope, where little detail is visible. Venus has been mapped by orbiting space probes equipped with radar. The planet is rich in volcanic formations. The surface of Venus is hot, reaching temperatures of over 460 degrees Celsius, due to the planet's thick carbon dioxide atmosphere, which creates a strong greenhouse effect.[1] Images from space probes that have landed on the planet's surface show rock, stone, and gravel on the surface. The high gas pressure distorts visibility on the planet's surface.
 
-Venusta on usein sanottu Maan sisarplaneetaksi. Se on kiviplaneetta, jonka koko ja koostumuskin ovat lähellä Maata. Erojakin löytyy, Venus pyörii hyvin hitaasti ja sen geologiset muodostumat ovat monilta osin erityyppisiä kuin Maassa, ja planeetan magneettikenttä on heikko.[1]
+Venus has often been called Earth's sister planet. It is a rocky planet, similar in size and composition to Earth. There are some differences, however, including its slow rotation, its geological formations being in many ways different from those of Earth, and its weak magnetic field.[1]
 
-Venus on saanut nimensä roomalaisen mytologian rakkauden jumalattaren mukaan. Sen tähtitieteellinen symboli on ♀, jota muissa yhteyksissä käytetään naisen ja naisellisuuden symbolina.[1]
+Venus is named after the Roman goddess of love. Its astronomical symbol is ♀, which is used in other contexts to symbolize woman and femininity.[1]
 
-Historia
-Ilmastomalleihin perustuvien tutkimusten mukaan Venus on saattanut olla Maan kaltainen, olosuhteiltaan elämälle suotuisa planeetta noin 1–2 miljardia vuotta sitten, jolloin Maassa alkoi esiintyä elämää. Deuteriumin verrattain suuri osuus Venuksen vedystä viittaisi siihen, että planeetalla olisi ollut suuria määriä vettä; tutkimusten perusteella voidaan päätellä Venuksella olleen hillityn sään, paksun pilvipeitteen ja mahdollisesti ajoittaisia lumisateita.[2] Karkaava kasvihuoneilmiö on sittemmin tehnyt Venuksesta aurinkokunnan kuumimman planeetan.[3]
+History
+Studies based on climate models suggest that Venus may have been an Earth-like planet with conditions favorable for life about 1–2 billion years ago, when life first appeared on Earth. The relatively high proportion of deuterium in Venus' hydrogen suggests that the planet had large amounts of water; studies suggest that Venus had temperate weather, thick cloud cover, and possibly occasional snowfall.[2] A runaway greenhouse effect has since made Venus the hottest planet in the Solar System.[3]
 
-Venuksen hitaan ja Maahan nähden vastasuuntaisen pyörimisen on arveltu johtuvan siihen planeetan varhaisena olemassaoloaikana törmänneestä toisesta alkuplaneetasta.[3]
+Venus' slow rotation, which is opposite to Earth's, is thought to be due to a collision with another protoplanet early in the planet's existence.[3]
 
-Taiteilijoiden näkemyksiä elämää sisältävästä Venuksesta
+Artists' views of Venus as a planet with life
 
  
 
-Kaasukehä
-Venuksella on hyvin tiheä, suurimmaksi osaksi hiilidioksidista koostuva kaasukehä, joka lämmittää planeettaa kasvihuoneilmiön kautta. Arvellaan että Venuksen kaasukehä ei ole alkuperäinen, vaan on syntynyt alkuaikojen jälkeen tuliperäisen toiminnan seurauksena.
+Gas ring
+Venus has a very dense atmosphere, mostly composed of carbon dioxide, which warms the planet through the greenhouse effect. It is thought that Venus's atmosphere is not original, but was created after the early times as a result of volcanic activity.
 
-Venuksessa arvioidaan olevan yhtä paljon hiilidioksidia kuin Maassakin, tosin täällä se on sitoutunut maaperän karbonaattikiviin toisin kuin Venuksessa, jossa lähes kaikki hiilidioksidi on kaasukehässä. Karbonaatit ovat yhdisteitä, jotka sisältävät hiiltä ja happea. Maassa karbonaattien syntymiseen tiedetään tarvittavan vettä. Venuksessa oleva nestemäinen vesi olisi mahdollisesti kyennyt tekemään saman myös siellä, ja se olisi voinut ehkäistä niin rajun kasvihuoneilmiön syntymisen.[4]
+Venus is estimated to have as much carbon dioxide as Earth, although here it is bound to carbonate rocks in the soil, unlike Venus, where almost all of the carbon dioxide is in the atmosphere. Carbonates are compounds that contain carbon and oxygen. On Earth, it is known that water is needed to form carbonates. Liquid water on Venus could have done the same there, and could have prevented such a drastic greenhouse effect.[4]
 
-Meille näkyvä pilvien huippu on noin 70 kilometrin korkeudessa, ja sen yllä on noin 90 kilometriin asti utua. Tiheimmät pilvet ovat noin 49–51 kilometrin korkeudessa, ja hieman harvempi keskimmäinen pilvikerros alle 57 kilometrin korkeudessa.[5] Pilvien alapuolella on noin 30/35–45 kilometrin korkeudessa ohutta utua ja pinnalla täysin selkeää. Joissain kohdissa pilvet ovat ohuempia, joissain paksumpia. Ultraviolettivalossa näkyy enemmän pilvien piirteitä.
+The visible cloud tops are at about 70 km, and above them there is haze up to about 90 km. The densest clouds are at about 49–51 km, and a slightly thinner middle layer of clouds below 57 km.[5] Below the clouds there is thin haze at about 30/35–45 km and completely clear on the surface. In some places the clouds are thinner, in others thicker. In ultraviolet light, more cloud features are visible.
 
-Noin sadan kilometrin korkeudessa sijaitseva otsonikerros on Maan kerrosta satatuhatta kertaa harvempi.[6]
+The ozone layer, located at an altitude of about one hundred kilometers, is one hundred thousand times thinner than the Earth's layer.[6]
 
-Pilvet esiintyvät kolmessa erillisessä kerroksessa; kaksi ylintä koostuvat pienistä rikkihappopisaroista ja alin todennäköisesti fosforihappoliuoksesta. Ylimmissä pilvikerroksissa on ultraviolettialueella havaittavissa tuhansien kilometrien kokoisia Y-kirjaimen muotoisia pilvimuodostelmia, jotka ovat varsin lyhytikäisiä, mutta uusiutuvat jatkuvasti ja ovat siten pysyvä piirre planeetan kaasukehässä. Pilvet ovat varsin harvoja, ja niiden sisällä näkyvyys on useita satoja metrejä. Pinnalla näkyvyys on jo useita kilometrejä.
+The clouds occur in three distinct layers; the top two consist of small droplets of sulfuric acid and the bottom is probably a phosphoric acid solution. In the uppermost cloud layers, Y-shaped cloud formations thousands of kilometers across can be seen in the ultraviolet region. They are quite short-lived, but are constantly renewed and are thus a permanent feature of the planet's atmosphere. The clouds are quite sparse, and visibility within them is several hundred meters. Visibility on the surface is already several kilometers.
 
-Pilvien rikkihappo tulee tulivuoren purkauskaasujen vesihöyryn ja rikkidioksidin reagoidessa keskenään Auringon ultraviolettisäteilyn vaikutuksesta.[7] Auringon ultraviolettisäteily myös hajottaa vesihöyryä, joka karkaa avaruuteen.
-
-
-Venuksen kaasukehän rakenne ja kasvihuoneilmiön synty.
-Kaasukehässä on yli 96 prosenttia hiilidioksidia, 3,5 prosenttia typpeä ja hyvin pieni määrä muita aineita. Kaasunpaine on pinnalla noin 92-kertainen Maan ilmanpaineeseen verrattuna ja vastaa painetta meressä noin kilometrin syvyydessä. Venuksen kaasukehässä olevasta vedystä suuri osa karkaa pois jatkuvasti pelkästään lämpötilan vaikutuksesta: tätä ilmiötä kutsutaan ”termiseksi paoksi”. Osa kaasukehään jäävästä vedystä on vedyn isotooppi deuteriumia, joka on hiukan raskaampaa kuin tavallinen vety, joten se ei karkaa aurinkotuulien mukana niin herkästi.[4][1]
-
-Syyskuussa 2020 kansainvälinen tutkimusryhmä julkaisi radioteleskoopeilla tehtyjä mittauksia, joiden mukaan Venuksen kaasukehän pilvikerroksessa on fosfiinia (PH3) noin 20 miljardisosaa. Tutkijoiden mukaan mikään tunnettu kemiallinen reaktio ei selitä fosfiinin esiintymistä Venuksessa. Tutkijat epäilevät, että fosfiini saattaa olla peräisin jostain tuntemattomasta kemiallisesta prosessista tai mikrobitason elämästä Venuksen kaasukehässä.[8][9] Marraskuussa 2020 mittauksesta löydettiin kalibrointivirhe. Virheen korjaamisen jälkeen fosfiinipitoisuus onkin vain yksi miljardisosa.[10]
-
-Pintalämpötila on keskimäärin 464 celsiusastetta,[11] mikä on korkeampi kuin lyijyn sulamispiste. Lämpötila ei laske koskaan alle 400 asteen, ja alavilla alueilla lähellä päiväntasaajaa lämpötila saattaa nousta jopa 500 celsiusasteeseen. Lämpötila viilenee varsin nopeasti ylöspäin mentäessä: yläkaasukehässä lämpötila jää −45 celsiusasteeseen.
-
-Erittäin korkean hiilidioksidipitoisuuden takia Venuksessa on äärimmäisen voimakas kasvihuoneilmiö, joka nostaa planeetan lämpötilaa noin 500 astetta teoreettista lämpötilaa suuremmaksi. Venuksen etäisyydellä olevan kaasukehättömän kappaleen lämpötilan tulisi olla noin 230 kelviniä eli –43 celsiusastetta.[4]
-
-Venuksessa on saattanut olla joskus miljardeja vuosia sitten alempi lämpötila ennen kasvihuoneilmiön karkaamista käsistä. Venuksen pinnalla näyttää olevan joitakin noin 700 astetta lämpimiä kuumia kohtia, mahdollisesti toimivia tulivuoria.
-
-Venus on jopa lämpimämpi kuin kaasukehätön Merkurius, joka kiertää Aurinkoa lähes puolta lähempänä ja vastaanottaa siten lähes neljä kertaa suuremman säteilymäärän. Kaasukehä heijastaa 65 prosenttia näkyvästä valosta ja 60 prosenttia kaikesta säteilystä pois. Venuksen vastaanottama säteilymäärä on 2 613,9 W/m² kaasukehän yläosassa ja vain 1 071,1 W/m² pinnalla. Ilman kasvihuoneilmiötä kaasukehä itsessään viilentäisi planeetan pintaa huomattavasti. Pinta saa vain noin yhden prosentin yläilmakehään saapuvasta valosta; valo on suodattunut punaiseksi kuljettuaan pilvikerroksen ja hiilidioksidin läpi.
-
-Vaikka Venuksen vuorokausi kestää hieman pidempään kuin vuosi aiheuttaen saman puolen kääntymisen pitkäksi aikaa Aurinkoa kohden, lämpötila vaihtelee vain vähän planeetan päivä- ja yöpuolella. Tämä johtuu kaasukehän lämpöä jakavasta vaikutuksesta: yläkaasukehän voimakkaat, 300–500 kilometriä tunnissa puhaltavat tuulet kiertävät koko planeetan noin neljässä päivässä ja jakavat päiväpuolen saamaa lämpöä muualle planeettaan. Tuulen nopeus on noin sata metriä sekunnissa.
-
-Tuulen suuri nopeus johtuu yläilmakehän saamasta suuresta säteilyenergiasta. Nopeat tuulet ovat hyvin puuskaisia.
-
-Pinnalla tuulten nopeus on vähäinen – muutamia kilometrejä tunnissa, mutta ilmakehän tiheyden johdosta pienikin tuulenvire aiheuttaa huomattavan vastuksen.
-
-Venuksen napa-alueen yllä on napapyörre samaan tapaan kuin Maan ilmakehän ylemmissä kerroksissa.
-
-Toistaiseksi on epäselvää, tapahtuuko ilmakehässä salamointia, sillä planeettaa tutkineiden luotainten havainnot ovat ristiriidassa keskenään.
-
-Eräiden tietojen mukaan salamoita olisi toimiviksi arvioitujen tulivuorien kohdalla.
-
-Pinta
-
-Venuksesta otetuista tutkakuvista koottu planeetan kuva.
-Venuksen pinnalla on kaksi suurta ylänkömuodostumaa, Ishtar Terra ja Aphrodite Terra, jotka muistuttavat kooltaan Maan mantereita.[1] Lisäksi pinnalla on vuoristoja, laaksoja ja tasankoja. Pinnalla on myös tulivuorikeiloja, pannukakkua muistuttavia kohonneita muodostumia ja repeämälaaksoja sekä suuria kivettyneen laavan peittämiä alueita. Siellä on niin tulivuoren räjähdyskraattereita kuin meteoriitin törmäyskraattereitakin.
-
-Venuksen pinnanmuodot ovat toisenlaisia kuin Maassa. Selvää laattatektoniikkaa eli mannerlaattojen liikettä ei ole, vaikka Afrodite Terran lähellä olevat maastonmuodot tuovat mieleen Maan valtamerten keskiselänteet. Silti planeetan pinta vaikuttaa uusiutuvan nopeasti voimakkaan tulivuoritoiminnan takia. Venuksen tulivuoret ovat jakautuneet melko tasaisesti planeetan pinnalle, ja Venuksen kuori näyttää olevan joka seudulla samantiheyksistä kiveä, koska painovoimamittausten mukaan suurimmat painovoimakeskittymät ovat vuorten kohdalla, toisin kuin Maassa tai Kuussa. Planeetan pinnan korkeusjakautuma on yksijakoinen, ei mantereisiin ja meriin jakautuva kuten Maassa. Noin 15 prosenttia Venuksen pinnasta on vanhaa ylänköä, ehkä planeetan alkuperäistä pintaa; loput melko tuoretta basalttilaavakiveä. Toisen luokittelun mukaan mantereita on 8 prosenttia, alamaita 25 prosenttia ja tasankoja 65 prosenttia.[12] Uskotaan että Venuksen pinnalla olisi muutaman sadan miljoonan vuoden välein voimakkaan vulkanismin kausia. Noin 500 miljoonaa vuotta sitten olisi ollut tällainen kausi, ja vanhimmat planeetan pinnan muodostumat ovat arviolta 800–2 000 miljoonan vuoden ikäisiä.[13][14]
-
-Pinnanmuodot
-
-Maat Mons, kahdeksan kilometrin korkuinen tulivuori lähellä päiväntasaajaa. Korkeussuhteita on liioiteltu.
-Venuksen pinnanmuodot ovat melko matalia verrattuna muihin maankaltaisiin planeettoihin. Korkeimman ja matalimman kohdan erotus on noin 13 kilometriä, kun se esimerkiksi Maassa on noin 20 kilometriä. Pioneer-luotaimen mittausten mukaan 51 prosenttia pinnasta on korkeintaan 500 metrin etäisyydellä planeetan keskisäteestä (6 052 kilometriä), ja Magellan-luotaimen tulosten perusteella 80 prosenttia pinnasta on yhden kilometrin sisällä keskisäteestä. Vain kaksi prosenttia pinnasta on yli kahden kilometrin korkeudella. Korkeimmat vuoristot sijaitsevat Lakshmin tasangon ympärillä; huomattavimmat niistä ovat fyysikko James Clerk Maxwellin mukaan nimetyt Maxwellvuoret (11–12 km), Aknavuoret (7 km) sekä Freyjavuoret (7 km). Ylänköalueista suurin on Etelä-Amerikan kokoinen Aphrodite Terra lähellä päiväntasaajaa. Toinen merkittävä ylänkö on suunnilleen Australian kokoinen Ishtar Terra, jonka sijainti on noin 70° pohjoista leveyttä ja jossa sijaitsevat myös Maxwellvuoret. Koska Venuksessa ei ole vettä, kivet ja vuoret ovat kovempia kuin Maassa, ja ainoa eroosiota aiheuttava tekijä on vaimea tuuli. Siksi pinnanmuodot ovat monin paikoin teräväpiirteisiä ja jyrkkiä. Maxwellvuoria sekä Alpha Regio- ja Beta Regio -alueita lukuun ottamatta Venuksen kaikki pinnanmuodot on nimetty naispuolisten henkilöiden, lähinnä jumalhahmojen mukaan.
+Sulfuric acid in the clouds is produced when water vapor and sulfur dioxide in volcanic eruption gases react with each other under the influence of ultraviolet radiation from the Sun.[7] The Sun's ultraviolet radiation also breaks down the water vapor, which escapes into space.
 
 
-Dickinson-kraatteri on 69 kilometrin kokoinen.
-Kraatterit
-Venuksessa on varsin vähän törmäyskraattereita, sillä pienimmät meteorit tuhoutuvat useimmiten saavuttuaan tiheään ilmakehään tai hidastuvat matkalla niin paljon, etteivät aiheuta merkittävää törmäystä.[1] Magellan löysi Venuksesta noin 900 törmäyskraatteria, joista vain hyvin harvat olivat läpimitaltaan alle 30 kilometriä. Alle kahden kilometrin kokoisia kraattereita ei löytynyt lainkaan. Useimmat kraattereista ovat suhteellisen uusia, eivätkä ne esiinny päällekkäin. Kraattereiden ympärille on usein virrannut syntyhetkellä sulaa laavaa, jonka muodostamat laavakentät näkyvät yhä tutkakuvissa muuta ympäristöä kirkkaampina. Venuksen kraatterien iäksi arvioidaan alle 300–500 miljoonaa vuotta[15]. Osa kraattereista on tulivuoren räjähdyskraattereita.
+The structure of Venus' atmosphere and the origin of the greenhouse effect.
+The atmosphere is composed of over 96 percent carbon dioxide, 3.5 percent nitrogen, and very small amounts of other elements. The gas pressure at the surface is about 92 times that of Earth's atmosphere, and is equivalent to the pressure in the ocean at a depth of about a kilometer. Much of the hydrogen in Venus' atmosphere is constantly escaping due to temperature alone: this phenomenon is called "thermal escape." Some of the hydrogen that remains in the atmosphere is the hydrogen isotope deuterium, which is slightly heavier than regular hydrogen, so it is not as easily carried away by the solar wind.[4][1]
 
-Tuliperäisyys
+In September 2020, an international team of researchers published measurements using radio telescopes that showed that the phosphine (PH3) in the Venusian atmosphere contains about 20 parts per billion. The researchers say that no known chemical reaction explains the presence of phosphine on Venus. The researchers suspect that the phosphine may originate from some unknown chemical process or microbial life in the Venusian atmosphere.[8][9] In November 2020, a calibration error was discovered in the measurement. After the error was corrected, the phosphine concentration is now only one part per billion.[10]
 
-200 kilometrin kokoinen Aine-korona, jonka ympärillä on pannukakkumaisia pieniä kilpitulivuoria.
-Venuksen pintaa hallitsee tulivuoritoiminta. Venuksessa ei ole havaittavissa Maalle tyypillistä laattatektoniikkaa, vaan noin 80 prosenttia pinnasta koostuu laavatasankojen muodostamasta mosaiikkikuviosta, jossa siellä täällä on yli sata erillistä suurta kilpitulivuorta ja lisäksi pienempiä tulivuoria sekä koronoita. Venuksen koronat ovat tuliperäisiä, 100–300 kilometrin levyisiä ja satoja metrejä kohollaan olevia sormusmaisia muodostumia, joiden keskiosat ovat painuneet. Ne ovat syntyneet, kun vaipasta peräisin oleva magma on työntänyt kuorta koholle. Keskiosien painuminen on seurausta laavan jäähtymisestä ja purkautumisesta pois koronan sivuilta. Koronat ovat mahdollisesti paikallisten ”kuumien kuplien” aiheuttamia. Usein tulivuoritoiminta on keskittynyt tietylle alueelle, mutta on myös tulivuoria, jotka muodostavat laavavirtoja ympäri planeettaa. Suuret tulivuoret sijaitsevat todennäköisesti niin sanotun kuuman pisteen päällä, jossa kuumaa magmaa pääsee purkautumaan kohti pintaa. Laavan juoksevuudesta johtuu, että purkaukset ovat olleet hyvin rauhallisia ja että laava leviää helposti muodostaen eräänlaisia joenuomia. On arvioitu, että Venuksessa on satoja tuhansia tai jopa miljoonia halkaisijaltaan alle 20 kilometrin kokoisia pieniä tulivuoria. Myös nämä tulivuoret ovat kilpimäisiä ja alle kilometrin korkuisia. Aktiivisia tulivuoria ei ole toistaiseksi havaittu, mutta suuret muutokset ilmakehän rikkidioksidipitoisuudessa viittaavat niiden olemassaoloon.
+The average surface temperature is 464 degrees Celsius,[11] which is higher than the melting point of lead. The temperature never drops below 400 degrees Celsius, and in low-lying areas near the equator the temperature can reach 500 degrees Celsius. The temperature cools quite rapidly as you go upwards: in the upper atmosphere the temperature remains at −45 degrees Celsius.
 
-Muita Venuksen pinnan tuliperäisiä muodostumia ovat novat ja araknoidit, joita on löydetty vain Venuksesta. Nova muodostuu, kun suuria määriä magmaa purkautuu aukosta ja sen ympärille syntyvistä railoista muodostaen säteittäisiä harjanteita tai myös vajoamia silloin, kun magmakammio on romahtanut pinnan alapuolella. Araknoidit puolestaan ovat hämähäkinverkon muotoisia halkeamaverkostoja, joissa sisäkkäisten soikioiden välillä kulkee säteittäisiä halkeamia. Araknoideja on löydetty Venuksesta noin 250.
+Due to its very high carbon dioxide content, Venus has an extremely strong greenhouse effect, raising the planet's temperature by about 500 degrees Celsius (1,100 degrees Fahrenheit). A gas-free body at the distance of Venus would have a temperature of about 230 kelvins (-43 degrees Celsius).[4]
 
-Tektoninen aktiivisuus
-Venuksen kuoressa ei ole havaittavissa laattatektoniikkaa mahdollisesti siitä syystä, että kuoren rakenne on ohuempi ja heikompi kuin Maassa, jolloin planeetallemme tyypillisiä alityöntövyöhykkeitä ei pääse syntymään. Sen sijaan kuori muodostaa vain paikallisia vyöhykkeellisiä kerrostumia. Huolimatta varsinaisten tektonisten laattojen puuttumisesta Venuksen pinnalla on havaittavissa runsaasti muodostumia, jotka ovat tektonisen aktiivisuuden aiheuttamia, kuten tulivuoritoiminnasta syntyneitä poimuvuoristoja, hautavajoamia ja tessera-nimellä kutsuttuja alueita, jotka ovat hajonneet laattojen muodostamaksi mosaiikiksi pitkään kestäneen puristuksen takia. Painovoimamittausten mukaan Venuksessa ei ole lainkaan astenosfääriä, kuoren alapuolista mannerliikunnot mahdollistavaa plastista kerrosta, mikä viittaa pinnanmuodostumien syntyyn suoraan vaipan konvektiovirtausten kautta.
+Venus may have had a lower temperature billions of years ago before the greenhouse effect got out of control. Venus appears to have some hot spots on its surface, possibly active volcanoes, reaching temperatures of around 700 degrees Celsius.
 
-Rakenne
+Venus is even warmer than the atmosphereless Mercury, which orbits the Sun almost half as close and thus receives almost four times as much radiation. The atmosphere reflects 65 percent of visible light and 60 percent of all radiation. The radiation received by Venus is 2,613.9 W/m² in the upper atmosphere and only 1,071.1 W/m² at the surface. Without the greenhouse effect, the atmosphere itself would cool the planet's surface considerably. The surface receives only about 1 percent of the light reaching the upper atmosphere; the light is red-filtered after passing through a layer of clouds and carbon dioxide.
 
-Venuksen sisäinen rakenne.
-Venus muistuttaa sisäiseltä rakenteeltaan suuresti Maata, sillä planeetat ovat samaa kokoluokkaa ja syntyneet samalla Aurinkokunnan alueella. Yhtenäisen kuoren alla on sulasta kivimateriaalista koostuva vaippa, joka käsittää suurimman osan planeetan tilavuudesta. Sisimpänä on halkaisijaltaan noin 6 000 kilometrin kokoinen rautaydin. Venuksen tiheys ja läpimitta on hieman pienempi kuin Maalla.
+Although Venus's day is slightly longer than a year, causing the same side to face the Sun for a long time, the temperature varies only slightly between the day and night sides of the planet. This is due to the heat-sharing effect of the atmosphere: strong winds in the upper atmosphere, blowing at 300–500 kilometers per hour, circle the entire planet in about four days, distributing the heat received by the day side to the rest of the planet. The wind speed is about one hundred meters per second.
 
-Venuksen magneettikenttä on hyvin heikko muihin Aurinkokunnan planeettoihin verrattuna. Tämä saattaa olla seurausta planeetan erittäin hitaasta pyörähdysajasta, josta johtuen sula rautaydin ei ole saanut aikaan kunnollista magneettikentän synnyttävää dynamoa. Sen seurauksena aurinkotuuli osuu Venuksen yläilmakehään esteettä. On arveltu, että Venuksessa on alun perin ollut yhtä paljon vettä kuin Maassa, mutta aurinkotuulen hiukkasten iskeytyessä ilmakehään sen vesimolekyylit hajosivat hapeksi ja vedyksi, joista vety kevyempänä karkasi nopeasti avaruuteen. Tämän vuoksi vedyn raskaan isotoopin deuteriumin määrä suhteessa tavalliseen vetyyn on suuri. Osa molekyylisestä hapesta yhdistyi kuoren atomien kanssa ja osa taas jäi ilmakehään muodostaen hiilen kanssa hiilidioksidia.
+The high wind speed is due to the high radiation energy received by the upper atmosphere. Fast winds are very gusty.
 
-Näkyminen
+At the surface, wind speeds are low – a few kilometers per hour, but due to the density of the atmosphere, even a small breeze causes considerable resistance.
 
-Kaikista planeetoista Venus näkyy Maasta katsottuna kaikkein kirkkaimmin ja selvimmin etenkin aamuisin ja iltaisin. Kuvan Venuksen näkymisestä on otettu Tyynenmeren rannalta. Kuvassa toiseksi kirkkaimmin näkyvä taivaankappale on Jupiter.
-Koska Venus sijaitsee lähempänä Aurinkoa kuin Maa, se näkyy keskiyöllä vain pohjoisimmilla tai eteläisimmillä leveysasteilla, suurimman elongaation aikaan myös Suomessa. Riippuen siitä, millä puolella Aurinkoa se ja Maa ovat, se saattaa päiväntasaajalla näkyä enintään 3–4 tuntia ennen Auringon nousua tai Auringon laskun jälkeen: lähempänä napoja nämä vuorokautiset näkymisajat saattavat olla pidempiäkin. Noin 60 leveysasteen pohjoispuolella se voi näkyä läpi yön. Ollessaan lähellä suurinta läntistä elongaatiotaan se näkyy aamutaivaalla, jolloin siitä käytetään myös nimitystä aamutähti. Kun se taas on lähellä suurinta itäistä elongaatiota se näkyy iltataivaalla, jolloin siitä voidaan käyttää nimitystä iltatähti (aikaisemmin myös ehtootähti). Se on kuitenkin niin kirkas, että kun se on lähellä suurinta elongaatiotaan, sen voi nähdä paljaalla silmällä jopa keskellä päivää, mikäli vain tietää tarkalleen mihin kohtaan taivasta katsoa.
+There is a polar vortex above the polar region of Venus, similar to the one in the upper layers of Earth's atmosphere.
 
-Venus onkin normaalisti kolmanneksi kirkkain taivaankappale Auringon ja Kuun jälkeen. Sen näennäinen kirkkaus on −4,6 magnitudia kirkkaimmillaan, joten se on huomattavasti kirkkaampi kuin kirkkain tähti Sirius. Kirkas, tähtimäinen Venus saattaa jopa heittää varjon.
+It is currently unclear whether lightning occurs in the atmosphere, as observations from probes that have studied the planet are contradictory.
 
-Venuksen kiertovaiheita on muun muassa suurin itäinen ja läntinen elongaatio, jolloin Venus näyttää olevan kauimpana Auringosta sen jommallakummalla sivuilla. Alakonjunktiossa Venus on lähimpänä meitä Auringon edessä. Silloin Venus näyttää kaukoputkella katsottuna suurelta kapealta sirpiltä tai se on pimeänä. Yläkonjunktiossa se on Auringon takana. Silloin se näyttää hyvin pieneltä täydeltä kuulta, muttei juuri erotu koska on niin lähellä Aurinkoa tai jopa Auringon takana.
+According to some reports, lightning strikes are possible at volcanoes that are considered active.
 
-Yläkonjunktion aikaan ollessaan kauimmillaan Maasta Venus katoaa näkyvistä useaksi viikoksi, mutta alakonjunktion se ohittaa sen verran nopeasti, että se on havaittavissa kenties jo muutaman päivän kuluttua katoamisestaan. Jos Venus on tarpeeksi Auringon ylä- tai alapuolella alakonjunktion aikana, se on silloinkin näkyvissä erittäin kapeana sirppinä. Tehokkaalla kiikarilla ja harrastajatasoisella kaukoputkella voi nähdä Venuksen vaiheet, mutta tehokkaallakin kaukoputkella yksityiskohdat rajoittuvat vähäisiin kirkkauseroihin planeetan eri alueilla. Venuksen näennäinen läpimitta on yläkonjunktiossa 9–10 kaarisekuntia ja alakonjunktiossa noin 60 kaarisekuntia.
+Surface
 
-Kierto-ominaisuudet
-Venuksen keskietäisyys Auringosta on noin 110 miljoonaa kilometriä, eli 0,723 AU. Venus kiertää Auringon kerran 224 vuorokaudessa. Maasta katsoen Venuksen vaiheet toistuvat huomattavasti pidemmässä synodisessa jaksossa. Planeetan rata on lähes täydellinen ympyrä. Radan soikeus eli eksentrisyys on planeetoista pienin, alle 0,7 prosenttia, ja kaltevuus Maan suhteen noin 3,4 astetta sekä Auringon päiväntasaajan suhteen 3,86 astetta. Useimpien muiden planeettojen pyörimiseen verrattuna takaperin kolmen asteen kulmassa pyörivän Venuksen pyörähdysaika on 243 vuorokautta.[11] Planeetan pyörimisnopeus päiväntasaajalla on Maahan verrattuna pieni, vain 6,52 kilometriä tunnissa.
+An image of the planet compiled from radar images taken from Venus.
+Venus has two large highlands, Ishtar Terra and Aphrodite Terra, which are similar in size to Earth's continents.[1] In addition, the surface has mountains, valleys, and plains. The surface also has volcanic cones, pancake-like uplifts, rift valleys, and large areas of petrified lava. There are both volcanic explosion craters and meteorite impact craters.
 
-Venuksen takaperoisen pyörimisen oletetaan johtuvan suuren protoplaneetan törmäämisestä sopivassa kulmassa planeettaan Aurinkokunnan syntyvaiheessa, jolloin Aurinkokunnassa oli muutamia kymmeniä oligarkkeja, noin Marsin kokoisia protoplaneettoja. Myös Pluto pyörii taannehtivasti (retrogradisesti) ja Uranus kyljellään näkökulmasta riippuen joko retrogradisesti tai normaaliin suuntaan.
+Venus's topography is different from that of Earth. There is no clear plate tectonics, or the movement of continental plates, although the landforms near Aphrodite Terra resemble Earth's mid-ocean ridges. Still, the planet's surface appears to be rapidly renewing itself due to intense volcanic activity. Venus' volcanoes are fairly evenly distributed across the planet's surface, and Venus' crust appears to be composed of rock of similar density in every region, since gravity measurements show that the greatest concentrations of gravity are near mountains, unlike on Earth or the Moon. The planet's surface is uniformly distributed in elevation, not divided into continents and oceans as on Earth. About 15 percent of Venus's surface is old highlands, perhaps the planet's original surface; the rest is fairly recent basaltic lava rock. Another classification puts continents at 8 percent, lowlands at 25 percent, and plains at 65 percent.[12] It is believed that Venus's surface experiences periods of intense volcanism every few hundred million years. About 500 million years ago, such a period would have occurred, and the oldest formations on the planet's surface are estimated to be between 800 and 2 billion years old.[13][14]
 
-Vaiheet
+Surface shapes
 
-Venuksen vaiheet.
-Koska Venus kiertää Aurinkoa Maan radan sisäpuolella, on sillä Maasta katsottuna havaittavissa selkeät vaiheet, samaan tapaan kuin Kuulla. Ollessaan alakonjunktiossa lähimmillään Maata se näkyy kaukoputkella hyvin ohuena sirppinä – poikkeuksena ylikulku, jolloin planeetta kulkee suoraan Auringon editse. Ollessaan elongaatiossa näennäisesti suurimmassa kulmassa Aurinkoon nähden (45,0–47,8°) se näyttäytyy puoliksi valaistuna, itäisessä elongaatiossa iltatähtenä ja läntisessä elongaatiossa aamutähtenä. Planeetan siirtyessä yläkonjunktioon vastakkaiselle puolelle Aurinkoa se näkyy täysinäisenä, mutta kasvaneesta etäisyydestään johtuen yli kuusi kertaa alakonjunktiota pienempänä. Vaiheiden kierto kestää yhden Venuksen synodisen kiertoajan verran eli noin 584 päivää.
+Maat Mons, an eight-kilometer-high volcano near the equator. The height ratios have been exaggerated.
+Venus's landforms are relatively shallow compared to other terrestrial planets. The difference between the highest and lowest points is about 13 kilometers, compared to about 20 kilometers on Earth. According to measurements by the Pioneer spacecraft, 51 percent of the surface is within 500 meters of the planet's mean radius (6,052 kilometers), and according to results from the Magellan spacecraft, 80 percent of the surface is within one kilometer of the mean radius. Only two percent of the surface is above two kilometers. The highest mountain ranges are located around the Lakshmi Plateau; the most notable of these are the Maxwell Mountains (11–12 km), named after physicist James Clerk Maxwell, the Akna Mountains (7 km), and the Freyja Mountains (7 km). The largest of the highlands is Aphrodite Terra, which is the size of South America, near the equator. Another notable plateau is Ishtar Terra, about the size of Australia, located at about 70° north latitude and also home to the Maxwell Mountains. Because there is no water on Venus, the rocks and mountains are harder than on Earth, and the only erosion is by gentle winds. As a result, the landforms are sharp and steep in many places. With the exception of the Maxwell Mountains and the Alpha Regio and Beta Regio regions, all of Venus' landforms are named after female figures, mostly deities.
 
-Kirkkaimmillaan Venus on keskimäärin 37 päivää ennen ja jälkeen alakonjunktion, jolloin 25 prosenttia planeetan pinnasta näkyy valaistuna. Tällöin sen kirkkaus on −4,6 magnitudia. Himmeimmillään Venus on yläkonjunktiossa, jolloin sen kirkkaus laskee −3,5 magnitudiin.
 
-Ylikulku
+Dickinson Crater is 69 kilometers across.
+Craters
+Venus has relatively few impact craters, as the smallest meteorites are usually destroyed upon entering the dense atmosphere or slow down enough on their way to cause no significant impact.[1] Magellan found about 900 impact craters on Venus, very few of which were less than 30 kilometers in diameter. No craters smaller than two kilometers were found. Most of the craters are relatively new and do not occur on top of each other. The craters were often surrounded by molten lava flows at the time of formation, and the lava fields formed by them still appear brighter than the rest of the environment in radar images. The age of the craters on Venus is estimated to be less than 300–500 million years.[15] Some of the craters are volcanic explosion craters.
 
-Vuoden 2004 ylikulku.
-Pääartikkeli: Venuksen ylikulku
-Venuksen ylikulku tapahtuu, kun planeetta kulkee radallaan suoraan Maan ja Auringon välistä. Ilmiö on sama kuin auringonpimennyksessä, mutta Venuksen pienestä näennäisestä koosta johtuen se näkyy vain pienenä mustana kiekkona Auringon edessä.
+Fire origin
 
-Venuksen ylikulku on harvinainen tapahtuma, sillä sen ja Maan ratatason välinen kulma on 3,4 astetta. Siinä on havaittavissa tietty jaksollisuus, jossa kaksi ylikulkua seuraa toisiaan hieman alle kahdeksan vuoden välein ja pareja erottavat vuoroin 121,5 ja 105,5 vuoden välit. Johannes Kepler ennusti ensimmäisenä ylikulun vuodelle 1631, mutta sitä ei havaittu. Kahdeksaa vuotta myöhemmin tapahtuneen ylikulun havaitsi ensimmäisenä Jeremiah Horrocks.
+The 200-kilometer-wide Aine corona, surrounded by small pancake-shaped shield volcanoes.
+The surface of Venus is dominated by volcanic activity. Venus does not exhibit the typical plate tectonics of Earth, but about 80 percent of the surface consists of a mosaic pattern of lava plains, with over a hundred separate large shield volcanoes here and there, as well as smaller volcanoes and coronae. The coronae of Venus are volcanic, 100–300 kilometers wide and hundreds of meters high, ring-like formations with depressed centers. They were created when magma from the mantle pushed the crust up. The depression of the centers is a result of the lava cooling and erupting away from the sides of the corona. Coronae are possibly caused by local “hot bubbles”. Volcanic activity is often concentrated in a specific area, but there are also volcanoes that form lava flows all over the planet. Large volcanoes are probably located on so-called hot spots, where hot magma can erupt towards the surface. The fluidity of the lava means that the eruptions have been very calm and that the lava spreads easily, forming a kind of riverbed. It is estimated that there are hundreds of thousands or even millions of small volcanoes on Venus, less than 20 kilometers in diameter. These volcanoes are also shield-shaped and less than a kilometer high. No active volcanoes have been observed so far, but large changes in the sulfur dioxide concentration in the atmosphere indicate their existence.
 
-Edelliset ylikulut tapahtuivat 8. kesäkuuta 2004 ja 6. kesäkuuta 2012.[16] Ne olivat havaittavissa myös Suomessa. Seuraava ylikulku tapahtuu vuonna 2117, mutta se ei näy Suomessa.
+Other volcanic features on the surface of Venus include novae and arachnoids, which have been found only on Venus. Novae are formed when large amounts of magma erupt from a vent and surrounding fissures, forming radial ridges or depressions when a magma chamber has collapsed below the surface. Arachnoids are spiderweb-like networks of fissures, with radial fissures running between nested ovals. About 250 arachnoids have been found on Venus.
 
-Ennen nykyaikaista tähtitiedettä Venuksen ylikululla oli tärkeä tieteellinen merkitys. Sen avulla voitiin parallaksista laskea Maan etäisyys Auringosta, sillä ylikulun alkuhetki vaihteli hieman maapallon eri puolilta havaittuna. Aiemmin oli pystytty määrittämään vain planeettojen suhteelliset etäisyydet, joten kokonaiskuva Aurinkokunnan koosta pystyttiin vihdoin hahmottamaan. Vuonna 1761 ylikulussa nähtiin Venuksen ympärillä sen kulkiessa Auringon reunan ulkopuolelle kirkas rengas, josta pääteltiin planeetan kaasukehän taittavan valoa.[17] Samoin Venuksen koskettaessa sisäpuolelta Auringon reunaa, nähtiin sen vieressä tumma pullistuma, joka johtui samasta syystä.
+Tectonic activity
+Plate tectonics is not observed in the crust of Venus, possibly because the structure of the crust is thinner and weaker than on Earth, which prevents the formation of subduction zones typical of our planet. Instead, the crust forms only local zonal layers. Despite the absence of actual tectonic plates, there are many formations on the surface of Venus that are caused by tectonic activity, such as fold mountains created by volcanic activity, grave rifts, and areas called tesserae that have broken up into a mosaic of plates due to long-term compression. Gravity measurements show that Venus has no asthenosphere, the plastic layer below the crust that allows continental movement, which suggests that surface formations are created directly by mantle convection currents.
 
-Tutkimus
-Havainnot ennen avaruusaikaa
-Venus on Kuun ja Auringon jälkeen taivaan kirkkain kohde, joten se on varmasti tunnettu jo esihistoriallisella ajalla. Eräs varhaisimmista tunnetuista tähtitieteellisistä asiakirjoista on Babyloniasta noin vuodelta 1600 eaa. peräisin oleva havaintotaulukko, johon on merkitty planeetan ilmestymisajankohdat 21 vuoden ajalta. Babylonialaiset ja sumerit kutsuivat Venusta nimellä Dil-bat, Dil-i-pat tai Nin-Dar-Anna, joka merkitsee taivaan valtiatarta.[18] Akkadiassa se oli puolestaan jumalatar Ištarin tähti ja Kiinassa sekä lähikulttuureissa Metallitähti kiinalaisen viiden elementin filosofian mukaan.
+Structure
 
-Mayoille Venus oli tärkein taivaankappale, ja he kutsuivat sitä nimellä Chak ek, ’suuri tähti’. He havainnoivat planeetan liikkeitä tarkoin, myös päivällä, sillä he uskoivat sen sijainnin muiden planeettojen suhteen vaikuttavan elämän kulkuun maapallolla. He loivat uskonnollisen kalenterin, jossa esitettiin Venuksen täysi synodinen kierros (noin 584 päivää) viiden kierroksen jaksoissa. Asteekeilla Venuksen jumala oli Tlahuizcalpantecutli, ”Aamuhämärän talon herra” tai ”Sarastuksen herra”.
+The internal structure of Venus.
+Venus closely resembles Earth in its internal structure, as the planets are of the same size and formed in the same region of the Solar System. Beneath the uniform crust is a mantle of molten rock, which makes up most of the planet's volume. At its innermost is an iron core with a diameter of about 6,000 kilometers. Venus' density and diameter are slightly smaller than those of Earth.
 
-Venusta on kutsuttu vanhastaan Kointähdeksi eli Aamutähdeksi ja Iltatähdeksi eli Ehtootähdeksi, koska se on usein aamu- ja iltataivaan huomattavin tähtitieteellinen kohde.[19] Sanassa Kointähti koi tarkoittaa aamunkoita eli aamun ensi valoa ennen auringon nousua. Varhaisimpina aikoina ei mahdollisesti ymmärretty, että Kointähti ja Iltatähti olivat sama kohde. Antiikin Kreikassa Iltatähteä kutsuttiin nimellä Hesperos, joka viittaa ilmestymiseen läntiselle taivaalle, ja Aamutähteä nimellä Fosforos. Fosforos, latinaksi Lucifer, tarkoittaa kirjaimellisesti valontuojaa: ilmestyessään itätaivaalle Venus toi mukanaan päivän valon. Lopulta oivallettiin, että kyseessä on sama kohde. Diogenes Laertios ja Plinius vanhempi väittivät, että Pythagoras olisi ensimmäisenä ymmärtänyt tämän.[20][21] Assurbanipalin kirjastosta löytyneet varhaisbabylonialaisten savitaulujen jäljennökset ovat kuitenkin osoittaneet, että babylonialaiset olivat tienneet tämän jo yli tuhat vuotta ennen Pythagoraan aikaa.[18]
+Venus' magnetic field is very weak compared to other planets in the Solar System. This may be a result of the planet's very slow rotation period, which means that the molten iron core has not been able to create a proper dynamo that generates a magnetic field. As a result, the solar wind hits Venus' upper atmosphere unhindered. It is thought that Venus originally had as much water as Earth, but when solar wind particles hit the atmosphere, its water molecules broke down into oxygen and hydrogen, with the lighter hydrogen quickly escaping into space. This is why the amount of the heavy isotope of hydrogen, deuterium, is high relative to regular hydrogen. Some of the molecular oxygen combined with atoms in the crust, while some remained in the atmosphere, forming carbon dioxide with carbon.
 
-Vanhalla ja keskiajalla planeettojen ja Auringon oletettiin kiertävän Maata. Ei kuitenkaan oltu yksimielisiä siitä, ovatko Venus ja Merkurius lähempänä vai kauempana Maata kuin Aurinko.[22] Eräiden myöhäisantiikin kirjoittajien mukaan Herakleides Pontoslainen olisi esittänyt jo 300-luvulla eaa., että Merkurius ja Venus kiertävät Aurinkoa Maan sijaan.[23] Teoria ei tullut vanhalla ajalla yleisesti hyväksytyksi, mutta 1300-luvulla se esiintyi useilla kirjoittajilla.[22]
+Appearance
 
-Uudella ajalla Galileo Galilei teki merkittävän havainnon nähdessään kaukoputkellaan Venuksen vaiheet vuonna 1610. Tämä oli tärkeä todiste Kopernikuksen aurinkokeskisen maailmankuvan puolesta. Lisäksi Galilei havaitsi, että planeetan näennäinen läpimitta vaihteli siten, että se oli pienimmillään täysinäisenä ja suurimmillaan sirppinä.
+Of all the planets, Venus is the brightest and most visible from Earth, especially in the mornings and evenings. The image of Venus visible was taken from the Pacific Ocean. The second brightest celestial body in the image is Jupiter.
+Because Venus is closer to the Sun than the Earth, it is visible at midnight only at the northernmost or southernmost latitudes, at the time of greatest elongation, also in Finland. Depending on which side of the Sun it and the Earth are on, it may be visible at the equator for a maximum of 3–4 hours before sunrise or after sunset: closer to the poles, these daily visibility times may be even longer. North of about 60 degrees latitude, it can be visible throughout the night. When it is near its greatest western elongation, it is visible in the morning sky, when it is also called the morning star. When it is near its greatest eastern elongation, it is visible in the evening sky, when it can be called the evening star (formerly also the evening star). However, it is so bright that when it is near its greatest elongation, it can be seen with the naked eye even in the middle of the day, if you know exactly where to look in the sky.
 
-Vuonna 1932 selvisi spektroskoopilla mitaten, että Venuksen kaasukehässä on hiilidioksidia.[24]
+Venus is normally the third brightest object in the sky after the Sun and Moon. Its apparent magnitude is −4.6 at its brightest, making it considerably brighter than the brightest star Sirius. The bright, star-like Venus may even cast a shadow.
 
-Vielä 1800-luvulla uskottiin yleisesti, että Venuksen pyörähdysaika on noin 24 tuntia. Hitaampaa pyörimisnopeutta ehdotti ensimmäisenä italialainen tähtitieteilijä Giovanni Schiaparelli olettaen, että Venuksen pyöriminen oli Merkuriuksen tavoin lukittunut kiertoajan mittaiseksi. Tätä vahvisti se havainto, että Venus oli kääntynyt aina samaan suuntaan Maahan nähden ollessaan alakonjunktiossa. Olettamus ei pitänyt paikkansa kummankaan planeetan kohdalla, mutta osui varsin lähelle. Lopullinen tieto pyörähdysajasta saatiin 1960-luvulla, kun vuoden 1961 konjunktiosta lähtien planeettaa havainnoitiin tutkalla useista observatorioista käsin. Pyörähdysliikkeen retrogradisuus huomattiin vasta vuonna 1964. Venuksen huomattiin säteilevän itse voimakasta radiosäteilyä, mikä viittasi 300–400 asteen lämpötilaan planeetan pinnalla yöpuolella. 1960-luvun alussa esitettiin eri selityksiä: planeetta olisi ilmassa leijuvan pölyn tai hiilidioksidin takia kuuma, tai säteily tulisi planeetan ionosfääristä.[25] Vuodesta 1968 lähtien huomattiin tutkahavainnoilla, että Venuksessa on eri tavoin tutkasäteilyä heijastavia alueita, muun muassa Alfa Regio ja Beta Regio. 1970-luvulla pinnalta erottui jo tutkien edelleen kehittyessä kraattereita.
+Venus's orbital phases include greatest eastern and western elongation, when Venus appears to be farthest from the Sun on either side of it. At inferior conjunction, Venus is closest to us, in front of the Sun. When Venus is viewed through a telescope, it looks like a large, narrow crescent or is dark. At superior conjunction, it is behind the Sun. When it appears to be a very small full moon, but it is not very noticeable because it is so close to the Sun or even behind the Sun.
 
-Avaruusluotaimia
-Pääartikkeli: Venusta tutkineet avaruusluotaimet
-Venusta kohti on lähetetty avaruusluotaimia 1960-luvun alusta lähtien. Amerikkalainen Mariner 2 lensi planeetan ohi vuonna 1962. Neuvostoliitto lähetti Venukseen monia menestyneitä luotaimia. Vuonna 1967 Neuvostoliiton Venera 4 laskeutui Venuksen kaasukehään mitaten lämpötilaa ja painetta, mutta se tuhoutui ennen pääsyä planeetan pinnalle. Vasta Venera 7 laskeutui planeetan pinnalle onnistuneesti. Vuonna 1975 Venera 9 ja 10 kiersivät Venusta ja pudottivat kuvat ottaneet kapselit Venuksen pinnalle. Vuonna 1978 Yhdysvallat lähetti Venukseen kaksi Pioneer Venus -nimistä luotainta, joista toinen pudotti mittauskapseleita eri kohtiin planeetan kaasukehää ja toinen kartoitti planeetan pinnan suureksi osaksi. Neuvostoliitto lähetti edelleen laskeutujia Venukseen 1970- ja 1980-luvuilla. Merkittäviä olivat myös tutkakartoittajaluotaimet Venera 15 ja 16.
+During superior conjunction, when Venus is at its farthest from Earth, it disappears from view for several weeks, but during inferior conjunction it passes so quickly that it can be seen perhaps a few days after its disappearance. If Venus is sufficiently above or below the Sun during inferior conjunction, it will still be visible as a very narrow crescent. With powerful binoculars and an amateur telescope, you can see the phases of Venus, but even with a powerful telescope, the details are limited to slight differences in brightness in different parts of the planet. The apparent diameter of Venus is 9–10 arcseconds at superior conjunction and about 60 arcseconds at inferior conjunction.
 
-Amerikkalainen Venusta kiertänyt Magellan kartoitti Venuksen pintaa aiempaa tarkemmin 1989–1994. Sittemmin ESA:n Venus Express toimi kiertoradalla vuosina 2006–2014.
+Rotational properties
+The average distance of Venus from the Sun is about 110 million kilometers, or 0.723 AU. Venus orbits the Sun once every 224 days. As seen from Earth, the phases of Venus repeat themselves in a much longer synodic period. The planet's orbit is almost a perfect circle. The elliptical orbit, or eccentricity, is the smallest of the planets, less than 0.7 percent, and the inclination to the Earth is about 3.4 degrees and to the Sun's equator is 3.86 degrees. Compared to the rotation of most other planets, Venus rotates at an angle of three degrees backward, and its rotation period is 243 days.[11] The planet's rotation speed at the equator is small compared to Earth, only 6.52 kilometers per hour.
 
-Venus tieteiskirjallisuudessa
-Ennen avaruusluotainten havaintoja Venusta pidettiin tieteiskirjallisuudessa maankaltaisena planeettana. Se kuviteltiin usein märäksi sademetsien ja soiden peittämäksi maailmaksi. C. S. Lewisin Perelandrassa Venus taas kuvataan idylliseksi valtamerien peittämäksi planeetaksi. Edgar Rice Burroughsin Venus-kirjasarjassa hänen Amtoriksi nimittämänsä planeetta on vihreä ja merellinen, ja sitä suojaa auringonpaisteelta pysyvä pilviverho. Toiset taas ovat kuvitelleet Venusta kuumaksi aavikoksi, muttei osattu odottaa 480 asteen lämpötiloja.
+Venus' retrograde rotation is thought to be caused by a large protoplanet colliding with the planet at a suitable angle during the formation of the Solar System, when there were a few dozen oligarchs, protoplanets about the size of Mars, in the Solar System. Pluto also rotates retrogradely, and Uranus, which lies on its side, rotates either retrogradely or normally, depending on the perspective.
 
-Venuksen asuttaminen
-Nasa on esittänyt suunnitelman leijailevan siirtokunnan rakentamisesta Venuksen kaasukehään ja luoda sinne pysyvän asutuksen. Asutuksen olisi tarkoitus asua kiertoradalla olevissa ilmalaivoissa noin 50 kilometrin korkeudessa, jossa ilmanpaine ja säteilysuoja ovat enemmän maan kaltaiset kuin Venuksen pinnalla. Suunnitelman mukaan aluksi retkikunnat kävisivät Venuksen kiertoradalla ja tämän jälkeen vuorossa on pysyvän asutuksen perustaminen. Suunnitelman ongelmiksi on nähty esimerkiksi ilmalaivojen täyttäminen heliumilla Venuksessa ja niiden suojaaminen rikkihapolta.[26]
+Vicissitudes
+
+Phases of Venus.
+Because Venus orbits the Sun inside the Earth's orbit, it has distinct phases, similar to the Moon, when viewed from Earth. When it is at inferior conjunction, closest to Earth, it appears as a very thin crescent in a telescope – the exception being transits, when the planet passes directly in front of the Sun. When it is at its apparent greatest angle to the Sun in elongation (45.0–47.8°), it appears half-illuminated, as an evening star at eastern elongation, and as a morning star at western elongation. When the planet moves to the opposite side of the Sun at superior conjunction, it appears full, but due to its increased distance, it appears more than six times smaller than at inferior conjunction. The cycle of phases lasts one synodic period of Venus, or about 584 days.
+
+Venus is at its brightest on average 37 days before and after inferior conjunction, when 25 percent of the planet's surface is illuminated. At this time, its brightness is −4.6 magnitude. Venus is at its dimmest at superior conjunction, when its brightness drops to −3.5 magnitude.
+
+Overpass
+
+The 2004 overpass.
+Main article: Transit of Venus
+A transit of Venus occurs when the planet passes directly between the Earth and the Sun in its orbit. The phenomenon is the same as a solar eclipse, but due to Venus's small apparent size, it appears only as a small black disk in front of the Sun.
+
+The transit of Venus is a rare event, as the angle between it and the Earth's orbital plane is 3.4 degrees. It exhibits a certain periodicity, with two transits occurring just under eight years apart, with pairs separated by 121.5 and 105.5 years. Johannes Kepler first predicted a transit in 1631, but it was not observed. The transit, which occurred eight years later, was first observed by Jeremiah Horrocks.
+
+Previous transits occurred on June 8, 2004, and June 6, 2012.[16] They were also visible in Finland. The next transit will occur in 2117, but will not be visible in Finland.
+
+Before modern astronomy, the transit of Venus had important scientific significance. It allowed the Earth's distance from the Sun to be calculated from the parallax, as the beginning of the transit varied slightly when observed from different sides of the Earth. Previously, only the relative distances of the planets had been determined, so the overall picture of the size of the Solar System could finally be formed. In 1761, a bright ring was seen around Venus as it passed outside the edge of the Sun, which led to the conclusion that the planet's atmosphere was refracting light.[17] Similarly, when Venus touched the edge of the Sun from the inside, a dark bulge was seen next to it, which was due to the same reason.
+
+Research
+Observations before the space age
+Venus is the brightest object in the sky after the Moon and the Sun, so it must have been known since prehistoric times. One of the earliest known astronomical documents is a Babylonian observation table from around 1600 BC, which records the planet's appearance over a period of 21 years. The Babylonians and Sumerians called Venus Dil-bat, Dil-i-pat, or Nin-Dar-Anna, meaning "Mistress of the Sky."[18] In Akkadian, it was the star of the goddess Ishtar, and in China and neighboring cultures, the Metal Star, according to the Chinese philosophy of the five elements.
+
+To the Maya, Venus was the most important celestial body, and they called it Chak ek, 'the great star'. They observed the planet's movements closely, even during the day, as they believed that its position in relation to the other planets influenced the course of life on Earth. They created a religious calendar that represented the full synodic orbit of Venus (about 584 days) in periods of five orbits. To the Aztecs, the god of Venus was Tlahuizcalpantecutli, 'Lord of the House of Twilight' or 'Lord of the Dawn'.
+
+Venus has traditionally been called the Morning Star and the Evening Star, because it is often the most prominent astronomical object in the morning and evening sky.[19] In the word Morning Star, koi means dawn, or the first light of the morning before sunrise. In the earliest times, it may not have been understood that the Morning Star and the Evening Star were the same object. In ancient Greece, the Evening Star was called Hesperos, referring to its appearance in the western sky, and the Morning Star was called Phosphorus. Phosphorus, in Latin Lucifer, literally means light-bringer: when Venus appeared in the eastern sky, she brought with her the light of day. Eventually, it was realized that they were the same object. Diogenes Laertius and Pliny the Elder claimed that Pythagoras was the first to understand this.[20][21] However, copies of early Babylonian clay tablets found in the library of Ashurbanipal have shown that the Babylonians had known this for over a thousand years before the time of Pythagoras.[18]
+
+In ancient and medieval times, the planets and the Sun were assumed to orbit the Earth. However, there was disagreement as to whether Venus and Mercury were closer or further from the Earth than the Sun.[22] According to some writers of late antiquity, Heraclides of Pontus proposed as early as the 4th century BC that Mercury and Venus orbited the Sun instead of the Earth.[23] The theory was not generally accepted in antiquity, but it appeared in several writers in the 14th century.[22]
+
+In modern times, Galileo Galilei made a significant observation when he observed the phases of Venus through his telescope in 1610. This was important evidence for the Copernican heliocentric world view. Galileo also observed that the planet's apparent diameter varied, ranging from its smallest when it was full to its largest when it was a crescent.
+
+In 1932, it was discovered by spectroscopic measurements that the atmosphere of Venus contains carbon dioxide.[24]
+
+As late as the 19th century, it was generally believed that Venus rotates about 24 hours. The slower rotation rate was first proposed by the Italian astronomer Giovanni Schiaparelli, who assumed that Venus's rotation, like that of Mercury, was locked to the period of its revolution. This was confirmed by the observation that Venus always turned in the same direction relative to Earth when it was in inferior conjunction. The assumption was not correct for either planet, but it was quite close. The final information about the rotation period was obtained in the 1960s, when the planet was observed with radar from several observatories starting from the 1961 conjunction. The retrograde nature of its rotation was not noticed until 1964. Venus was found to emit strong radio radiation itself, which indicated a temperature of 300–400 degrees on the planet's surface on the night side. In the early 1960s, various explanations were put forward: the planet was hot due to dust or carbon dioxide floating in the air, or the radiation came from the planet's ionosphere.[25] From 1968 onwards, radar observations showed that Venus had regions that reflected radar radiation in different ways, including Alpha Regio and Beta Regio. In the 1970s, as the spacecraft continued to develop, craters began to appear on the surface.
+
+Space probes
+Main article: Space probes that have explored Venus
+Space probes have been sent to Venus since the early 1960s. The American Mariner 2 flew by the planet in 1962. The Soviet Union sent many successful probes to Venus. In 1967, the Soviet Venera 4 landed in the Venusian atmosphere to measure temperature and pressure, but it was destroyed before reaching the planet's surface. Only Venera 7 successfully landed on the planet's surface. In 1975, Venera 9 and 10 orbited Venus and dropped capsules that took pictures on the surface of Venus. In 1978, the United States sent two probes called Pioneer Venus to Venus, one of which dropped measurement capsules at different points in the planet's atmosphere and the other mapped a large part of the planet's surface. The Soviet Union continued to send landers to Venus in the 1970s and 1980s. Also notable were the radar survey probes Venera 15 and 16.
+
+The American Magellan orbiter mapped the surface of Venus in greater detail from 1989 to 1994. ESA's Venus Express then operated in orbit from 2006 to 2014.
+
+Venus in science fiction
+Before the discovery of Venus by space probes, Venus was considered an Earth-like planet in science fiction. It was often imagined as a wet world covered in rainforests and swamps. In C. S. Lewis's Perelandra, Venus is depicted as an idyllic planet covered in oceans. In Edgar Rice Burroughs' Venus series, the planet, which he calls Amtor, is green and marine, and is protected from sunlight by a permanent cloud cover. Others have imagined Venus as a hot desert, but no one expected temperatures of 480 degrees.
+
+Colonization of Venus
+NASA has proposed a plan to build a floating colony in the atmosphere of Venus and create a permanent settlement there. The settlement would be inhabited in airships in orbit at an altitude of about 50 kilometers, where the air pressure and radiation protection are more similar to Earth than on the surface of Venus. According to the plan, expeditions would initially visit Venus' orbit, and then a permanent settlement would be established. Problems with the plan have been seen, for example, filling the airships with helium on Venus and protecting them from sulfuric acid.[26]

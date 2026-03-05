@@ -1,161 +1,161 @@
-Aurinko
+Sun
 
-Ominaisuudet
-Keskietäisyys Maasta	1,4960×108 km[1]
+Features
+Average distance from Earth 	1.4960×108 km[1]
 1 AU
-Näennäinen kirkkaus	−26,8m
-Absoluuttinen kirkkaus	4,8M
-Fyysiset ominaisuudet
-Spektriluokka	G2V
-Väri-indeksi B-V	0,65
-Päiväntasaajan halkaisija	1 392 000 km
-109 × Maa
-Säde päiväntasaajalla	696 000 km
-Pinta-ala	6,09×1012 km²
-Tilavuus	1,41×1027 m³
-Massa	1,9891×1030 kg
-333 400 × Maa
-Painovoiman aiheuttama putoamiskiihtyvyys pinnalla	274 m/s²
-Mikroturbulenssi (pyörteisyys)	1,20 ± 0,05 km/s
-Luminositeetti	3,9×1026 W[2]
-Kierto ja pyöriminen
-Pyörähdysaika ekvaattorilla
-leveydellä 60°	25 vrk
-29 vrk [2]
-Kiertoaika Linnunradan
-keskustan ympäri	226 000 000 v
-Fotosfäärin koostumus
-vetyä
-heliumia
-happea
-hiiltä
-rautaa
-neonia
-typpeä
-piitä
-magnesiumia
-rikkiä	73,46 %
-24,85 %
-0,77 %
-0,29 %
-0,16 %
-0,12 %
-0,09 %
-0,07 %
-0,05 %
-0,04 %
-Aurinko (symboli: ☉) on tähti, jota Maa kiertää. Auringon ympärille syntyneet planeetat ja muut kappaleet muodostavat aurinkokunnan. Aurinko kiertää muiden Linnunrataan kuuluvien tähtien tavoin galaksin keskipistettä.
+Apparent brightness 	−26.8m
+Absolute brightness 	4.8M
+Physical properties
+Spectral class 	G2V
+Color index BV 	0.65
+Equatorial diameter 	1,392,000 km
+109 × Earth
+Radius at the equator 	696,000 km
+Area 	6.09×1012 km²
+Volume 	1.41×1027 m³
+Mass 	1.9891×1030 kg
+333,400 × Earth
+Gravity acceleration on the surface 	274 m/s²
+Microturbulence (vorticity) 	1.20 ± 0.05 km/s
+Luminosity 	3.9×1026 W[2]
+Rotation and rotation
+Rotation period at the equator
+at latitude 60° 	25 days
+29 days [2]
+Rotation period of the Milky Way
+around the center 	226,000,000 years
+Composition of the photosphere
+hydrogen
+helium
+oxygen
+carbon
+iron
+neon
+nitrogen
+silicon
+magnesium
+sulfur 	73.46%
+24.85%
+0.77%
+0.29%
+0.16%
+0.12%
+0.09%
+0.07%
+0.05%
+0.04%
+The Sun (symbol: ☉ ) is the star that the Earth orbits. The planets and other bodies that formed around the Sun form the Solar System. The Sun, like other stars in the Milky Way, orbits the center of the galaxy.
 
-Aurinko muodostui vajaa viisi miljardia vuotta sitten, ja energiaa se alkoi tuottaa noin 4,6 miljardia vuotta sitten. Nykyvaiheessaan Aurinko on suhteellisen kirkas tähti. Sen aktiivisuus vaihtelee noin 11 vuoden sykleissä. Viiden miljardin vuoden kuluttua Aurinko on kuluttanut loppuun vetynsä, ja se alkaa muuttua punaiseksi jättiläiseksi.
+The Sun formed just under five billion years ago, and began producing energy about 4.6 billion years ago. At its current stage, the Sun is a relatively bright star. Its activity varies in cycles of about 11 years. After five billion years, the Sun will have used up all its hydrogen and will begin to transform into a red giant.
 
-Auringon säteily on maapallon merkittävin energianlähde, ja maapallon eliöille Aurinko on välttämätön. Entisaikoina Aurinkoa on monessa kulttuurissa palvottu jumalana.
+Solar radiation is the Earth's most significant source of energy, and the Sun is essential for life on Earth. In ancient times, the Sun was worshipped as a god in many cultures.
 
-Nimi
-Sana Aurinko kirjoitetaan isolla alkukirjaimella silloin, kun sanaa käytetään taivaankappaleen erisnimenä. Kun sanaa käytetään kiintotähdistä yleisesti tai jotenkin muuten kuin tähtieteellisenä nimenä (esimerkiksi ”Huomenna paistaa aurinko”), sana kirjoitetaan pienellä alkukirjaimella.[3][4] Nimitys aurinko on vanhastaan tunnettu vain suomen kielen länsimurteissa; itämurteissa sitä on vastannut myös samojedikielissä esiintyvä[5] päivä.[6] Pohjoissaamen kielessä aurinkoa kutsutaan nykyisinkin nimellä beaivi.[7]
+Name
+The word Aurinko is written with a capital letter when it is used as a proper name for a celestial body. When the word is used for fixed stars in general or as a non-astronomical name (for example, "The sun will shine tomorrow"), the word is written with a lowercase letter.[3][4] The name aurinko has traditionally been known only in the western dialects of Finnish; in the eastern dialects, it has also been equivalent to the Samoyedic[5] language päivä.[6] In the Northern Sámi language, the sun is still called beaivi.[7]
 
-Nykyinen nimitys aurinko esiintyy kirjallisissa lähteissä 1500-luvulta alkaen. Sanan tarkka alkuperä on tuntematon. Sen on esitetty olevan muun muassa auer-sanan muunnos tai laina jostain balttilaisesta kielestä (vertaa liettuan aušrà, aamurusko) tai germaanisista kielistä[8] (muinaisgutniskan ringo, 'rengas'). Koska sana esiintyy ensimmäisenä Agricolalla, sen on esitetty olevan jopa hänen luomansa uudismuodoste, pohjana ehkä latinan aurum, kulta. Joka tapauksessa saamelaiskielten epävarmoja vastineita lukuun ottamatta sukulaissanoja muissa suomalais-ugrilaisissa kielissä ei ole.[9][10]
+The current name aurinku appears in written sources from the 16th century onwards. The exact origin of the word is unknown. It has been suggested, among other things, to be a variant or loanword of the word auer from some Baltic language (compare Lithuanian aušrà, dawn) or from Germanic languages[8] (Ancient Gutnish ringo, 'ring'). Since the word first appears in Agricola, it has even been suggested to be a neologism created by him, perhaps based on the Latin aurum, gold. In any case, apart from uncertain equivalents in the Sámi languages, there are no cognates in other Finno-Ugric languages.[9][10]
 
-Elinkaari
-Aurinko muodostui vajaa viisi miljardia vuotta sitten tähtienvälisestä kaasusta, joka romahti palloksi oman painonsa vetämänä. Auringon ytimessä alkoi noin 4,6 miljardia vuotta sitten vetyfuusio, ja se alkoi tuottaa energiaa. Sytyttyään Aurinko puhalsi ympärilleen tiivistyneestä kiekosta pois irtokaasun, jolloin jäljelle aurinkokuntaan jäivät vain kiinteät kappaleet ja kaasuplaneetat.[11][12]
+Life cycle
+The Sun formed about five billion years ago from interstellar gas, which collapsed into a ball under its own weight. Hydrogen fusion began in the Sun's core about 4.6 billion years ago, and it began to produce energy. After the Sun ignited, it blew away the loose gas from the compacted disk around it, leaving only solid objects and gaseous planets in the Solar System.[11][12]
 
-Aurinko kirkastuu hiljalleen ikääntyessään, kun sen ydinosien alkuainekoostumus muuttuu fuusion kuluttaessa vetyvarantoa. Aurinko säteilee nykyisin jo noin 50 prosenttia voimakkaammin kuin 4,5 miljardia vuotta sitten. Kirkastumisen jatkuessa maapallo kuumenee niin paljon, että 1–3 miljardin vuoden kuluttua meret höyrystyvät, kasvihuoneilmiö kiihtyy ja Maa muuttuu elinkelvottomaksi.[12]
+The Sun is slowly brightening as it ages, as the elemental composition of its core changes as fusion consumes its hydrogen reserves. The Sun is now radiating about 50 percent more intensely than it did 4.5 billion years ago. As the brightening continues, the Earth will heat up so much that in 1–3 billion years the oceans will evaporate, the greenhouse effect will accelerate, and the Earth will become uninhabitable.[12]
 
-Viiden miljardin vuoden kuluttua vety loppuu Auringon keskustasta, ja se alkaa hitaasti laajentua ja muuttua punaiseksi. Vähitellen Auringosta tulee punainen jättiläinen, joka nielaisee sisemmät planeetat Merkuriuksen ja Venuksen. Maapallo sulaa laavapalloksi, ja osa sen kivikehästä höyrystyy avaruuteen. Samalla Aurinko puhaltaa uloimmat kerroksensa planetaariseksi sumuksi, jolloin keskustassa oleva tiivis ydin paljastuu ja muuttuu myöhemmin valkoiseksi kääpiöksi. Jäljelle jäänyt Auringon ydin jäähtyy hitaasti valkoisesta kääpiöstä mustaksi kääpiöksi.[13]
+After five billion years, the Sun's center will run out of hydrogen, and it will slowly expand and turn red. Gradually, the Sun will become a red giant, engulfing the inner planets Mercury and Venus. The Earth will melt into a lava ball, and some of its rocky core will vaporize into space. At the same time, the Sun will blow its outer layers away into a planetary nebula, exposing the dense core at the center, which will later become a white dwarf. The remaining core of the Sun will slowly cool from a white dwarf to a black dwarf.[13]
 
-Ominaisuudet
-Aurinko on G-tyypin pääsarjan tähti, jonka spektriluokka on G2V. Vaikka Auringon tähtiluokkaa kutsutaankin keltaisiksi kääpiöiksi, todelliselta väriltään Aurinko on valkoinen. Aurinko on kirkkaampi kuin 85 prosenttia Linnunradan muista tähdistä.[14][15] Auringolla ei ole kaksostähteä kuten useimmilla muilla tähdillä.[16] Aurinko näkyisi paljain silmin suunnilleen 50 valovuoden etäisyydelle.[17]
+Features
+The Sun is a G-type main sequence star with a spectral type of G2V. Although the Sun is classified as a yellow dwarf, its true color is white. The Sun is brighter than 85 percent of the other stars in the Milky Way.[14][15] The Sun does not have a binary star like most other stars.[16] The Sun is visible to the naked eye from a distance of about 50 light-years.[17]
 
-Auringon tärkeimpiä ominaisuuksia:
+The most important properties of the Sun:
 
-massa 1,989 × 1030 kg [2]
-säde 696 000 km [2]
-keskitiheys 1 409 kg/m3 [2]
-tiheys keskustassa 1,6 × 105 kg/m3 [2]
-pintalämpötila 5 777 K [2]
-lämpötila keskustassa 1,5 × 107 K [2]
-luminositeetti 3,9 × 1026 W [2]
-pyörähdysaika ekvaattorilla 25 vrk, leveydellä 60° 29 vrk [2]
-Auringon massaa, sädettä ja valovoimaa käytetään yleisesti yksikkönä muiden tähtien säteitä, massoja ja valovoimia käsiteltäessä.[18]
+mass 1.989 × 1030 kg [2]
+radius 696,000 km [2]
+average density 1,409 kg/m3 [2]
+density at the center 1.6 × 105 kg/m3 [2]
+surface temperature 5,777 K [2]
+temperature at the center 1.5 × 107 K [2]
+luminosity 3.9 × 1026 W [2]
+rotation period at the equator 25 days, at latitude 60° 29 days [2]
+The mass, radius, and luminosity of the Sun are commonly used as a unit when discussing the radii, masses, and luminosities of other stars.[18]
 
-Rakenne
-Aine
-Auringossa vallitsee niin korkea lämpötila, että aineet eivät esiinny kiinteässä, nestemäisessä tai kaasumaisessa olomuodossa, vaan kaikki aine on niin sanotussa neljännessä olomuodossa, plasmana.[19]
+Structure
+Substance
+The temperature in the Sun is so high that substances do not exist in solid, liquid, or gaseous states, but all matter is in the so-called fourth state, plasma.[19]
 
-Energia
-Aurinko saa säteilemänsä energian siten, että vety muuttuu heliumiksi Auringon ytimessä tapahtuvassa fuusioreaktiossa. Energia siirtyy ensin lyhytaaltoisena röntgensäteilynä ja edelleen pidempiaaltoisempana röntgensäteilynä ja lopuksi konvektiovirtauksena (lämpösiirtymisenä) Auringon pinnalle.[20] Syntyneen energian täytyy kulkeutua Auringon ylempien kerrosten halki ennen vapautumista auringonvalona tai aurinkotuulen mukana. Arviot energian kulkeutumisajasta pintaan vaihtelevat 10 000 vuodesta 170 000 vuoteen.[21]
+Energy
+The Sun derives its radiant energy from the fusion of hydrogen into helium in the Sun's core. The energy is transferred first as short-wavelength X-rays, then as longer-wavelength X-rays, and finally as convection (heat transfer) to the Sun's surface.[20] The energy must travel through the upper layers of the Sun before being released as sunlight or the solar wind. Estimates of the time it takes for the energy to reach the surface vary from 10,000 to 170,000 years.[21]
 
-Ydin
+Nuclear
 
-Auringon rakenne.
-Ydin on Auringon sisin osa, jossa Auringon energian tuottavat fuusioreaktiot tapahtuvat. Sen läpimitta on noin 350 000 kilometriä, siis noin neljännes Auringon koko läpimitasta. Ytimen tiheys on korkeimmillaan 150 000 kg/m3 eli noin 150 kertaa veden tiheys. Paine on 225 miljardia ilmakehää.[20] Lämpötila on noin 13 600 000 kelviniä, eli se on huomattavasti lämpimämpi kuin Auringon pinta, jossa lämpötila on 5 800 kelviniä. SOHO-luotaimen mittaustulokset viittaavat ytimen pyörivän pintaa nopeammin.[22]
+The structure of the Sun.
+The core is the innermost part of the Sun, where the fusion reactions that produce the Sun's energy take place. Its diameter is about 350,000 kilometers, about a quarter of the Sun's total diameter. The core has a maximum density of 150,000 kg/m3, about 150 times the density of water. The pressure is 225 billion atmospheres.[20] The temperature is about 13,600,000 kelvins, which is considerably hotter than the Sun's surface, which is 5,800 kelvins. Measurements by the SOHO spacecraft indicate that the core rotates faster than the surface.[22]
 
-Lukuun ottamatta Auringon eliniän loppuvaiheita miltei kaikki Auringon energia syntyy ytimen fuusioreaktioissa, joissa vety-ytimet eli protonit yhdistyvät heliumytimiksi vapauttaen suuria määriä energiaa. Joka sekunti noin 600 miljoonaa tonnia vetyä fuusioituu 596 miljoonaksi tonniksi heliumia. Suhteellisuusteorian mukaisesti sekunnissa noin 4 miljoonaa tonnia ainetta muuttuu energiaksi.[20] Auringon luminositeetti on noin 385 jottawattia sekunnissa.[23] Silti Auringon ytimen tehotiheys on vain noin 277 wattia kuutiometrissä, sillä yksittäinen atomi törmää toiseen atomiin keskimäärin vain kerran viidessä miljardissa vuodessa.[24]
+Except for the final stages of the Sun's life, almost all of the Sun's energy is produced by nuclear fusion reactions, in which hydrogen nuclei, or protons, combine to form helium nuclei, releasing large amounts of energy. Every second, about 600 million tons of hydrogen fuse into 596 million tons of helium. According to the theory of relativity, about 4 million tons of matter is converted into energy per second.[20] The Sun's luminosity is about 385 jottowatts per second.[23] Yet the power density of the Sun's core is only about 277 watts per cubic meter, because a single atom collides with another atom on average only once every five billion years.[24]
 
-Säteilyvyöhyke
-Auringon ydintä ympäröi säteilyvyöhyke, jossa ydinreaktioita ei enää tapahdu. Sen halki ytimestä tuleva energia siirtyy pinnalle absorboitumalla ja emittoitumalla nousten säteilyvyöhykkeen pintaa kohden, joka on noin 0,7 Auringon säteen[25] kohdalla.[20]
+Radiation zone
+The Sun's core is surrounded by a radiative zone, where nuclear reactions no longer occur. Through it, energy from the core is transferred to the surface by absorption and emission, rising towards the surface of the radiative zone, which is at about 0.7 solar radii[25].[20]
 
-Konvektiovyöhyke
-Konvektiovyöhykkeessä energia siirtyy pääosin aineen konvektiovirtauksena pinnalle. Vyöhykkeen aine virtaa kohti Auringon pintaa. Pinnalla aine jäähtyy ja muuttuu täten tiheämmäksi ja vajoaa takaisin kohti Auringon ydintä.[20]
+Convection zone
+In the convection zone, energy is transferred mainly as convection currents of matter to the surface. The matter in the zone flows towards the surface of the Sun. At the surface, the matter cools and thus becomes denser and sinks back towards the Sun's core.[20]
 
-Pinta
-Auringon pintakerroksista, fotosfääristä, energiaa säteilee valonnopeudella ympäröivään avaruuteen sähkömagneettisen säteilyn kaikilla aallonpituuksilla, pääasiassa näkyvänä valona ja infrapunasäteilynä, jonkin verran myös ultraviolettisäteilynä. Fotosfäärin keskimääräinen lämpötila on noin 5 800 K. Fotosfääri näyttää rakeiselta; siinä on kirkkaampia ja hieman tummempia kohtia. Tämä johtuu syvemmältä tulevista konvektiovirtauksista. 100 kilometriä paksussa fotosfäärissä esiintyy myös auringonpilkkuja, joiden kohdalla lämpötila on huomattavasti alhaisempi.[26] Auringonpilkut muistuttavat epätasaisia reikiä. Auringonpilkun keskellä on tummin alue ja sen ympärillä vaaleampi alue. Muuta pintaa tummempi väri johtuu siitä, että auringonpilkun kohdalla pintalämpötila on noin 4 500 K, mikä on noin 1 500 astetta viileämpi kuin muualla. Alemman pintalämpötilan aiheuttaa magneettikenttä, joka estää konvektion. Tyypillisen auringonpilkun läpimitta on noin 10 000 kilometriä ja elinaika muutamasta päivästä kuukausiin.[27]
+Surface
+The Sun's surface, the photosphere, radiates energy at the speed of light into the surrounding space in all wavelengths of electromagnetic radiation, mainly visible light and infrared radiation, with some ultraviolet radiation. The average temperature of the photosphere is about 5,800 K. The photosphere appears grainy; it has brighter and slightly darker areas. This is due to convection currents coming from deeper in. The 100-kilometer-thick photosphere also contains sunspots, where the temperature is significantly lower.[26] Sunspots resemble uneven holes. The center of a sunspot is the darkest area, with a lighter area around it. The darker color than the rest of the surface is due to the fact that the surface temperature at a sunspot is about 4,500 K, which is about 1,500 degrees cooler than elsewhere. The lower surface temperature is caused by a magnetic field that prevents convection. A typical sunspot is about 10,000 kilometers in diameter and has a lifespan of a few days to months.[27]
 
-Kaasukehä
+Gas ring
 
-Auringon korona eli ulompi kaasukehä ja kaasukehän hajaantumisvyöhyke erottuu paljain silmin auringonpimennyksen aikana.
-Kaasukehä jakautuu suhteellisen ohueen, sisempään värikehään eli kromosfääriin ja kauas ulottuvaan koronaan. Koko kaasukehä on sen verran harvaa, ettei se ole nähtävissä paljain silmin muulloin kuin auringonpimennyksien yhteydessä, jolloin kromosfääri näyttäytyy ohuena punaisena renkaana Auringon ympärillä. Kromosfäärin paksuus on noin 2 000 km ja sen lämpötila noin 100 000 kelviniä.[28][29]
+The sun's corona, or outer atmosphere, and the atmospheric dispersion zone are visible to the naked eye during a solar eclipse.
+The gas sphere is divided into a relatively thin, inner colored ring, the chromosphere, and a far-reaching corona. The entire gas sphere is so thin that it is not visible to the naked eye except during solar eclipses, when the chromosphere appears as a thin red ring around the Sun. The chromosphere is about 2,000 km thick and has a temperature of about 100,000 kelvins.[28][29]
 
-Kaasukehän uloin osa korona muodostuu vielä harvemmasta, mutta hyvin kuumasta plasmasta, jonka lämpötila on paikoin yli miljoona astetta, ja se ulottuu monen Auringon säteen verran siitä ulospäin. Etenkin sen ollessa aktiivisimmillaan auringon magneettiset roihupurkaukset irrottavat koronasta ainetta (muun muassa protuberansseista) massapurkauksina, joissa plasmaa sinkoutuu avaruuteen satojen kilometrien sekuntinopeudella. Varautuneiden hiukkasten törmätessä muutamaa päivää myöhemmin Maan magneettikenttään syntyy revontulia. Koronan plasmasta irtoavia varautuneita hiukkasia, pääasiassa elektroneja ja protoneja, liikkuu siitä poispäin avaruuteen jopa 900 km/s nopeudella. Tämä aurinkotuuleksi kutsuttu ilmiö ulottuu koko aurinkokunnan läpi. Sen hiukkasten ja magneettikentän vaikutuspiirissä oleva avaruuden osa on heliosfääri, jonka rajoilta, noin 50–100 AU:n etäisyydeltä olevasta heliopaussista katsotaan tähtienvälisen avaruuden alkavan.[28][29]
+The outermost part of the gas ring, the corona, consists of an even rarer but very hot plasma, with temperatures in places exceeding a million degrees, and it extends outwards by several solar radii. Especially when it is at its most active, the sun's magnetic flares detach material from the corona (including from prominences) in mass ejections, in which plasma is thrown into space at speeds of hundreds of kilometers per second. When the charged particles collide with the Earth's magnetic field a few days later, auroras are created. Charged particles, mainly electrons and protons, released from the coronal plasma move away from it into space at speeds of up to 900 km/s. This phenomenon, called the solar wind, extends through the entire solar system. The part of space within the sphere of influence of its particles and magnetic field is the heliosphere, at whose boundaries, the heliopause at a distance of about 50–100 AU, interstellar space is considered to begin.[28][29]
 
-Aktiivisuus
-Pääartikkeli: Auringon aktiivisuus
+Activity
+Main article: Solar activity
 
-Hinode-teleskoopin ottama kuva Auringon pinnasta näyttää plasman säiemäisyyden.
-Auringon aktiivisuus vaihtelee keskimäärin 11 vuoden sykleissä. Vuonna 2018 ilmeisesti lopuillaan oleva sykli alkoi joulukuussa 2008. Aktiivisuussyklin lopussa aktiivisuusminimin aikana auringonpilkkuja ei esiinny juuri lainkaan.[30]
+An image of the Sun's surface taken by the Hinode telescope shows the filamentary nature of the plasma.
+Solar activity varies in cycles of approximately 11 years. The cycle that appears to be ending in 2018 began in December 2008. At the end of the activity cycle, during the period of minimum activity, there are almost no sunspots.[30]
 
-Auringonpilkuissa esiintyy jopa 0,45 teslan magneettikenttiä. Magneettikentän voimaviivat tekevät kahden auringonpilkun kohdalla silmukan Auringon pinnan ulkopuolella.[31]
+Sunspots have magnetic fields of up to 0.45 tesla. The magnetic field lines form a loop outside the Sun's surface at two sunspots.[31]
 
-Muita pinnalla tapahtuvia ilmiöitä ovat flaret eli roihupurkaukset, protuberanssit, granulat ja niin kutsutut auringonjäristykset, joita muun muassa ESA:n SOHO-avaruusluotain havaitsi. Aurinko myös virittää Maan lähiavaruuteen niin kutsutun avaruussään. Auringon aktiivisuuden huippukausina esiintyy niin kutsuttuja aurinkomyrskyjä, jotka näkyvät Maassa muun muassa voimakkaina ja laaja-alaisina revontulina ja esimerkiksi Kanadan ja Yhdysvaltain itärannikon pitkien sähkön siirtolinjojen jakeluhäiriöinä.[32]
+Other surface phenomena include flares, prominences, granulates and so-called sunquakes, which have been observed by ESA's SOHO space probe, among others. The Sun also generates so-called space weather in the Earth's near-Earth space. During periods of peak solar activity, so-called solar storms occur, which are visible on Earth as, for example, powerful and widespread auroras and as power outages on long power lines along the east coast of Canada and the United States.[32]
 
-Säteily
-Pääartikkeli: Auringon säteily
-Auringon säteilemä valo sisältää kaikki sateenkaaren värien aallonpituudet. Avaruudesta katseltaessa Aurinko näyttäisikin valkoiselta. Maasta Aurinko kuitenkin näyttää usein keltaiselta, koska ilmakehä pysäyttää osan Auringon säteilemistä fotoneista.[33]
+Radiation
+Main article: Solar radiation
+The light emitted by the Sun contains all the wavelengths of the colors of the rainbow. When viewed from space, the Sun would appear white. However, from Earth, the Sun often appears yellow because the atmosphere blocks some of the photons emitted by the Sun.[33]
 
-Auringossa syntyy näkyvän valon ja infrapunasäteilyn lisäksi jonkin verran ultraviolettisäteilyä sekä pieniä määriä radiosäteilyä, röntgensäteilyä ja gammasäteilyä. Radiosäteily tulee pääasiassa atmosfäärin ylimmistä kerroksista, sillä säteily ei juuri pääse ulos Auringon sisäkerroksista. Röntgensäteily tulee yleensä koronasta.[34][35]
+In addition to visible light and infrared radiation, the Sun produces some ultraviolet radiation and small amounts of radio, X-ray, and gamma radiation. Radio radiation comes mainly from the upper atmosphere, as little radiation escapes from the Sun's inner layers. X-ray radiation usually comes from the corona.[34][35]
 
-Säteilyn merkitys maapallolle ja ihmiskunnalle
+The importance of radiation for the Earth and humanity
 
-Auringon fuusioreaktioiden energia on eri muodoissa ihmiskunnan huomattavin energianlähde. Merkittävistä energianlähteistä ainoastaan ydinvoima, geoterminen energia ja vuorovesivoima eivät ole peräisin Auringosta.
-Aurinko on maapallon merkittävin energianlähde, joka kasveissa tapahtuvan yhteyttämisen kautta tuottaa melkein kaiken eliökunnan kuluttamasta energiasta. Myös ihmisten fyysinen käyttövoima on Auringosta lähtöisin, sillä kaikki ravinto alkaen kasvikunnasta päättyen ravintoketjun ylimpiin lenkkeihin edustaa varastoitunutta aurinkoenergiaa.[36] Ydinvoimaa sekä geotermistä ja vuorovesienergiaa lukuun ottamatta kaikki ihmiskunnan kuluttama energia on peräisin Auringon fuusioreaktioista eri väylien kautta.[37][38]
+The energy from fusion reactions in the Sun is, in various forms, humanity's most significant source of energy. Of the significant energy sources, only nuclear power, geothermal energy and tidal power do not originate from the Sun.
+The Sun is the most important source of energy on Earth, providing almost all of the energy consumed by living organisms through photosynthesis in plants. The physical power of humans also comes from the Sun, as all food, from the plant kingdom to the top of the food chain, represents stored solar energy.[36] With the exception of nuclear power, geothermal energy, and tidal energy, all of the energy consumed by humanity comes from fusion reactions in the Sun through various pathways.[37][38]
 
-Terveysvaikutukset
-Auringon säteily on merkittävä D-vitamiinin lähde etenkin pienillä leveysasteilla.[39] Auringonvalo vaikuttaa pimeähormoni melatoniinin eritykseen.[40]
+Health effects
+Solar radiation is a significant source of vitamin D, especially at low latitudes.[39] Sunlight affects the secretion of the darkness hormone melatonin.[40]
 
-Voimakkaalle ja pitkäaikaiselle auringonpaisteelle altistuminen voi polttaa ihon, mikä lisää melanooman riskiä.[41] Toisaalta joissain tutkimuksissa on havaittu, että melanoomasta selviävät todennäköisimmin ne potilaat, jotka ovat saaneet elämänsä aikana eniten auringonvaloa. Tämä viittaa siihen, että auringolla on myös syövältä suojaavaa vaikutusta.[42] Auringolta voi suojata ihonsa välttämällä keskipäivän aurinkoa, pukeutumalla peittävästi tai käyttämällä aurinkovoidetta.[43]
+Exposure to intense and prolonged sunlight can burn the skin, increasing the risk of melanoma.[41] On the other hand, some studies have found that those who have had the most sunlight exposure during their lifetime are more likely to survive melanoma, suggesting that the sun may also have a protective effect against cancer.[42] You can protect your skin from the sun by avoiding midday sun, wearing protective clothing, and using sunscreen.[43]
 
-Auringon katsominen paljain silmin on vaarallista silmille. Aurinkoa voidaan havaita turvallisesti esimerkiksi pimennyslaseilla tai käyttämällä suodinkalvoa kaukoputken tai kiikarin kanssa.[44][45][46]
+Looking at the Sun with the naked eye is dangerous to the eyes. The Sun can be observed safely with, for example, eclipse glasses or by using a filter with a telescope or binoculars.[44][45][46]
 
-Tutkimus
-Aurinkoa tutkitaan tieteellisesti hyvin monenlaisilla laitteilla. Kaukoputkilla ja teleskoopeilla havaitaan näkyvän valon, infrapunasäteilyn ja radiosäteilyn aallonpituuksia. Spektrografilla Auringon valo voidaan hajottaa eri aallonpituuksiin, mikä paljastaa esimerkiksi Auringon kaasun kemiallisen koostumuksen. Koronagrafilla tutkitaan Auringon koronaa.[47] Aurinkoluotaimet tutkivat Aurinkoa lähietäisyydeltä. Lähimmäksi Aurinkoa on lähetetty Nasan Parker Solar Probe -luotain, joka ohitti huhtikuussa 2019 Auringon 24 miljoonan kilometrin päästä.[48]
+Research
+The Sun is studied scientifically using a wide variety of instruments. Telescopes detect visible light, infrared radiation, and radio wavelengths. A spectrograph can be used to disperse the Sun's light into different wavelengths, which reveals, for example, the chemical composition of the Sun's gas. A coronagraph studies the Sun's corona.[47] Solar probes study the Sun from close range. The closest ever sent to the Sun was NASA's Parker Solar Probe, which passed within 24 million kilometers of the Sun in April 2019.[48]
 
-Aurinkoa tutkivia avaruusluotaimia ovat mm.
+Space probes studying the Sun include:
 
-SOHO, sijainti Langrange L1-pisteessä
-Advanced Composition Explorer (ACE), sijainti Langrange L1-pisteessä
-Ulysses-aurinkoluotain, luotain, joka lensi Auringon napojen yli
-Koronas, kolmen venäläisen 1990- ja 2000-luvun aurinkosatelliitin sarja
-STEREO, Yhdysvaltain Aurinkoa tutkiva satelliittipari, joka kuvasi helmikuussa 2011 Auringon kummaltakin puolelta yhtä aikaa
+SOHO, location at Langrange L1 point
+Advanced Composition Explorer (ACE), location at the Langrange L1 point
+Ulysses solar probe, a probe that flew over the Sun's poles
+Koronas, a series of three Russian solar satellites from the 1990s and 2000s
+STEREO, a pair of US solar-observing satellites that imaged both sides of the Sun simultaneously in February 2011
 Parker Solar Probe
 Solar Orbiter
-Kulttuurissa
-Uskonnossa
-Pääartikkeli: Auringonpalvonta
+In culture
+In religion
+Main article: Sun worship
 
-Ra, muinaisten egyptiläisten auringonjumala.
-Aurinkoa on monessa kulttuurissa palvottu jumalana joko sellaisenaan tai ihmisen tai jonkin eläimen hahmoisena.[49] Auringon katsottiin olevan läheisissä tekemisissä arkielämän kanssa ja vaikuttavan ihmisten elämään. Aurinkoa palvottiin suurena Isänä samalla kun Kuuta palvottiin suurena Äitinä. Muun muassa Lähi-idässä Aurinkoa palvottiin entisaikaan yleisesti, ja muinaisen Egyptin uskonnossa Auringon palvonta oli keskipisteessä.[50] Osa Amerikan alkuperäisasukkaista piti Aurinkoa jumalana. Esimerkiksi inkoilla oli aurinkojumala nimeltä Inti.[51] Osalla tasankointiaaneista oli aurinkotansseja.[52] Muinaissuomalaisilla ei ollut auringonjumalaa, mutta lappalaiset uhrasivat Auringolle, jotta se paistaisi.[53]
+Ra, the sun god of the ancient Egyptians.
+The Sun has been worshipped as a god in many cultures, either as such or in the form of a human or animal.[49] The Sun was considered to be closely connected to everyday life and to influence people's lives. The Sun was worshipped as the Great Father, while the Moon was worshipped as the Great Mother. In the Middle East, for example, the Sun was worshipped in general in ancient times, and Sun worship was central to ancient Egyptian religion.[50] Some Native Americans considered the Sun to be a god. For example, the Incas had a sun god named Inti.[51] Some Plains Indians had sun dances.[52] The ancient Finns did not have a sun god, but the Lapps made sacrifices to the Sun so that it would shine.[53]
 
-Mytologiassa
-Muinaiset kulttuurit keksivät auringonpimennyksille erilaisia syitä, kuten lohikäärmeen tai vihaisten jumalten hyökkäys. Muinaisskandinaaveilla maailmanloppu Ragnarök alkoi auringonpimennyksellä. Koska ilmiötä ei ymmärretty, sitä usein pelättiin.[54]
+In mythology
+Ancient cultures invented various explanations for solar eclipses, such as an attack by a dragon or angry gods. For the ancient Norse, the end of the world, Ragnarök, began with a solar eclipse. Because the phenomenon was not understood, it was often feared.[54]
 
-Rakentamisessa
-Jo muinaisten aikojen ihmiset ovat havainnoineet Auringon nousu- ja laskukohtia taivaanrannassa sekä päiviä, jolloin Aurinko on ollut keskipäivällä korkeimmillaan tai matalimmillaan vuoden aikana. Joitain muinaisia temppeleitä ja muita rakennuksia, kuten Karnakin temppeli ja Stonehenge, on suunnattu tarkasti joihinkin näistä pisteistä. Noin puolessa suomalaisista jätinkirkoista on aurinkosuuntauksia.[55]
+In construction
+Since ancient times, people have observed the rising and setting points of the Sun on the horizon, as well as the days when the Sun was at its highest or lowest at noon during the year. Some ancient temples and other buildings, such as the Temple of Karnak and Stonehenge, are precisely aligned with some of these points. About half of the Finnish megalithic churches have solar orientations.[55]

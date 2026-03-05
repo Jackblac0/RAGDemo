@@ -1,102 +1,102 @@
-Merkurius
+Mercury
 
-Löytäminen
-Löytäjät	–
-Löytöaika	esihistoriallinen
-Kiertoradan ominaisuudet
-Keskietäisyys Auringosta	57 909 227[1] km
-0,3871[1] AU
-Pienin etäisyys Auringosta	46 001 009[1] km
-0,3075[1] AU
-Suurin etäisyys Auringosta	69 817 445[1] km
-0,4667[1] AU
-Eksentrisyys	0,20563593[1]
-Kiertoaika Auringon ympäri	87 d 23,3 h[2]
-Synodinen kiertoaika	115 d 21 h[2]
-Keskiratanopeus	47,87 km/s[2] km/s
-Inklinaatio	7,005°[2]
-Kuiden lukumäärä	0[3]
-Fyysiset ominaisuudet
-Päiväntasaajan halkaisija	4 879,4[1] km
-Pinta-ala	74,797 × 106[1] km2
-Massa	330,104 × 1021[1] kg
-0,055[1] Maan massaa
-Keskitiheys	5,426[1] g/cm3
-Pyörähdysaika	58 d 15,6 h[2]
-Albedo	0,145[2]
-Pakonopeus	4,25[1] km/s
-Pinnan lämpötila	alin: 100 K (−173 °C)[1]
-keski: 440 K (167 °C)[2]
-ylin: 700 K (427 °C)[1]
-Kaasukehän ominaisuudet
-Kaasunpaine	~10-15 bar[2]
-Koostumus
-– Kaasukehä[2]
-happimolekyylejä
-natriumia
-vetyä
-heliumia
-kaliumia	
-42 %
-29 %
-22 %
-6 %
-0,5 %
-Merkurius (symboli: ☿) on aurinkokunnan pienin ja Aurinkoa lähin planeetta. Sen kiertoaika Auringon ympäri on planeetoista lyhyin: 88 vuorokautta. Akselinsa ympäri se pyörähtää 59 vuorokaudessa. Merkurius on kuiva, eloton ja lähes kaasukehätön maankaltainen kiviplaneetta. Sen törmäyskraatterien täyttämä pinta muistuttaa Kuun pintaa. Kaasukehän puutteen takia planeetan lämpötilan vaihtelut ovat suuria: ne vaihtelevat noin 100 K:n (−173 °C) yölämpötiloista 700 K:n (427 °C) päivälämpötiloihin.
+Discovery
+Discoverers 	–
+Discovery period 	prehistoric
+Orbital characteristics
+Average distance from the Sun 	57,909,227[1] km
+0.3871[1] AU
+Minimum distance from the Sun 	46,001,009[1] km
+0.3075[1] AU
+Maximum distance from the Sun 	69,817,445[1] km
+0.4667[1] AU
+Eccentricity 	0.20563593[1]
+Orbital period around the Sun 	87 d 23.3 h[ 2]
+Synodic period 	115 d 21 h[ 2]
+Average track speed 	47.87 km/ s[ 2] km/s
+Inclination 	7.005 °[ 2]
+Number of moons 	0[3]
+Physical properties
+Equatorial diameter 	4,879.4[1] km
+Area 	74.797 × 106[1] km2
+Mass 	330.104 × 1021[1] kg
+0.055[1] Earth's mass
+Average density 	5.426[1] g/cm3
+Rotation period 	58 d 15.6 h[ 2]
+Albedo 	0.145[2]
+Escape velocity 	4.25[1] km/s
+Lowest surface temperature 	: 100 K (−173 ° C)[ 1]
+medium : 440 K (167 ° C)[ 2]
+highest: 700 K (427 ° C)[ 1]
+Gas ring properties
+Gas pressure 	~10-15 bar[ 2]
+Composition
+– Gas ring[ 2]
+oxygen molecules
+sodium
+hydrogen
+helium
+potassium	
+42%
+29%
+22%
+6%
+0.5%
+Mercury (symbol: ☿ ) is the smallest planet in the Solar System and the closest to the Sun. Its orbital period around the Sun is the shortest of the planets: 88 days. It rotates on its axis every 59 days. Mercury is a dry, lifeless, and almost gas-free terrestrial rocky planet. Its surface, filled with impact craters, resembles the surface of the Moon. Due to the lack of a gas atmosphere, the planet's temperature fluctuates greatly: they range from night temperatures of about 100 K (−173 °C) to daytime temperatures of 700 K (427 °C).
 
-Merkurius on taivaan kirkkaimpia kohteita ja se on tunnettu esihistoriallisesta ajasta lähtien. Sen nimi tulee roomalaisen mytologian Mercuriuksesta, joka oli varkaiden ja kauppiaiden jumala sekä jumalten sanansaattaja.
+Mercury is one of the brightest objects in the sky and has been known since prehistoric times. Its name comes from the Roman mythology Mercurius , who was the god of thieves and merchants and the messenger of the gods.
 
-Kiertorata
-Merkuriuksen kiertoaika Auringon ympäri on 88 vuorokautta, ja sen pyörähdysaika on 59 vuorokautta. Pyörähdysajan ja kiertoajan suhde on siis 2:3 eli Merkuriuksen sanotaan pyörivän kiertoaikansa suhteen 2:3-resonanssissa. Vuorokaudenaikojen vaihtelu on 176 vuorokautta. Merkuriuksen akselikallistuma on vain 0,01 astetta eli planeetta on lähes pystyasennossa ratatasonsa suhteen.
+Orbit
+Mercury's orbital period around the Sun is 88 days, and its orbital period is 59 days. The ratio of the orbital period to the orbital period is therefore 2:3, meaning that Mercury is said to rotate in a 2:3 resonance with its orbital period. The variation in the times of day is 176 days. Mercury's axial tilt is only 0.01 degrees, meaning that the planet is almost vertical in relation to its orbital plane.
 
-Pitkään luultiin planeetan pitävän aina saman puolen Aurinkoa kohti, koska harvat mahdolliset havaintohetket sattuivat planeetan ollessa samassa asennossa keväällä ja syksyllä.
+For a long time, it was thought that the planet always kept the same side facing the Sun, because the few possible moments of observation occurred when the planet was in the same position in spring and autumn.
 
-Merkuriuksen kiertorata Auringon ympäri poikkeaa huomattavasti ympyräradasta. Radan eksentrisyys eli soikeus vaihtelee välillä 0,0–0,47 miljoonien vuosien aikana. Nyt soikeus on 0,206 ja Merkuriuksen etäisyys Auringosta vaihtelee välillä 0,31 AU ja 0,47 AU. Planeetan keskietäisyys on 0,387 AU.
+Mercury's orbit around the Sun deviates considerably from a circular orbit. The eccentricity, or ovality, of the orbit has varied between 0.0 and 0.47 over millions of years. The ovality is now 0.206 and Mercury's distance from the Sun varies between 0.31 AU and 0.47 AU. The planet's mean distance is 0.387 AU.
 
-Auringon läheisyys vaikuttaa Merkuriuksen rataan niin voimakkaasti, että radan laskemisessa tarvitaan yleistä suhteellisuusteoriaa. Radan perihelikiertymä tunnettiin jo 1800-luvulla. Suurimmaksi osaksi kiertymä johtuu muiden planeettojen aiheuttamista häiriöistä, mutta sen todettiin olevan vuosisadassa 43 kaarisekuntia suurempi kuin niiden perusteella voitiin laskea. Ennen suhteellisuusteoriaa tämän poikkeaman arveltiin johtuvan Merkuriuksen radan sisäpuolella kiertävän tuntemattoman planeetan, Vulkanuksen, vaikutuksesta.
+Mercury's orbit is so strongly affected by its proximity to the Sun that general relativity is required to calculate its orbit. The perihelion of the orbit was known as early as the 19th century. Most of the deviation is due to perturbations from other planets, but it was found to be 43 arcseconds larger than those perturbations could have predicted. Before the theory of relativity, this deviation was thought to be due to the influence of an unknown planet, Vulcan , orbiting inside Mercury's orbit.
 
-Merkuriuksella ei ole kuita.[4]
+Mercury has no moons.[4]
 
-Fyysiset ominaisuudet
-Kaasukehä
-Merkuriuksen kaasukehä on äärimmäisen ohut, ja sen magneettikenttä on hyvin heikko. Kaasukehä on syntynyt aurinkotuulen irrottamasta pintamateriaalista. Kaasukehässä on enimmäkseen heliumia, natriumia ja happea sekä pieniä määriä vetyä ja kaliumia. Merkuriuksella on myös pitkä avaruuteen ulottuva natriumpyrstö, joka havaittiin vuonna 2001. Kaasukehän paine on noin kaksi miljoonasosaa Maan vastaavasta.
+Physical properties
+Gas ring
+Mercury's atmosphere is extremely thin, and its magnetic field is very weak. The gas ring is formed from surface material blown away by the solar wind. The gas ring consists mostly of helium, sodium, and oxygen, with small amounts of hydrogen and potassium. Mercury also has a long sodium tail that extends into space, which was discovered in 2001. The pressure in the gas ring is about two millionths of that of Earth.
 
-Pinnanmuodot
-Merkurius on hitaasti pyörivä sisäplaneetta. Pitkän pyörähdysajan ja kaasukehän puutteen johdosta lämpötila Merkuriuksen pinnalla vaihtelee satoja asteita sen mukaan, ollaanko päivä- vai yöpuolella. Pintalämpötila vaihtelee 90–740 kelvinin eli −173 – +467 °C:n välillä ja on keskimäärin 452 kelviniä eli 179 °C. Aurinko on Merkuriuksesta katsoen keskimäärin 2,5 kertaa niin suuri kuin Maasta katsoen, mutta tämä Auringon näennäinen läpimitta vaihtelee huomattavasti, koska Merkuriuksen rata on soikea. Aurinko on Merkuriuksesta katsottuna 6,5 kertaa kirkkaampi kuin Maassa ja Auringon säteilyintensiteetti on siellä 9,13 kW/m². Aurinko aiheuttaa Merkuriukseen vuorovesivoiman, joka on 17 prosenttia suurempi kuin Kuun aiheuttama vuorovesivoima Maassa.
+Surface shapes
+Mercury is a slow-rotating inner planet. Due to its long rotation period and lack of atmosphere, the temperature on Mercury's surface varies by hundreds of degrees depending on whether it is on the day or night side. The surface temperature varies between 90 and 740 kelvins (−173 and +467 °C), and averages 452 kelvins (179 °C). The Sun is on average 2.5 times as large as it is on Earth, but this apparent diameter varies considerably because Mercury's orbit is elliptical. The Sun is 6.5 times brighter than on Earth from Mercury, and the solar irradiance there is 9.13 kW/m². The Sun exerts a tidal force on Mercury that is 17 percent greater than the tidal force exerted by the Moon on Earth.
 
-Merkuriuksen pinnasta on ennen vuotta 2008 kartoitettu vain noin 45 prosenttia. Kraatterit ovat Merkuriuksen pinnan silmiinpistävin piirre. Niitä on pinnassa eri kokoisia. Törmäyskraattereista suurin, 1 500 km:n läpimittainen Caloriksen allas on Kuun laavakenttiä, ”meriä”, muistuttava rengasmainen muodostuma. Sen reunusvuoret kohoavat kahden kilometrin korkeuteen. Caloriksen altaan vastakkaisella puolella kuori on rikkoutunut törmäyksen shokkiaaltojen heijastuttua planeetasta, noin sadan kilometrin läpimittaiselta alueelta. Merkuriuksessa on myös vuoria, laaksoja, harjanteita, jyrkänteitä ja tasankoja sekä eri tavoin heijastavia alueita. Kraattereista lähtee monesti säteittäisiä viiruja. Harjanteiden pituus on jopa satoja kilometrejä ja vuorten korkeus jopa noin kolme kilometriä. Vuorten oletetaan syntyneen Merkuriuksen kutistuessa 0,1 prosenttia. Merkuriuksessa on saattanut olla tulivuoria, mutta niiden olemassaolosta on todennäköisesti kulunut yli miljardi vuotta.[5] Kraattereissa näkyy monesti lukuisia nuoria ja vanhoja pieniä vajoamia, joiden uskotaan syntyneen haihtuvien aineiden purkauduttua pinnan alta.[6][7][8]
+Only about 45 percent of Mercury's surface has been mapped before 2008. Craters are the most striking feature of Mercury's surface. They come in various sizes. The largest of the impact craters, the 1,500 km-diameter Caloris Basin, is a ring-shaped formation resembling the lunar lava fields, or "seas". Its rim mountains rise to a height of two kilometers. On the opposite side of the Caloris Basin, the crust has been broken by the shock waves of the impact reflecting off the planet, over an area about a hundred kilometers in diameter. Mercury also has mountains, valleys, ridges, cliffs and plateaus, as well as areas with different reflections. Craters often emit radial streaks. The ridges are up to hundreds of kilometers long and the mountains up to about three kilometers high. The mountains are thought to have been formed when Mercury shrank by 0.1 percent. Mercury may have had volcanoes, but they are likely more than a billion years old.[5] Craters often show numerous young and old small depressions, thought to have been formed by the eruption of volatiles from below the surface.[6][7][8]
 
-Messenger-luotaimen mittauksien mukaan Merkuriuksen aina varjossa olevien kraatterien pohjilla on jäätä. Jään päällä on kerros regoliittiä, joka estää jään haihtumisen avaruuteen. On arvioitu, että Merkuriuksessa olisi jäätä jopa yksi tuhannesosa Maan Etelämantereen jäämäärästä.[5]
+Measurements by the Messenger spacecraft indicate that there is ice at the bottom of craters on Mercury, which are always in shadow. The ice is covered by a layer of regolith that prevents the ice from evaporating into space. It has been estimated that Mercury has as much ice as one-thousandth the amount of ice in Earth's Antarctic.[5]
 
-Sisäinen rakenne
+Internal structure
 
-Merkurius ja Maa kokovertailussa
+Mercury and Earth in size comparison
 
-Merkuriuksen sisäinen rakenne:
-1) Silikaattikuori
-2) Vaippa
-3) Rautaydin
-Merkurius on halkaisijaltaan vain 1,4 kertaa Maan Kuun kokoinen, ja se on nykyään pienin virallinen planeetta, kun Pluto poistettiin planeetaksi määriteltävien taivaankappaleiden joukosta. Sen massa on 6 prosenttia Maan massasta. Planeetta on esimerkiksi Saturnuksen kuuta Titania pienempi. Merkuriuksen tiheys on 5,43 g/cm3 eli se on yksi tiheimmistä planeetoista. Merkuriusta muistuttavan Kuun tiheys on vain 3,34 g/cm3. Vertailun vuoksi Maan tiheys olisi kokoonpuristumattomana 4,0 g/cm3.
+Internal structure of Mercury:
+1) Silicate shell
+2) Diaper
+3) Iron core
+Mercury is only 1.4 times the diameter of Earth's Moon, and is now the smallest official planet, after Pluto was removed from the list of celestial bodies that can be defined as planets. Its mass is 6 percent of Earth's mass. The planet is smaller than Saturn's moon Titan, for example. Mercury's density is 5.43 g/cm3, making it one of the densest planets. The Moon, which resembles Mercury, has a density of only 3.34 g/cm3. For comparison, the density of Earth in an incompressible state would be 4.0 g/cm3.
 
-Merkuriuksella uskotaan olevan valtava rautaydin, joka aiheuttaa magneettikentän, voimakkuudeltaan noin 1 prosentti Maan magneettikentästä. Kentän kaltevuus pyörähdysakselia vastaan on 7 prosenttia. Toinen magnetismin lähde voi olla jäännemagnetismi. Rautaydin muodostaa 60–70 prosenttia planeetan massasta ja silikaattikuori ja vaippa yhdessä 30 prosenttia. On arvioitu, että Merkuriuksen ytimen säde on 1 800–1 900 kilometriä ja silikaattivaipan paksuus 500–600 kilometriä. Näin rautaytimen säde on 75 prosenttia planeetan säteestä.
+Mercury is believed to have a huge iron core, which produces a magnetic field about 1 percent of that of Earth. The field is tilted 7 percent relative to the axis of rotation. Another source of magnetism may be relic magnetism. The iron core makes up 60–70 percent of the planet's mass, and the silicate crust and mantle together make up 30 percent. It is estimated that the radius of Mercury's core is 1,800–1,900 kilometers, and the thickness of the silicate mantle is 500–600 kilometers. This makes the radius of the iron core 75 percent of the planet's radius.
 
-Rautaydin kattaa 42 % planeetan tilavuudesta, kun Maalla vastaava luku on 17 prosenttia. Maa on Merkuriusta hieman tiheämpi, koska se on 20 kertaa suuremman massansa takia puristunut enemmän kasaan. Merkuriuksen suuri rautaydin saattaa johtua siitä, että Aurinkokunnan syntyvaiheessa suuri kappale törmäsi planeettaan suurella nopeudella ja heitti osan planeetan silikaattivaipasta pois. Tämän törmääjän massa olisi ollut arviolta kuudesosa Merkuriuksen massasta. Toisten tutkijoiden mukaan alkuaurinko olisi kuumentanut Merkuriuksen korkeaan lämpötilaan ja höyrystänyt siitä osia pois.
+The iron core covers 42% of the planet's volume, compared to 17% for Earth. Earth is slightly denser than Mercury because it is more compressed due to its 20 times greater mass. Mercury's large iron core may be the result of a large object colliding with the planet at high speed during the formation of the Solar System, throwing off part of the planet's silicate mantle. The mass of this impactor would have been approximately one-sixth that of Mercury. Other researchers suggest that the early Sun heated Mercury to high temperatures and vaporized parts of it.
 
-Tutkimus
-Pääartikkeli: Merkuriuksen tutkimus
+Research
+Main article: Exploration of Mercury
 
-Merkurius Mariner 10:n kuvaamana 1974–1975
-Merkuriuksesta on laadittu jo 1800-luvulla karttoja, mutta nämä ovat epätarkkoja.
+Mercury as imaged by Mariner 10 in 1974–1975
+Maps of Mercury have been made since the 19th century, but these are inaccurate.
 
-Merkuriukseen oli suhteellisen vaikeaa lähettää avaruusluotainta, koska se on vielä lähempänä Aurinkoa kuin Venus. Tämä aiheuttaa avaruusluotaimelle lämpösuunnitteluongelmia ja niiden elektroniikalle säteilynsieto-ongelmia. Merkuriuksen sijainti on hankala myös tutkimusluotaimen rataa ajatellen. Planeetta ei ole kiinnostanut tutkijoita eikä rahoittajia yhtä paljon kuin vaikkapa Mars, Venus ja Saturnus.
+It was relatively difficult to send a space probe to Mercury because it is even closer to the Sun than Venus. This causes thermal design problems for space probes and radiation tolerance problems for their electronics. Mercury's location is also difficult in terms of the orbit of a research probe. The planet has not interested researchers or funders as much as, say, Mars, Venus, and Saturn.
 
-Nasan avaruusluotain Mariner 10 lensi kolme kertaa Merkuriuksen ohi vuosina 1974–1975. Epäonneksi ohitus tapahtui aina Merkuriuksen ollessa suunnilleen samassa asennossa Aurinkoon nähden, ja pinnasta saatiin valokuvattua vain 40–45 prosenttia.
+Mariner 10 spacecraft flew by Mercury three times in 1974–1975. Unfortunately, each flyby occurred when Mercury was in approximately the same position relative to the Sun, and only 40–45 percent of the surface was photographed.
 
-Nasa laukaisi vuonna 2004 Messenger-nimisen avaruusluotaimen, joka lensi kolme kertaa planeetan ohi vuosina 2008–2009 ja asettui suunnitelmien mukaisesti kiertämään sitä 2011. Messengerin tehtäviin kuuluu muun muassa planeetan aikaisemmin kuvaamattomien alueiden valokuvaaminen.
+In 2004, NASA launched a space probe called Messenger, which flew past the planet three times in 2008–2009 and is scheduled to orbit it in 2011. Messenger's tasks include photographing previously unphotographed areas of the planet.
 
-ESA ja Japanin avaruusjärjestön yhdessä kehittämä BepiColombo-luotain, joka laukaistiin vuonna 2018, asettuu Merkuriuksen kiertoradalle loppuvuodesta 2025. Tätä ennenkin luotain tekee muutaman lähiohituksen, joita hyödynnetään radankorjauksessa
+BepiColombo probe, jointly developed by ESA and the Japan Aerospace Exploration Agency , was launched in 2018 and will enter Mercury's orbit in late 2025. Before that, the probe will make a few close passes that will be used for orbit correction.
 
-Havaitseminen Suomessa
-Suomessa Merkuriuksen voi havaita neljään–viiteen otteeseen vuoden aikana, mutta hyvin vain yhteen tai kahteen kertaan keväällä iltataivaalla ja syksyllä aamutaivaalla planeetan sattuessa olemaan kauimmillaan Auringosta, samalla kun ekliptika muodostaa suurimman kulman horisonttiin nähden. Merkuriuksen ns. suurin elongaatio on noin 20 astetta, ja tällöin planeetta näkyy noin kolmen viikon ajan. Merkuriuksen ollessa kauimmissa elongaatioissaan kesällä tai talvella se näkyy huonosti, koska ekliptika on pienessä kulmassa suhteessa horisonttiin. Jos planeetta sattuu keväällä läntiseen tai syksyllä itäiseen elongaatioon, se ei näy Suomesta lainkaan, koska Aurinko joko nousee aamulla ennen planeettaa tai planeetta laskee illalla ennen Aurinkoa. Näin tapahtuu, vaikka Merkurius olisikin Suomesta katsottuna sillä puolella Aurinkoa, että se kulkee illalla Auringon "jäljessä" ja aamulla "edellä".
+Detection in Finland
+In Finland, Mercury can be observed four to five times a year, but only once or twice in the spring evening sky and in the autumn morning sky when the planet happens to be farthest from the Sun, at the same time that the ecliptic forms the largest angle with respect to the horizon. Mercury's so-called greatest elongation is about 20 degrees, and at that time the planet is visible for about three weeks. When Mercury is at its farthest elongation in summer or winter, it is poorly visible, because the ecliptic is at a small angle with respect to the horizon. If the planet happens to be at western elongation in spring or eastern elongation in autumn, it is not visible from Finland at all, because the Sun either rises before the planet in the morning or the planet sets before the Sun in the evening. This happens even if Mercury is on the side of the Sun seen from Finland that it travels "behind" the Sun in the evening and "ahead" of it in the morning.
 
-Näennäinen kirkkaus muuttuu voimakkaasti näkymisjakson kuluessa. Itäisessä elongaatiossaan Merkurius on kirkkaampi näkyvyyskautensa alussa ja läntisessä päinvastoin. Merkurius näkyy paljain silmin, mutta helpoimmin se näkyy kiikarilla. Kaukoputkella näkyvät Merkuriuksen vaiheet. Kaukoputkella on myös mahdollista havainnoida planeettaa päivätaivaalta. Tällöin päästään eroon ilmakehän häiriöistä, jotka normaalisti haittaavat planeetan havainnointia matalalta ilta- tai aamutaivaalta, sekä tietenkin Merkuriuksen elongaation aiheuttamista rajoituksista sen näkyvyydessä. Toisin kuin Venus, Merkurius on kuitenkin hyvin vaikea löytää valoisalta päivätaivaalta. Löytämisessä tietokoneohjattu ns. goto-kaukoputki on hyvin suureksi avuksi.
+The apparent brightness changes strongly during the visibility period. In its eastern elongation, Mercury is brighter at the beginning of its visibility period, and vice versa in its western elongation. Mercury is visible to the naked eye, but it is most easily seen with binoculars. The phases of Mercury can be seen with a telescope. It is also possible to observe the planet from the daytime sky with a telescope. This eliminates atmospheric disturbances that normally hinder the observation of the planet from the low evening or morning sky, as well as, of course, the limitations on its visibility caused by Mercury's elongation. Unlike Venus, Mercury is, however, very difficult to find in the bright daytime sky. A computer-controlled so-called goto telescope is a great help in finding it.
