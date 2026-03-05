@@ -1,0 +1,67 @@
+Voyager 1
+
+Alkuperäinen nimi	Mariner 11
+Voyager 1-avaruusluotain
+Voyager 1-avaruusluotain
+Organisaatio	NASA / JPL
+Valmistaja	Jet Propulsion Laboratory
+COSPAR ID	1977-084A
+Tehtävätyyppi	Planeettatutkimus
+Ohilennot	Jupiter (5. maaliskuuta 1979), Saturnus (12. marraskuuta 1980)
+Laukaisu	5. syyskuuta 1977
+Cape Canaveral AFS LC-41
+Laukaisualus	Titan III E Centaur
+Kohteessa	Tähtienvälinen avaruus
+Massa	721,9 kg
+Teho	420 W
+Aiheesta muualla
+Virallinen sivusto
+
+Voyagerin kaaviokuva
+Voyager 1 -avaruusluotain on miehittämätön aurinkokunnan ulkoplaneettoja ja tähtienvälistä avaruutta tutkimaan 5. syyskuuta 1977 lähetetty luotain, joka on vielä tällä hetkellä (2026) toimintakuntoinen ja toiminee neljännenkin vuosikymmenensä loppuun. Se on Maasta kauimpana sijaitseva ihmisen tekemä laite. Voyager 1 on ohittanut Aurinkokunnan ulkoisimman vaikutusalueen (katso heliosfääri), eli se on saavuttanut tähtienvälisen avaruuden. Voyager-avaruusohjelman toinen avaruusluotain oli Voyager 1:n kanssa identtinen Voyager 2.
+
+21 miljardin kilometrin etäisyydellä (141 AU) Auringosta Voyager 1 on saavuttanut hidastuneen aurinkotuulen alueen eli heliovaipan, mikä on terminaatiošokin jälkeinen Aurinkokunnan alue joka merkitsee siirtymää Aurinkokunnasta tähtienväliseen avaruuteen. Tältä etäisyydeltä Voyager 1:n radiosignaalilta kestää yli 22 tuntia saapua Jet Propulsion Laboratoryn ohjauskeskukseen. Luotain on hyperbolisella radalla ja on saavuttanut pakonopeuden, mikä merkitsee sitä, että luotain ei enää palaa Aurinkokuntaan. Aivan kuin Pioneer 10, käytöstä poistettu Pioneer 11 ja sisarluotain Voyager 2, Voyager 1:stä on tulossa tähtienvälinen luotain.
+
+Voyager 1:n tehtävänä oli Jupiterin ja Saturnuksen sekä niiden kuiden ja rengasjärjestelmien tutkiminen, nykyinen tehtävä on heliopaussin havaitseminen ja aurinkotuulen sekä tähtienvälisen aineen hiukkasmittaus.
+
+Kummassakin Voyager-luotaimessa on voimanlähteenä kolme radioisotoopin hajoamisen tuottamasta lämpösäteilystä virtaa tuottavaa generaattoria (ns. RTG-generaattori), jotka ovat suuresti ylittäneet lasketun käyttöikänsä ja niiden oletettiin tuottavan riittävästi virtaa Maan kanssa viestivää radiolähetintä varten noin vuoteen 2020 asti.
+
+Voyager 1:ssä on mukana tähtitieteilijä Carl Saganin kokoamat kultaiset levyt (muun muassa Chuck Berryn esittämä rock ’n’ roll -kappale Johnny B. Goode) ja vinyylilevysoitin.[1] Levyissä on suorat koordinaatit luoksemme Maa-planeetalle, kaiverrukset mies- ja naishahmoista sekä valokuvia, musiikkikappaleita ja äänitervehdyksiä Maan eri kielillä. Tallennettuna on myös luonnonääniä, kuten ukkosta, tuulta ja sadetta. Niissä on myös levytettynä Igor Stravinskyn Kevätuhri, Yhdysvaltain presidentti Jimmy Carterin tervehdys ja Blind Willie Johnsonin Dark Was the Night -gospel-blueskappale. Mukana on myös eri kansojen ja heimojen musiikkia, kuten navajonkielistä laulua, intialainen raga ja Salomonsaarten panhuilunsoittoa, sekä äänitykset 55 eri kielellä, joissa tervehditään mahdollisia älyllisiä yhdyskuntia.[2]
+
+Luotain on ottanut Pale Blue Dot -nimellä tunnetun kuvan Maasta.[3]
+
+Lentosuunnitelma ja laukaisu
+
+Voyagerien reitit.
+Voyager 1 suunniteltiin aluksi Mariner-avaruusohjelman Mariner 11 -luotaimeksi. Se suunniteltiin hyödyntämään aikansa uutta tekniikkaa, planeettojen painovoiman linkovaikutusta. Sattumalta planeettojenvälisten luotainten kehitys osui yhteen kerran 175 vuodessa tapahtuvan planeettojen keskinäisestä asemasta johtuvan ”Suuren planetaarisen kiertomatkan” (engl. Planetary Grand Tour) kanssa, millä tarkoitetaan toisiaan seuraavien planeettojen painovoimien linkovaikutusten sarjaa, mikä mahdollistaa ainoastaan minimaalista polttoainemäärää kurssinkorjauksiin käyttäen yksittäisen avaruusluotaimen vierailla kaikilla neljällä Aurinkokunnan kaasujättiläisplaneetalla: Jupiterilla, Saturnuksella, Uranuksella ja Neptunuksella. Identtiset Voyager 1 ja Voyager 2 -luotaimet suunniteltiin suurta planetaarista kiertomatkaa silmällä pitäen ja niiden laukaisut ajoitettiin niin, että haluttaessa voitaisiin toteuttaa tuo matka.
+
+NASA laukaisi Voyager 1:n matkaan 5. syyskuuta 1977 Cape Canaveral Air Force Stationin laukaisukompleksi 41:ltä Titan IIIE Centaur -kantoraketilla, hieman sisaraluksensa Voyager 2:n jälkeen. Vaikka Voyager 1 lähti sisaraluksensa jälkeen, se lähetettiin nopeammalle radalle, niin että se saavuttaisi Jupiterin ja Saturnuksen ennen sisaralustaan.
+
+Lähdössä Titan IIIE -kantoraketin toisen vaiheen poltto jäi noin sekunnin ajan vajaaksi ja jätti vastaavan määrän polttoainetta käyttämättä. Lennonjohto epäili että Voyager 1 ei saavuttaisi Jupiteria, mutta kantoraketin seuraavassa vaiheessa oli riittävästi polttoainetta kompensoimaan edellisen vaiheen lyhyeksi jäänyt poltto.
+
+Jupiterin ohilento
+
+Yksityiskohta Jupiterin kaasukehästä Voyager 1:n kuvaamana.
+Voyager 1 aloitti Jupiterin valokuvaamisen tammikuussa 1979. Se oli lähimpänä Jupiteria 5. maaliskuuta 1979, 349 000 kilometrin päässä planeetan keskipisteestä.
+
+Lähietäisyys mahdollisti suuremman havaintotarkkuuden. Suurin osa kuita, rengasjärjestelmiä, magneettikenttiä ja säteilyä koskevista havainnoista tehtiinkin ohilentoa edeltävänä ja seuraavana vuorokautena. Planeetan valokuvaus päättyi huhtikuussa.
+
+Kumpikin Voyager-luotain teki tärkeitä uusia havaintoja Jupiterista ja sen kiertolaisista. Yllättävin niistä oli Io-kuun tuliperäinen toiminta, mitä ei ollut aikaisemmin havaittu Maasta tai Pioneer 10 ja Pioneer 11 -luotaimien ohilennoilla.
+
+Saturnuksen ohilento
+Jupiterin painovoiman aiheuttama linkovaikutus toimi suunnitellusti ja luotain suuntasi Saturnukseen, minkä ohilento tapahtui 12. marraskuuta 1980 124 000 kilometrin etäisyydellä planeetan pilvikerrostuman yläosasta. Luotain havaitsi Saturnuksen renkaiden monimutkaisen rakenteen ja tutki Saturnuksen ja sen Titan-kuun kaasukehää. Koska Titanilla havaittiin paksu kaasukehä, päätti Voyagerin lennonjohto Jet Propulsion Laboratoryssa ohjata luotaimen Titanin läheltä tapahtuvalle ohilennolle ja keskeyttää ”suuren planetaarisen kiertomatkan”. (Suuren planetaarisen kiertomatkan jatkamisesta katso Uranuksen ja Neptunuksen osioita Suuren kiertomatkan suorittaneen Voyager 2 -luotaimen artikkelissa)
+
+Titanin ohilennon aiheuttama painovoiman lisälinkovaikutus vei Voyager 1:n planeettojen ratatason ulkopuolelle, mikä päätti sen planeettojentutkimusvaiheen. On arvioitu että kummallakin Voyager-luotaimella olisi riittävästi virtaa ainakin joidenkin mittalaitteiden käyttämiseksi vuoteen 2020 asti.
+
+Heliopaussi
+
+Voyager 1 heliovaipassa.
+Katso myös: heliosfääri
+Voyager 1:n suunnatessa tähtienväliseen avaruuteen sen mittalaitteet jatkavat Aurinkokunnan tarkkailua; JPL:n tiedemiehet käyttävät plasma-aaltotutkimuslaitteita Voyager 1 ja Voyager 2 -luotaimissa tutkiakseen heliopaussia.
+
+Voyager 1:n aurinkotuuli-ilmaisin lopetti toimintansa vuonna 1990, eikä sen tarkkaa asemaa suhteessa heliosfääriin tiedetä. Kuitenkin toukokuussa 2005 NASA ilmoitti lehdistötiedotteessaan, että tutkijat olivat saavuttaneet konsensuksen siitä, että Voyager 1 oli nyt heliovaipassa[4].
+
+Kuljettu matka
+15. elokuuta 2006 luotain saavutti 100 AU:n (n. 15 miljardin kilometrin) etäisyyden Maasta, mikä tekee siitä kaikkein kauimpana Maasta olevan ihmisen tekemän laitteen. Voyager 1:n laskettiin 21.10.2009 olevan 16,67 miljardin kilometrin etäisyydellä Maasta.[5] Voyager 1 loittonee Aurinkokunnasta noin 3,6 AU:ta vuodessa (noin 17,2 km/s), eli nopeammin kuin Voyager 2. Voyager 1 ei suuntaa mitään tiettyä tähteä kohti, mutta vaikka luotain suuntaisi kohti lähintä tähteä, Alfa Centauria, matkaan kuluisi noin 80 000 vuotta. NASAn Voyager-sivuston etusivulla on reaaliaikainen etäisyyslaskin Voyager-luotainpariin.
+
+12. syyskuuta 2013 NASA ilmoitti 36-vuotiaan Voyager 1:n matkanneen jo 19 miljardin kilometrin etäisyydelle Auringosta ja päässeen siten tähtienväliseen avaruuteen asti eli ulos Aurinkokunnastamme. Mittausaineiston perusteella tutkimusryhmä katsoi Aurinkokunnasta poistumisen tapahtuneen 25. elokuuta 2012.[6][7][8] Kyseessä on tutkijoiden mukaan suurin ihmiskunnan saavutus avaruudessa sitten Kuuhun laskeutumisen. Asia varmistui, kun luotain lähetti uudenlaista dataa, josta voitiin päätellä luotaimen siirtyneen ulos Aurinkokunnasta.

@@ -1,0 +1,82 @@
+Titan (kuu)
+
+Löytäminen
+Löytäjät	Christiaan Huygens
+Löytöaika	25. maaliskuuta 1655
+Kiertoradan ominaisuudet
+Planeetta	Saturnus
+Keskietäisyys	1 221 931 km
+Eksentrisyys	0,028880
+Kiertoaika	15,94542 d
+Inklinaatio	0,34854°
+Fyysiset ominaisuudet
+Päiväntasaajan halkaisija	5 150 km
+Pinta-ala	83 000 000 km2
+Massa	1,345×1023 kg
+0,025 Maan massaa
+Keskitiheys	1,88 g/cm3
+Painovoima pinnalla	1,35 m/s2
+Pakonopeus pinnalla	2,639 km/s
+Pyörähdysaika	15,94542 d
+Akselin kaltevuus	0°
+Albedo	0,21
+Pinnan lämpötila	alin: K
+keski: 94 K
+ylin: K
+Kaasukehän ominaisuudet
+Kaasunpaine	160 kPa
+Koostumus
+typpi
+metaani	95 %
+5 %
+Titan on Saturnuksen suurin kuu.[1] Sen löysi hollantilainen Christiaan Huygens 25. maaliskuuta 1655.[2] Titan on halkaisijaltaan suurempi kuin Merkurius-planeetta, mutta massaltaan huomattavasti Merkuriusta pienempi. Titan on aurinkokunnan toiseksi suurin kuu Ganymedeksen jälkeen.
+
+Titanissa on niin kylmä että muun muassa vesi on siellä pinnalla jäänä ja yksi "peruskallion" rakennusaine, ja veden sijaan järvissä lainehtii metaani.[3] Titan on aurinkokunnan ainoa kuu, jolla on tiheä kaasukehä. Kaasukehä koostuu lähinnä typestä, metaanista ja etaanista, ja siinä oleva utu peittää kuun piirteet näkyvässä valossa alleen. Kaasukehä läpäisee silti tutka-aaltoja ja infrapunaa. Kaasukehä tekee mahdolliseksi sen, että Titanin pinnalla on joitain hiilivetyjärviä. Muuten Titanin pinnalla on vulkaanisia muodostumia, repeämälaaksoja, tuulen muokkaamia dyynejä ja viirumaisia muodostumia ja muutama kraatterikin.
+
+Titan-kuu kiinnostaa tutkijoita erityisesti, koska sen uskotaan jossain määrin muistuttavan alkuaikojen Maata. Jopa elämän esiintymistä pidetään mahdollisena runsaan hiilivetyaineksen pohjalta. Sitä on tutkittu muun muassa Hubble-avaruusteleskoopilla ja Cassini-Huygens-luotainparilla.
+
+Titanin geologia
+
+Poikkileikkaus Titanin ilmakehästä ja ytimestä.
+Titan on melko tasainen, korkeusvaihtelu lienee korkeintaan kilometrin-parin luokkaa. Titanin pinta tunnetaan kokonaisuudessaan hyvin epätarkasti maasta otetuista kuvista ja Cassini-luotaimen ottamista kaukokuvista. Cassinin tutkan keila on niin kapea, että yhdellä ohituksella ei pystytä kartoittamaan suuria alueita kerrallaan. Kuun pintaa peittää vesijään ja hiilivetyjään seos. Jäätä on kivinä. Jään seassa on hiekan tai saven karkeuksista mineraaliainesta. Pinnan lämpötila on Huygens-luotaimen mittausten perusteella arvioitu 93,8 kelvinin (noin −180 °C) lämpöiseksi. Titanin kuori koostuu jäästä, jonka alla arvioidaan olevan noin kymmenien kilometrien paksuinen sula kerros. Se on syntynyt Saturnuksen vuorovesivoimien aiheuttamasta kitkakuumennuksesta. Sieltä purkautuu "jäätulivuorissa" luultavasti ajoittain nestemäistä "laavaa" joka on veden ja ammoniakin seos. Laava syntyy radioaktiivisen hajoamisen aiheuttaman lämmitysvaikutuksen takia niin kuin Maassakin. Jäätulivuorten purkama laava lienee jäätä tiheämpää, ja vaatii ylimääräisen voimanlähteen, joka saattaa olla vuorovesi-ilmiö. Saturnuksen aiheuttamat vuorovesivoimat ovat Titanin pinnalla 400 kertaa suurempia kuin Kuun aiheuttamat Maassa.
+
+Ennen Cassini-luotaimen tutkimuksia arveltiin, että merkittävimmät Titanin pinnan piirteet olisivat törmäyskraattereita ja vastaavia muodostumia, niin kuin Maan Kuussa. Mutta Titanista löytyikin yllättäen enemmän Maan geologisia ja pinnanmuotoja muistuttavia piirteitä.
+
+Titanista otetuissa kuvissa näkyy vain muutama meteoriittikraatteri, koska pinta uusiutuu niin nopeasti.
+
+Titanin pinnasta otetuissa infrapunakuvissa erottuu tummia tasankoja ja vaaleita vulkaanisia alueita, joista tunnetuin on Xanadu. Xanadussa on monenlaista maastoa, muun muassa halkeamia. Vaaleiden alueiden oletetaan olevan hieman tummempia alueita ylempänä. Päiväntasaajalla olevat laajat tummat alueet tulkittiin ennen meriksi, mutta nykytiedon mukaan ne ovat hiilivetyhiekasta ja -pölystä syntyneitä dyynikenttiä. Päiväntasaajan suurta, tummaa kuivaa aluetta kutsutaan nimellä Shangri-La.
+
+Pinnalta erottuu Venuksen tuliperäisiä "pannukakkuja" muistuttavia vaaleita, pyöreitä kupoleita. On myös löydetty vaalea, ehkä metaanilumen peittämä vuoristo, joka on luultavasti syntynyt kahden "mannerlaatan" puristuessa toistaan vasten. Erään näkemyksen mukaan Titanin vuoret syntyivät, kun se kutistui.[4]
+
+
+Titanista otettuja infrapunakuvia.
+Erityyppisten alueiden rajalla, rantaviivalla, leviää paikoin joenuomia ja suistoja muistuttavia maastonpiirteitä. Lisäksi pinnalla on tummia lyhyitä kanavanpätkiä, joiden muodostumista metaanilähteistä pidetään todennäköisempänä alkuperänä kuin metaanisateita. Vaaleat harjanteet ovat ehkä pinnan läpi purkautunutta vesijäätä.
+
+Titanin hiilivetyjärvet ovat lähempänä napaseutuja. Cassini-luotain havaitsi Titanin pinnalla useita metaanijärviä, joista yksi on nimetty Suomessa sijaitsevan Koitere-järven mukaan.[5] Järvi on noin 70 kilometriä pitkä. Titanin metaanijärvien on huomattu painottuvan voimakkaasti pohjois- ja etelänapojen läheisyyteen, jättäen päiväntasaajan melko kuivaksi alueeksi, näistä pohjoisnavalla on enemmän järviä kuin etelänavalla. Suurin kuulta löydetty metaanijärvi on Suomen pinta-alaa suurempi.[3] Titanin suurin järvi saattaa olla osin tutkalla kartoitettu Krakenin meri.
+
+Titanin kaasukehä
+
+Titanin kaasukehä Cassini-luotaimesta kuvattuna.
+Titanin kaasukehän löysi Gerard Kuiper vuonna 1944. Kaasukehä koostuu typestä, metaanista ja vähäisessä määrin joistakin muista aineista kuten etaanista.
+
+Titanin kaasukehässä on typpeä 98,4 %, 1,6 % metaania ja jälkiä muista yksinkertaisista hiilivedystä. Etaani ja asetyleeni tekevät kaasukehästä utuisen ja kellertävän.[6] Paine Titanin typpi-metaanikehässä on pinnalla noin 1,5 bar, missä lämpötila on 94 K eli −179 °C. Pohjoisnavan yllä on noin 40 kilometrin korkeudessa luultavasti metaani- tai etaanikiteistä koostuvia pilviä pienellä alueella, Titanin troposfäärin ylärajalla. Metaanijääpilviä lienee alempana, yli 15 kilometrin korkeudessa, 10 % Titanin pinnasta peittyy noin 20 kilometrin korkeudessa oleviin pilviin.
+
+Alle 160 kilometrin korkeudessa stratosfäärissä typpeä ja metaania on kumpaakin yhtä paljon. Troposfäärissä metaanin määrä kasvaa tasaisesti alaspäin mennessä. Kahdenkymmenen kilometrin korkeudella on metaanipilviä ja pinnan tuntumassa leijuu metaanin lisäksi myös etaanisumua. Kaasukehän metaani on peräisin tulivuorista.
+
+Titanin stratosfääri on 45–280 kilometrin korkeudessa, jossa lämpötila nousee noin 80 kelvinistä 180 kelviniin. Siellä on etaani-asetyleeniutua. Hyvin ohuessa mesosfäärissä noin 180–600 kilometrin korkeudessa lämpötila taas laskee.[7][6] Noin 30–55 kilometrin korkeudessa lämpötila on tasainen. Yli 60 kilometrin korkeudessa lämpötila alkaa kasvaa. Paine on siellä noin 0,05 bar. 20 kilometrin korkeudessa on 0,5 bar.
+
+Titanin kaasukehää lämmittävän kasvihuoneilmiön vaikutuksen lasketaan olevan noin 12 °C,[8] mikä on pienempi kuin Venuksessa (noin 96 % hiilidioksidia) ja Maassa (vesihöyryä noin 1,25 % ja hiilidioksidia noin 0,04 %), mutta suurempi kuin Marsissa (noin 95 % hiilidioksidia). Sitä aiheuttaa muun muassa metaani (noin 1,4 %) ja vety (noin 0,1 - 0,2 %). Kasvihuoneilmiö saadaan laskemalla lämpötila albedon 0,21 perusteella ja vertaamalla sitä havaittuun lämpötilaan. Poikkeaman aiheuttaa Titanin monimutkainen anti-kasvihuoneilmiö.[9][10]'
+
+Ilmasto
+Titanin ilmastoa on yritetty ennustaa monia kertoja, mutta aikaisemmat yritykset eivät ole olleet kovin menestyksekkäitä. Vuonna 2011 tutkijat onnistuivat kuitenkin luomaan melko tarkan mallinnuksen Titanin kaasukehästä. Tutkimuksessa havaittiin, että Titanin pinnalla olevista metaanijärvistä suurin osa sijaitsee kuun napa-alueilla, ja sen arvioidaan johtuvan napa-alueiden keskivertoa vähäisemmästä auringon valon määrästä. Toinen merkittävä tekijä järvien sijainnille napa-alueilla on sateet. Titanin päiväntasaaja on melko kuivaa aluetta, ja suurin osa Titanin sateista esiintyykin juuri napojen läheisyydessä. Maan sateista poiketen Titanilla sataa metaania.
+
+Myös Titanin pilvet koostuvat metaanista. Vaikka pilvet suurilta osin muistuttavatkin maan pilviä, on niissä huomattavia eroja. Titanin pilvet ovat valtavia nähden kuun kokoon; yksi pilvi voi olla jopa yli 1000 kilometriä halkaisijaltaan, ja ne ovat todella korkeita, ylettäen jopa 40 kilometrin korkeuteen Titanin tropopaussiin asti. Vertauksena maan pilviin, maassa pilvet kohoavat korkeintaan 18 kilometrin korkeuteen. Jos Titanin pilviä katsoo alhaalta päin ne näyttävät kovin mustilta, koska ne eivät päästä paljoa valoa lävitseen. Jos pilviä katsoo sivusta, ne ovat melko kirkkaita, melko samanlaisia kuin maan pilvet, tosin ne omaavat oranssin sävyn johtuen titanin ilmakehän koostumuksesta. Vaikka pilvet ovat melko yleisiä napa-alueilla, peittävät ne melko pienen alueen kuun pinnasta. Titanin pilvet peittävät noin prosentin pinnasta, kun taas maan pilvet peittävät jopa 65 prosenttia. Pilvet ovat Titanissa paljon harvinaisempia alemmilla leveysasteilla.
+
+Kun napa-alueet nauttuivat runsaista sateista, saattaa päiväntasaajalla mennä vuosikausia ilman ainuttakaan sadepisaraa. Tämän seurauksena Titanin päiväntasaaja onkin äärimmäisen kuivaa aluetta. Tutkijoille tuli yllätyksenä kun vuonna 2005 laskeutunut Cassini luotain lähettikin kuvia kuivista joen uomista päiväntasaajalla. Tästä pääteltiin että päiväntasaajallakin on joskus ollut nestettä huomattavissa määrin, tosin kukaan ei ymmärtänyt miten se oli mahdollista. Kosteimmatkin mallit olivat onnistuneet tuomaan tälle alueelle vain pieniä tihkusateita. Myös 2011 tehdyt tutkimukset ovat osoittaneet päiväntasaajan kuivaksi alueeksi. Tutkijoiden arvioiden mukaan päiväntasaajan alueelle kertyy noin 15 vuoden välein paljon pilviä, jotka saattavat aiheuttaa "supersateen", joka saattaa olla riittävä kaivertamaan muodostumia Titanin pintaan.[3]
+
+Titanin tutkiminen
+Maanpäällisillä kaukoputkilla on nähty Titanin pinnan värivaihtelut. Luotaimet Voyager 1 ja Voyager 2 1970- ja 1980-luvulla tutkivat ohikulkumatkallaan Titanin kaasukehää.
+
+Cassini-Huygens-luotain saapui Saturnusta kiertävälle radalle heinäkuussa 2004. Cassini tutkii Saturnusta, sen renkaita ja kuita sekä erityisesti Titania muun muassa tutkalla. Huygens-luotain suunniteltiin yksinomaan Titanin tutkimiseen. Cassini lähetti sen kohti Titania 25. joulukuuta 2004. Luotain laskeutui onnistuneesti Titanin pinnalle 14. tammikuuta 2005. Huygens tutki pudotessaan muun muassa kaasukehän koostumusta. Se selvisi laskeutumisesta ja pystyi lähettämään takaisin tietoa Titanin pinnan olosuhteista.
+
+Kaasukehän tuulia pyrittiin havaitsemaan mittaamalla tarkasti Huygensin laskeutumista. Maapallon laajuinen radioteleskooppien havaintoverkko seurasi luotaimen lähettämää merkkisignaalia. Pitkäkantainterferometrialla yhdistetyistä suuntamittauksista luotaimen reitti onnistuttiin määrittämään kilometrin tarkkuudella.

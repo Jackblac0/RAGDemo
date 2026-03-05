@@ -1,0 +1,51 @@
+Voyager 2
+
+Alkuperäinen nimi	Mariner-12
+Voyager avaruusluotain
+Voyager avaruusluotain
+Organisaatio	Nasa
+COSPAR ID	1977-076A
+Tehtävätyyppi	Planeettatutkimus
+Ohilennot	Jupiter, Saturnus, Uranus, Neptunus
+Laukaisu	20. elokuuta 1977
+Cape Canaveral AFS LC-41
+Laukaisualus	Titan III E Centaur
+Massa	722 kg
+Teho	470 W 30 V DC (1977)
+Aiheesta muualla
+Virallinen sivusto
+
+Voyager 2
+
+Voyagerin kaaviokuva.
+Voyager 2 on Voyager-avaruusohjelman avaruusluotain, joka laukaistiin vuonna 1977. Alun perin luotaimen piti olla Mariner-avaruusohjelman Mariner 12. Voyager 2 on identtinen Voyager 1 -luotaimen (eli "Mariner 11") kanssa. Voyager 2 seurasi kuitenkin hieman erilaista rataa ohittaessaan Saturnuksen, eikä tehnyt Titanin ohilentoa kuten Voyager 1, vaan käytti hyväkseen Saturnuksen painovoiman linkovaikutusta matkatakseen Uranukselle ja Neptunukselle. Siitä tuli ensimmäinen ja tähän asti ainoa avaruusluotain, joka on vieraillut noiden planeettojen läheisyydessä, ja ensimmäinen avaruusluotain, joka on tehnyt "Suuren planetaarisen kiertomatkan" (Planetary Grand Tour) vieraillessaan Jupiterin, Saturnuksen, Uranuksen ja Neptunuksen luona. Tämän mahdollisti noiden neljän planeetan harvinainen keskinäinen asema, joka toistuu vain joka 175. vuosi[1].
+
+Voyager 2:n lento
+
+Voyager 2:n laukaisu.
+Laukaisu
+20. elokuuta, 1977 – laukaisu Cape Canaveral Air Force Stationin laukaisukompleksi 41:stä, Floridasta Titan IIIE Centaur kantoraketilla.
+Jupiter
+9. heinäkuuta, 1979 – Jupiterin ohilento.
+Saturnus
+25. elokuuta, 1981 – Saturnuksen ohilento.
+
+Saturnus Voyager 2:n kuvaamana.
+Ollessaan Saturnuksen takana (Maasta katsottuna) Voyager 2 suoritti tutkamittauksia Saturnuksen ulommasta kaasukehästä selvittääkseen sen lämpötilan ja tiheyden vaihteluita. Voyager 2 havaitsi, että kaasukehän yläosissa (70 millibaaria) Saturnuksen lämpötila oli 70 kelviniä, kun taas mittauksien alimmilla tasoilla (1200 millibaaria) lämpötila nousi 143 kelviniin. Pohjoisnavan havaittiin olevan 10 kelviniä kylmempi, vaikka tämä saattaa olla kausivaihteluista johtuvaa.
+
+Uranus
+24. tammikuuta, 1986 – Uranuksen ohilento.
+Voyager 2 havaitsi 10 ennestään tuntematonta kuuta, tutki Uranuksen ainutlaatuista kaasukehää (Uranuksen akselin kaltevuus on 97,77 °) ja sen rengasjärjestelmää.
+
+Neptunus
+26. elokuuta, 1989 – Neptunuksen ohilento.
+
+Neptunus Voyager 2:n kuvaamana.
+Koska Neptunus oli viimeinen planeetoista joilla Voyager 2 voisi vierailla, niin päätettiin tehdä Triton-kuun ohilento läheltä välittämättä sen vaikutuksesta luotaimen radan muuttumiseen, samoin kuin Voyager 1 teki tutkiessaan Saturnusta ja sen kuuta Titania.
+
+Luotain havaitsi myös Suuren tumman pilkun ("Great Dark Spot") Neptunuksen eteläisellä pallonpuoliskolla, mikä muistutti Jupiterin vastaavaa ulkonäöltään ja kooltaan. Pilkku näytti muuttuvan luotaimen ohittaessa sen. Pilkun ei ajatella olevan myrsky kuten Jupiterissa, vaan reikä Neptunuksen kaasukehässä aivan kuten maapallolla on reikä otsonikehässä. Hubble-avaruusteleskooppi kuvasi vuonna 1994 Neptunusta, eikä kuvissa nähty enää pilkkua, vaikka samankaltainen pilkku oli ilmestynyt planeetan pohjoiselle pallonpuoliskolle.
+
+Aurinkokunnasta poistuminen
+Koska luotaimen planeettatutkimusvaihe on ohi, se pyrkii nyt hankkimaan Nasaa kiinnostavaa tietoa siitä, missä Aurinkokunta loppuu (katso heliosfääri) ja millaiset olosuhteet vallitsevat Aurinkokunnan ulkopuolisessa tähtienvälisessä avaruudessa.
+
+30.12.2005 luotain oli noin 78,4 AU:n päässä maasta ja loittonee aurinkokunnasta noin 3,3 AU:a vuodessa (noin 15,6 km/s). Luotain on jo lähes poistunut aurinkokunnasta. Voyager 2:n oletetaan jatkavan tietojen lähettämistä aina 2020-luvulle [2].
