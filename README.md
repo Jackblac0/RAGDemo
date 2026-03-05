@@ -1,2 +1,0 @@
-# RAGDemo
-My Text Files
